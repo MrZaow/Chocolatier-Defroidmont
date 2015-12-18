@@ -33,14 +33,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><img src="logo_chocolatier.png" alt="logo"></a>
+                <a class="navbar-brand hidden-sm" href="index.php"><img src="images/logo_chocolatier.png" alt="logo"></a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
 
                     <li><a href="index.php">Accueil</a></li>
                     <li><a href="pages/produits.php">Produits</a></li>
-                    <li><a href="pages/noustrouver.php">Où nous trouver</a></li>
+                    <li><a href="pages/boutiques.php">Nos boutiques</a></li>
                     <li><a href="#">Musée</a></li>
                     <li><a href="#">Équipe</a></li>
                     <li><a href="#">Blog</a></li>

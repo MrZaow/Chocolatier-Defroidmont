@@ -11,12 +11,6 @@
                     <h1>Produits</h1>
                     <p>Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
                 </div>
-                <div class="col-sm-6">
-                    <ul class="breadcrumb pull-right">
-                        <li><a href="index.html">Home</a></li>
-                        <li class="active">Portfolio</li>
-                    </ul>
-                </div>
             </div>
         </div>
     </section><!--/#title--> 
