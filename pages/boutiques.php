@@ -24,24 +24,31 @@
             </div>
             <div class="col-md-5">
                 <h3 class="center">La boutique d'Érezée</h3>
-                <img src="../images/magasin-durbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eum, tempora, 
-                    mollitia eveniet amet cupiditate quidem fugiat aliquam nihil voluptate officia 
-                    itaque minima excepturi iste, reprehenderit corrupti atque minus omnis.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum necessitatibus sequi 
-                    est quia voluptas tempore, velit, odio quaerat numquam aperiam nisi, ullam omnis 
-                    veniam harum nostrum labore nesciunt expedita laudantium!</p>
+                <img src="../images/magasin-erezee.jpg" alt="Magasin de Durbuy" class="img-responsive">
+                <br>
+                <p>
+                    Adresse : Briscol 19a, 6997 Érezée <br>
+                    Téléphone : 086 21 84 40 <br>
+                    Ouverture : du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30
+                </p>
+                <p>
+                    Notre boutique à Briscol-Erezée vous propose une 
+                    large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc.
+                </p>
             </div>
             <div class="col-md-2"></div>
             <div class="col-md-5">
                 <h3 class="center">La boutique de Durbuy</h3>
                 <img src="../images/magasin-durbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eum, tempora, 
-                    mollitia eveniet amet cupiditate quidem fugiat aliquam nihil voluptate officia 
-                    itaque minima excepturi iste, reprehenderit corrupti atque minus omnis.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum necessitatibus sequi 
-                    est quia voluptas tempore, velit, odio quaerat numquam aperiam nisi, ullam omnis 
-                    veniam harum nostrum labore nesciunt expedita laudantium!</p>
+                <br>
+                <p>
+                    Adresse : rue Alphonse Eloy 7, 6940 Durbuy  <br>
+                    Téléphone : 086 38 70 74 <br>
+                    Ouverture : tous les jours de 10h à 18h sauf mardi et mercredi
+                </p>
+                <p>
+                    Notre boutique à Durbuy vous propose une large gamme de chocolats.
+                </p>
             </div>
         </div>
         <hr>

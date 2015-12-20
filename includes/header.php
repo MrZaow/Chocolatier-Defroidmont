@@ -22,7 +22,7 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
-            <li><a href="#" style="pointer-events: none; cursor: default; "><strong> Téléphone : <i class="icon-phone"></i> 086/21.84.40</strong></a></li>
+            <li><a href="#" style="pointer-events: none; cursor: default; "><strong> Téléphone : <i class="icon-phone"></i> 086 21 84 40</strong></a></li>
           </ul>
 
         </div>

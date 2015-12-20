@@ -48,7 +48,7 @@
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">
-                <li><a href="#" style="pointer-events: none; cursor: default; "><strong> Téléphone : <i class="icon-phone"></i> 086/21.84.40</strong></a></li>
+                <li><a href="#" style="pointer-events: none; cursor: default; "><strong> Téléphone : <i class="icon-phone"></i> 086 21 84 40</strong></a></li>
               </ul>
 
             </div>
@@ -157,8 +157,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3>Nos dernières réalisations</h3>
-                    <p>Images de nos réalisations artisanales récentes</p>
+                    <h3>Nos délicieux chocolats</h3>
+                    <p>Images des chocolats que nous produisons dans notre chocolaterie à Érezée</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
                         <a class="btn btn-danger" href="#scroller" data-slide="next"><i class="icon-angle-right"></i></a>
@@ -267,28 +267,39 @@
                 <div class="col-lg-12">
                     <div class="center">
                         <h2>Ce que nos clients pensent de nous</h2>
-                        <p>La satisfaction de nos clients est notre priorité.</p>
+                        <p>La satisfaction de nos clients est notre priorité</p>
                     </div>
                     <div class="gap"></div>
                     <div class="row">
                         <div class="col-md-6">
                             <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                                <p>
+                                    Les pralines sont extras! Philippe Defroidmont est sans cesse à la recherche de nouvelles
+                                    sensations pour éveiller les papilles gustatives de ses clients...
+                                    La boutique est sympathique avec de bons produits de bouche, idéal pour vos cadeaux quelconques.
+                                </p>
+                                <small>Emeline Quirynen de <cite title="Source Title">Google Maps</cite></small>
                             </blockquote>
                             <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                                <p>
+                                    Visite bien sympathique. Un petit retour dans l'histoire de cette famille qui visiblement aime son chocolat. 
+                                    Un réel plaisir de dégustation si on l'aime, le chocolat
+                                </p>
+                                <small>Virginie Danny de <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                         </div>
                         <div class="col-md-6">
                             <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                                <p>
+                                    C'est toujours un plaisir de terminer une ballade par un tour dans cette chocolaterie pour une dégustation sur la terrasse.
+                                    Mais les pralines achetées sont trop vite mangées et il faudrait déjà y retourner :)
+                                </p>
+                                <small>Lucie V de <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                             <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                                <p>Super musée, très didactique, bien fait. Très intéressant de voir à l'oeuvre dans l'atelier.
+                                 Dégustations agréables! petite boutique avec souvenirs gourmands à rapporter, divin!</p>
+                                <small>Natalie F de <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                         </div>
                     </div>
@@ -300,64 +311,33 @@
     <section id="bottom" class="wet-asphalt">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-3 col-sm-3">
                     <h4>A propos de nous</h4>
-                    <p>Situé à l’entrée du stade de Bielmont, à 2 minutes en voiture du Palais de Justice et du grand hôpital (CHPLT), desservi par les bus 294, 295, 390, 393, 395, 705 et 708, le centre vétérinaire vous accueille du lundi matin au samedi après-midi. </p>
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <h4>Vétérinaire Abyssin</h4>
+                    <p>
+                    Située dans le petit village de Briscol, la chocolaterie Defroidmont fabrique de nombreuses gourmandises 
+                    de toutes sortes. Ouverte du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30
+                </p>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <h4>Chocolaterie Defroidmont</h4>
                     <div>
                         <ul class="arrow">
                             <li><a href="#">Accueil</a></li>
-                            <li><a href="#">Équipe</a></li>
-                            <li><a href="#">Visite guidée</a></li>
-                            <li><a href="#">Articles</a></li>
-                            <li><a href="#">Vos animaux</a></li>
-                            <li><a href="#">Infos pratiques</a></li>
+                            <li><a href="pages/produits.php">Produits</a></li>
+                            <li><a href="pages/boutiques.php">Nos boutiques</a></li>
+                            <li><a href="pages/musee.php">Musée</a></li>
+                            <li><a href="pages/equipe.php">Équipe</a></li>
+                            <li><a href="pages/blog.php">Blog</a></li>
+                            <li><a href="pages/infos.php">Infos pratiques</a></li>
                         </ul>
                     </div>
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <h4>Articles récents</h4>
-                    <div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb1.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 17 Aug 2013</small>
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb2.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 13 Sep 2013</small>
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb3.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 11 Jul 2013</small>
-                            </div>
-                        </div>
-                    </div>  
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
+                </div>
+                <div class="col-md-3 col-sm-3">
                     <h4>Adresse</h4>
                     <address>
-                        <p>Centre Vétérinaire Abyssin</p>
-                        <p>Place d'Arles 4, 4800 Verviers, Belgique</p>
-                        <p>087 23 00 23</p>
+                        <p>Chocolaterie Defroidmont</p>
+                        <p>Briscol 19a, 6997 Érezée</p>
+                        <p>086 21 84 40</p>
                     </address>
                 </div> <!--/.col-md-3-->
             </div>
