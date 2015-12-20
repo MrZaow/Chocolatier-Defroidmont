@@ -15,10 +15,10 @@
                 <li><a href="../index.php">Accueil</a></li>
                 <li><a href="../pages/produits.php">Produits</a></li>
                 <li><a href="../pages/boutiques.php">Nos boutiques</a></li>
-                <li><a href="#">Musée</a></li>
-                <li><a href="#">Équipe</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Infos pratiques</a></li>
+                <li><a href="../pages/musee.php">Musée</a></li>
+                <li><a href="../pages/equipe.php">Équipe</a></li>
+                <li><a href="../blog">Blog</a></li>
+                <li><a href="../pages/infos.php">Infos pratiques</a></li>
             </ul>
 
             <ul class="nav navbar-nav navbar-right">

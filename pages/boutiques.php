@@ -9,7 +9,6 @@
             <div class="row">
                 <div class="col-sm-6">
                     <h1>Nos boutiques</h1>
-                    <p>Toutes les informations dont vous avez besoin pour nous trouver</p>
                 </div>
             </div>
         </div>
