@@ -38,7 +38,7 @@
                 </ul>
             </div>
             <div class="col-md-6">
-                <img src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <img src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
             </div>
         </div>
     </section>

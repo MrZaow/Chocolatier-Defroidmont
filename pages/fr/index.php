@@ -122,8 +122,8 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="pages/ballotins.php">
-                                                    <img id="produit" class="img-responsive" src="../../images/portfolio/recent/item1.png" alt="Ballotins">
+                                                <a href="../../pages/fr/ballotins.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/ballotins.jpg" alt="Ballotins">
                                                 </a>
                                                 <h5>
                                                     Ballotins
@@ -134,26 +134,20 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item3.png" alt="">
+                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
                                                 <h5>
                                                     Blocs
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>                            
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item2.png" alt="">
+                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
                                                 <h5>
                                                     Tablettes brisées
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -164,39 +158,30 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item2.png" alt="">
+                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
                                                 <h5>
                                                     Tablettes d'origine
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item1.png" alt="">
+                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
                                                 <h5>
                                                     Bâtons fourrés
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>                            
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item3.png" alt="">
+                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
                                                 <h5>
                                                     Pâtes à tartiner
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
