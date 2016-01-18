@@ -32,6 +32,14 @@ body {
   background: #f5f5f5;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
+  font-size: medium;
+}
+li{
+  font-weight: bold;
+}
+#produit:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 h1,
 h2,
@@ -245,7 +253,7 @@ body > section {
   background-color: #f1c40f;
 }
 .orange {
-  background-color: #5A361F;
+  background-color: #883B27;
 }
 .emerald {
   background-color: #F47834;
@@ -284,7 +292,7 @@ body > section {
   background-color: #bdc3c7;
 }
 .wet-asphalt {
-  background-color: #34495e;
+  background-color: #703725;
 }
 .wet-asphalt a:not(.btn) {
   color: #bdc3c7;

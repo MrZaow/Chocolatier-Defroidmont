@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include("../includes/head.php") ?>
+<?php include("./../includes/head.php") ?>
 <body>
-    <?php include("../includes/header.php") ?>
+    <?php include("./../includes/header.php") ?>
 
     <section id="title" class="orange">
         <div class="container">
@@ -19,7 +19,7 @@
             <div class="col-md-4">
                 <h2>Contact</h2>
                 <p><strong>Téléphone</strong> : 086 21 84 40</p>
-                <p><strong>Adresse mail</strong> : contact@chocolatier-defroidmont.be</p>
+                <p><strong>Adresse mail</strong> :<a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> </p>
                 <h2>Accessibilité</h2>
                 <p>
                     2 places de parking pour les personnes à mobilité reduite <br>
@@ -36,10 +36,10 @@
         </div>
     </section>
 
-    <?php include("../includes/bottom.php") ?>
+    <?php include("./../includes/bottom.php") ?>
 
-    <?php include("../includes/footer.php") ?>
+    <?php include("./../includes/footer.php") ?>
 
-    <?php include("../includes/script.php") ?>
+    <?php include("./../includes/script.php") ?>
 </body>
 </html>
