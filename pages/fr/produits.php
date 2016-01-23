@@ -24,25 +24,32 @@
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Blocs</h3></a>
+                <a href="#"><h3>Blocs natures</h3></a>
                 <a href="#">
                     <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Tablettes brisées</h3></a>
+                <a href="#"><h3>Blocs fruits</h3></a>
                 <a href="#">
                     <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#"><h3>Tablettes brisure</h3></a>
+                <a href="#">
+                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                </a>
+            </div>
+            
+        </div>
+        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <a href="#"><h3>Tablettes d'origine</h3></a>
                 <a href="#">
                     <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
-        </div>
-        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <a href="#"><h3>Bâtons fourrés</h3></a>
                 <a href="#">

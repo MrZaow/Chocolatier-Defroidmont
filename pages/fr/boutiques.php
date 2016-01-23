@@ -17,7 +17,7 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Nos boutiques d'Érezée et de Durbuy sont prêtes à vous accueilir</h2>
+                <h2>Nos boutiques d'Érezée et Durbuy vous accueillent avec plaisir</h2>
                 <p>
                     Notre boutique à Briscol-Erezée vous propose une large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc. Notre boutique à Durbuy vous propose une large gamme de chocolats.
                 </p>
@@ -72,6 +72,12 @@
                     Lundi-samedi : 9h00-18h30 <br>
                     Fermé dimanche
                 </p>
+                <p><strong>DELICES FERMIERS</strong> <br>
+                    Place de l'Eglise, 6 <br>
+                    5377 NETTINNE <br>
+                    Tél : 083/68.80.83 <br> 
+                    Jeudi et vendredi de 14h30 à 20h et le week-end de 10h à 20h
+                </p>
                 <h3>Limbourg</h3>
                 <p><strong>MOKKA MIN</strong> <br>
                     Stapelstraat 76 <br>
@@ -102,7 +108,7 @@
                     Le dimanche de 7h00 à 14h00 <br>
                     Fermé le jeudi
                 </p>
-                <p><strong>LE COP</strong> <br>
+                <p><strong>LA COP</strong> <br>
                     Place de Chablis 14a <br>
                     B 4190 FERRIERES <br>
                     Tél : 086/84.01.57
