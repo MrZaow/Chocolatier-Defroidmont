@@ -14,11 +14,10 @@
                         <ul class="arrow">
                             <li><a href="../../pages/fr/index.php">Accueil</a></li>
                             <li><a href="../../pages/fr/produits.php">Produits</a></li>
+                            <li><a href="../../pages/fr/commander.php">Commander</a></li>
                             <li><a href="../../pages/fr/boutiques.php">Nos boutiques</a></li>
                             <li><a href="../../pages/fr/musee.php">Musée</a></li>
-                            <li><a href="../../pages/fr/equipe.php">Équipe</a></li>
-                            <li><a href="../../pages/fr/blog.php">Blog</a></li>
-                            <li><a href="../../pages/fr/infos.php">Infos pratiques</a></li>
+                            <li><a href="../../pages/fr/infos.php">Infos</a></li>
                         </ul>
                     </div>
                 </div>

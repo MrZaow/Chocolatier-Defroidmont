@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand hidden-sm" href="../../pages/en/index.php"><img src="../../images/test3.png" alt="logo"></a>
+            <a class="navbar-brand hidden-sm" href="../../pages/en/index.php"><img src="../../images/logo31.png" alt="logo"></a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">

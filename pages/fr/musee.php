@@ -19,13 +19,23 @@
             <div class="center">
                 <h2>Osez découvrir notre musée du chocolat</h2>
                 <p>
-                    L'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier. La fève de cacao, selon son origine, libère des arômes aussi subtils que particuliers qui ne manqueront pas de surprendre vos papilles gustatives.
+                    L'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier.
+                     La fève de cacao, selon son origine, libère des arômes aussi subtils que particuliers qui ne manqueront
+                      pas de surprendre vos papilles gustatives.
                 </p>
+                <p>C’est en parcourant le musée, que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, de la 
+                    Papouasie-Nouvelle Guinée, pays d’origine de nos fèves de cacao pour revenir
+                 en Belgique dans notre atelier où vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
             </div>
             <div class="col-md-12">
-                <img src="../../images/musee-001.jpg" alt="Musée du chocolat" class="img-responsive">
-                <br>
-                <p>C’est en parcourant le musée, que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, de la Papouasie-Nouvelle Guinée, pays d’origine de nos fèves de cacao pour revenir en Belgique dans notre atelier où vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
+                <div class="col-md-6">
+                    <img src="../../images/musee1.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                    <img src="../../images/musee2.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                </div>
+                <div class="col-md-6">
+                    <img src="../../images/musee4.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                    <img src="../../images/musee5.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                </div>
             </div>
         </div>
         <hr>

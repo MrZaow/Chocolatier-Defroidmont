@@ -18,52 +18,52 @@
     <section id="portfolio" class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
-                <a href="ballotins.php"><h3>Ballotins</h3></a>
+                <h3>Ballotins</h3>
                 <a href="ballotins.php">
                     <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Blocs natures</h3></a>
+                <h3>Blocs natures</h3>
                 <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                    <img id="produit" src="../../images/bloc1.jpg" alt="Bloc nature" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Blocs fruits</h3></a>
+                <h3>Blocs fruits</h3>
                 <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                    <img id="produit" src="../../images/bloc2.jpg" alt="Bloc fruit" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Tablettes brisure</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Tablettes brisure</h3>
+                <a href="tablettesbrisure.php">
+                    <img id="produit" src="../../images/ballotins.jpg" alt="Tablette brisure" class="img-responsive">
                 </a>
             </div>
             
         </div>
         <div class="row">
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Tablettes d'origine</h3></a>
+                <h3>Tablettes d'origine</h3>
+                <a href="tablettesorigine.php">
+                    <img id="produit" src="../../images/taborigine1.jpg" alt="Tablette d'origine" class="img-responsive">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <h3>Bâtons fourrés</h3>
+                <a href="batonsfourres.php">
+                    <img id="produit" src="../../images/baton1.jpg" alt="Baton fourré" class="img-responsive">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <h3>Pâtes à tartiner</h3>
                 <a href="#">
                     <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Bâtons fourrés</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Pâtes à tartiner</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Thés</h3></a>
+                <h3>Thés</h3>
                 <a href="#">
                     <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>

@@ -28,8 +28,8 @@
 }
 body {
   padding-top: 80px;
-  color: #34495e;
-  background: #f5f5f5;
+  color: #fff;
+  background: #492a21;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: medium;
@@ -253,7 +253,7 @@ body > section {
   background-color: #f1c40f;
 }
 .orange {
-  background-color: #883B27;
+  background-color: #612514;
 }
 .emerald {
   background-color: #F47834;
@@ -292,7 +292,7 @@ body > section {
   background-color: #bdc3c7;
 }
 .wet-asphalt {
-  background-color: #703725;
+  background-color: #612514;
 }
 .wet-asphalt a:not(.btn) {
   color: #bdc3c7;
