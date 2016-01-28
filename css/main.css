@@ -51,7 +51,7 @@ h6 {
   font-weight: 400;
 }
 a {
-  color: #f7180c;
+  color: #b72a03;
   -webkit-transition: 300ms;
   -moz-transition: 300ms;
   -o-transition: 300ms;
@@ -74,7 +74,7 @@ hr {
 }
 a:hover,
 a:focus {
-  color: #b72a03;
+  color: #f7180c;
   text-decoration: none;
   outline: none;
 }

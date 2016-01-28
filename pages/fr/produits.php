@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Produits</h1>
+                    <h1>Nos Produits</h1>
                     <p>Les meilleurs des délicieux produits issus de notre chocolaterie</p>
                 </div>
             </div>
@@ -64,8 +64,8 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <h3>Thés</h3>
-                <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                <a href="thes.php">
+                    <img id="produit" src="../../images/thechocolat.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
         </div>

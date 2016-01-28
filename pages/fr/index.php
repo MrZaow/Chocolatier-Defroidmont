@@ -106,7 +106,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3>Nos délicieux chocolats</h3>
+                    <h3>Nos délicieux produits</h3>
                     <p>Quelques un des chocolats que nous produisons dans notre chocolaterie à Érezée</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
@@ -134,23 +134,23 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
+                                                <img class="img-responsive" src="../../images/bloc1.jpg" alt="">
                                                 <h5>
-                                                    Blocs
-                                                </h5>
-                                            </div>
-                                        </div>
-                                    </div>                            
-                                    <div class="col-xs-4">
-                                        <div class="portfolio-item">
-                                            <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
-                                                <h5>
-                                                    Tablettes brisées
+                                                    Blocs nature
                                                 </h5>
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-xs-4">
+                                        <div class="portfolio-item">
+                                            <div class="item-inner">
+                                                <img class="img-responsive" src="../../images/bloc2.jpg" alt="">
+                                                <h5>
+                                                    Blocs fruit
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>    
                                 </div><!--/.row-->
                             </div><!--/.item-->
                             <div class="item">
@@ -160,6 +160,16 @@
                                             <div class="item-inner">
                                                 <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
                                                 <h5>
+                                                    Tablettes brisure
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-4">
+                                        <div class="portfolio-item">
+                                            <div class="item-inner">
+                                                <img class="img-responsive" src="../../images/taborigine1.jpg" alt="">
+                                                <h5>
                                                     Tablettes d'origine
                                                 </h5>
                                             </div>
@@ -168,13 +178,17 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
+                                                <img class="img-responsive" src="../../images/baton1.jpg" alt="">
                                                 <h5>
                                                     Bâtons fourrés
                                                 </h5>
                                             </div>
                                         </div>
-                                    </div>                            
+                                    </div>    
+                                </div>
+                            </div><!--/.item-->
+                            <div class="item">
+                                <div class="row">
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
@@ -186,7 +200,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div><!--/.item-->
+                            </div>
                         </div>
                     </div>
                 </div>
