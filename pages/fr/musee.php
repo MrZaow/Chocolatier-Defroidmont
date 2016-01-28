@@ -46,8 +46,8 @@
             <div class="col-md-4">
                 <h3>Tarif</h3>
                 <p>
-                    Adultes : 4,95 euros/personne <br>
-                    Enfants (moins de 12 ans) : 3,95 euros/personne
+                    Adultes : 5,00 euros/personne <br>
+                    Enfants (moins de 12 ans) : 4,00 euros/personne
                 </p>
                 <h3>Durée</h3>
                 <p>

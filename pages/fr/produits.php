@@ -25,20 +25,20 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <h3>Blocs natures</h3>
-                <a href="#">
-                    <img id="produit" src="../../images/bloc1.jpg" alt="Bloc nature" class="img-responsive">
+                <a href="blocnature.php">
+                    <img id="produit" src="../../images/blocnature.jpg" alt="Bloc nature" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
                 <h3>Blocs fruits</h3>
-                <a href="#">
-                    <img id="produit" src="../../images/bloc2.jpg" alt="Bloc fruit" class="img-responsive">
+                <a href="blocfruit.php">
+                    <img id="produit" src="../../images/blocfruit.jpg" alt="Bloc fruit" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
                 <h3>Tablettes brisure</h3>
                 <a href="tablettesbrisure.php">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Tablette brisure" class="img-responsive">
+                    <img id="produit" src="../../images/tablettebrisure.jpg" alt="Tablette brisure" class="img-responsive">
                 </a>
             </div>
             
@@ -53,13 +53,13 @@
             <div class="col-md-3 col-sm-6">
                 <h3>Bâtons fourrés</h3>
                 <a href="batonsfourres.php">
-                    <img id="produit" src="../../images/baton1.jpg" alt="Baton fourré" class="img-responsive">
+                    <img id="produit" src="../../images/baton.jpg" alt="Baton fourré" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
                 <h3>Pâtes à tartiner</h3>
-                <a href="#">
-                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                <a href="pate.php">
+                    <img id="produit" src="../../images/pate.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">

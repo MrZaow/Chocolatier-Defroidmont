@@ -16,6 +16,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
+                                    <img src="../../images/logo3.png" alt="Logo chocolaterie Defroidmont">
                                     <h1 class="animation animated-item-1">Chocolatier Defroidmont</h1>
                                     <h4 class="animation animated-item-2">Le goût. L'émotion.</h4>
                                 </div>
@@ -28,21 +29,21 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
-                                    <h1 class="animation animated-item-1">Nos chocolats St-Nicolas sont là !</h1>
+                                    <h1 class="animation animated-item-1">Nos chocolats de Pâques sont là !</h1>
                                     <br>
-                                    <a class="btn btn-md animation animated-item-3" href="#">Voir les chocolats St-Nicolas</a>
+                                    <a class="btn btn-md animation animated-item-3" href="paques.php">Voir les chocolats de Pâques</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(../../images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(../../images/equipe-defroidmont.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
                                     <h2 class="animation animated-item-1">N’hésitez pas à passer vos commandes</h2>
-                                    <h3 class="animation animated-item-2">Téléphone : 086/21.84.40</h3>
+                                    <h3 class="animation animated-item-2">Téléphone : 086 21 84 40</h3>
                                     <h3 class="animation animated-item-3">Mail : contact@chocolatier-defroidmont.be</h3>
                                 </div>
                             </div>
@@ -134,7 +135,9 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/bloc1.jpg" alt="">
+                                                <a href="../../pages/fr/blocnature.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/blocnature.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Blocs nature
                                                 </h5>
@@ -144,7 +147,9 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/bloc2.jpg" alt="">
+                                                <a href="../../pages/fr/blocnature.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/blocfruit.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Blocs fruit
                                                 </h5>
@@ -158,7 +163,9 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
+                                                <a href="../../pages/fr/tablettesbrisure.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/tablettebrisure.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Tablettes brisure
                                                 </h5>
@@ -168,7 +175,9 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/taborigine1.jpg" alt="">
+                                                <a href="../../pages/fr/tablettesorigine.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/taborigine1.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Tablettes d'origine
                                                 </h5>
@@ -178,7 +187,9 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/baton1.jpg" alt="">
+                                                <a href="../../pages/fr/batonsfourres.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/baton.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Bâtons fourrés
                                                 </h5>
@@ -192,7 +203,9 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/ballotins.jpg" alt="">
+                                                <a href="../../pages/fr/pate.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/pate.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Pâtes à tartiner
                                                 </h5>

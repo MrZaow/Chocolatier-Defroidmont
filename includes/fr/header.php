@@ -7,16 +7,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand hidden-sm" href="../../pages/fr/index.php"><img src="../../images/logo31.png" alt="logo"></a>
+            <a class="navbar-brand hidden-sm " href="../../pages/fr/index.php"><img src="../../images/logo32.png" alt="logo"></a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-
                 <li><a href="../../index.php">Accueil</a></li>
                 <li><a href="../../pages/fr/produits.php">Produits</a></li>
                 <li><a href="../../pages/fr/commander.php"><i class="fa fa-shopping-cart"></i> Commander</a></li>
                 <li><a href="../../pages/fr/boutiques.php">Nos boutiques</a></li>
                 <li><a href="../../pages/fr/musee.php">Musée</a></li>
+                <li><a href="../../pages/fr/paques.php">Pâques</a></li>
                 <li><a href="../../pages/fr/infos.php">Infos</a></li>
             </ul>
 

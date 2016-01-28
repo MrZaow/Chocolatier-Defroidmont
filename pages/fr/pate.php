@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Tablettes Brisure</h1>
+                    <h1>Pâte à tartiner</h1>
                 </div>
             </div>
         </div>
@@ -19,19 +19,16 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat au Lait 43% Brisure de Caramel</li>
-                    <li>Chocolat au Lait 43% Brisure de Noisettes</li>
-                    <li>Chocolat noir 70% Brisure de Caramel</li>
-                    <li>Chocolat noir 70% Piment d'Espelette</li>
-                    <li>Chocolat noir 70% Brisure de Noisettes</li>
+                    <li>Chocolat noir</li>
+                    <li>Chocolat noisette</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>
                 <ul>
-                    <li>85g - 3,00€</li>
+                    <li>300g - 6,90€</li>
                 </ul>
             </div>
             <div class="col-md-6">
-                <img src="../../images/tablettebrisure.jpg" alt="Tablette brisure" class="img-responsive">
+                <img src="../../images/pate.jpg" alt="Pâte à tartiner" class="img-responsive">
             </div>
         </div>
     </section>
