@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="nl">
 <?php include("../../includes/head.php") ?>
 <body>
-    <?php include("../../includes/fr/header.php") ?>
+    <?php include("../../includes/nl/header.php") ?>
 
     <section id="title" class="orange">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Notre collection de Pâques</h1>
+                    <h1>Onze collectie van Pasen</h1>
                 </div>
             </div>
         </div>
@@ -29,9 +29,9 @@
         </div>
     </section>
 
-    <?php include("../../includes/fr/bottom.php") ?>
+    <?php include("../../includes/nl/bottom.php") ?>
 
-    <?php include("../../includes/fr/footer.php") ?>
+    <?php include("../../includes/nl/footer.php") ?>
 
     <?php include("../../includes/script.php") ?>
 </body>

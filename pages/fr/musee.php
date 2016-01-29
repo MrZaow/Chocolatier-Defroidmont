@@ -33,8 +33,8 @@
                     <img src="../../images/musee2.jpg" alt="Musée du chocolat" class="img-responsive"><br>
                 </div>
                 <div class="col-md-6">
-                    <img src="../../images/musee4.jpg" alt="Musée du chocolat" class="img-responsive"><br>
-                    <img src="../../images/musee5.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                    <img src="../../images/musee4.JPG" alt="Musée du chocolat" class="img-responsive"><br>
+                    <img src="../../images/musee5.JPG" alt="Musée du chocolat" class="img-responsive"><br>
                 </div>
             </div>
         </div>

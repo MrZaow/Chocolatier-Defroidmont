@@ -16,33 +16,32 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h1 class="animation animated-item-1">Chocolatier Defroidmont</h1>
-                                    <h4 class="animation animated-item-2">Smaak. Emotie</h4>
+                                    <img src="../../images/logo31.png" alt="Logo chocolaterie Defroidmont">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(../../images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(../../images/slider/bg2.JPG)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
-                                    <h1 class="animation animated-item-1">Nos chocolats St-Nicolas sont là !</h1>
+                                    <h1 class="animation animated-item-1">Onze Pasen chocolaatjes zijn er !</h1>
                                     <br>
-                                    <a class="btn btn-md animation animated-item-3" href="#">Voir les chocolats St-Nicolas</a>
+                                    <a class="btn btn-md animation animated-item-3" href="#">Zie de chocoladen paaseieren</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(../../images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(../../images/equipe-defroidmont.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="animation animated-item-1">N’hésitez pas à passer vos commandes</h2>
-                                    <h3 class="animation animated-item-2">Téléphone : 086/21.84.40</h3>
+                                    <h2 class="animation animated-item-1">Voel je vrij om online bestellingen plaatsen</h2>
+                                    <h3 class="animation animated-item-2">Telefoon : 086/21.84.40</h3>
                                     <h3 class="animation animated-item-3">Mail : contact@chocolatier-defroidmont.be</h3>
                                 </div>
                             </div>
@@ -68,11 +67,11 @@
                             <i class="icon-time icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Heures d'ouverture</h3>
+                            <h3 class="media-heading">Kantooruren</h3>
                             <h4>Erezée</h4>
-                            <p>Ouvert du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30</p>
+                            <p>Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10:00-16:30</p>
                             <h4>Durbuy</h4>
-                            <p>Ouvert tous les jours de 10h à 16h30 sauf le mardi et le mercredi</p>
+                            <p>Dagelijks geopend 10:00-16:30 behalve op dinsdag en woensdag</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -82,8 +81,8 @@
                             <i class="icon-shopping-cart icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Vente de chocolat</h3>
-                            <p>Vente de chocolat artisanal, dégustations et conseils.</p>
+                            <h3 class="media-heading">Chocolade Sale</h3>
+                            <p>Handgemaakte chocolade verkopen, proeverijen en advies.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -93,8 +92,8 @@
                             <i class="icon-group icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Visite du musée</h3>
-                            <p>Visite à la découverte du musée du chocolat.</p>
+                            <h3 class="media-heading">Museum Tour</h3>
+                            <p>Bezoek aan het chocolademuseum te ontdekken.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -106,8 +105,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3>Nos délicieux chocolats</h3>
-                    <p>Quelques un des chocolats que nous produisons dans notre chocolaterie à Érezée</p>
+                    <h3>Onze heerlijke bonbons</h3>
+                    <p>Een paar bonbons produceren wij in onze chocoladefabriek in Érezée</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
                         <a class="btn btn-danger" href="#scroller" data-slide="next"><i class="icon-angle-right"></i></a>
@@ -122,8 +121,8 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="pages/ballotins.php">
-                                                    <img id="produit" class="img-responsive" src="../../images/portfolio/recent/item1.png" alt="Ballotins">
+                                                <a href="../../pages/fr/ballotins.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/ballotins.jpg" alt="Ballotins">
                                                 </a>
                                                 <h5>
                                                     Ballotins
@@ -134,29 +133,27 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item3.png" alt="">
+                                                <a href="../../pages/fr/blocnature.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/blocnature.jpg" alt="">
+                                                </a>
                                                 <h5>
-                                                    Blocs
+                                                    Blocs nature
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>                            
-                                    <div class="col-xs-4">
-                                        <div class="portfolio-item">
-                                            <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item2.png" alt="">
-                                                <h5>
-                                                    Tablettes brisées
-                                                </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-xs-4">
+                                        <div class="portfolio-item">
+                                            <div class="item-inner">
+                                                <a href="../../pages/fr/blocnature.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/blocfruit.jpg" alt="">
+                                                </a>
+                                                <h5>
+                                                    Blocs fruit
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>    
                                 </div><!--/.row-->
                             </div><!--/.item-->
                             <div class="item">
@@ -164,44 +161,57 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item2.png" alt="">
+                                                <a href="../../pages/fr/tablettesbrisure.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/tablettebrisure.jpg" alt="">
+                                                </a>
                                                 <h5>
-                                                    Tablettes d'origine
+                                                    Tablettes brisure
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item1.png" alt="">
+                                                <a href="../../pages/fr/tablettesorigine.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/taborigine1.jpg" alt="">
+                                                </a>
                                                 <h5>
-                                                    Bâtons fourrés
+                                                    Tablettes d'origine
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
-                                    </div>                            
+                                    </div>
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="../../images/portfolio/recent/item3.png" alt="">
+                                                <a href="../../pages/fr/batonsfourres.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/baton.jpg" alt="">
+                                                </a>
+                                                <h5>
+                                                    Bâtons fourrés
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>    
+                                </div>
+                            </div><!--/.item-->
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                        <div class="portfolio-item">
+                                            <div class="item-inner">
+                                                <a href="../../pages/fr/pate.php">
+                                                    <img id="produit" class="img-responsive" src="../../images/pate.jpg" alt="">
+                                                </a>
                                                 <h5>
                                                     Pâtes à tartiner
                                                 </h5>
-                                                <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="../../images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div><!--/.item-->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -214,40 +224,36 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center">
-                        <h2>Ce que nos clients pensent de nous</h2>
-                        <p>La satisfaction de nos clients est notre priorité</p>
+                        <h2>Wat onze klanten van ons denken</h2>
+                        <p>De tevredenheid van onze klanten is onze prioriteit</p>
                     </div>
                     <div class="gap"></div>
                     <div class="row">
                         <div class="col-md-6">
                             <blockquote>
                                 <p>
-                                    Les pralines sont extras! Philippe Defroidmont est sans cesse à la recherche de nouvelles
-                                    sensations pour éveiller les papilles gustatives de ses clients...
-                                    La boutique est sympathique avec de bons produits de bouche, idéal pour vos cadeaux quelconques.
+                                    Pralines zijn extra's! Philippe Defroidmont is voortdurend op zoek naar nieuwe sensaties aan de smaakpapillen van haar klanten te wekken ... De winkel is vriendelijk met goede delicatessen, ideaal voor geen cadeaus.
                                 </p>
-                                <small>Emeline Quirynen de <cite title="Source Title">Google Maps</cite></small>
+                                <small>Emeline Quirynen van <cite title="Source Title">Google Maps</cite></small>
                             </blockquote>
                             <blockquote>
                                 <p>
-                                    Visite bien sympathique. Un petit retour dans l'histoire de cette famille qui visiblement aime son chocolat. 
-                                    Un réel plaisir de dégustation si on l'aime, le chocolat
+                                    Zeer mooie bezoek. Een kleine terugkeer in de geschiedenis van deze familie die duidelijk houdt van zijn chocolade. Een echte proeven genoegen als we liefhebben, chocolade
                                 </p>
-                                <small>Virginie Danny de <cite title="Source Title">TripAdvisor</cite></small>
+                                <small>Virginie Danny van <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                         </div>
                         <div class="col-md-6">
                             <blockquote>
                                 <p>
-                                    C'est toujours un plaisir de terminer une ballade par un tour dans cette chocolaterie pour une dégustation sur la terrasse.
-                                    Mais les pralines achetées sont trop vite mangées et il faudrait déjà y retourner :)
+                                    Het is altijd een genot om een rit te beëindigen door een tour van deze chocolade te proeven op het terras. 
+                                    Maar kocht chocolaatjes zijn te snel gegeten en het zou nu al terug te gaan :)
                                 </p>
-                                <small>Lucie V de <cite title="Source Title">TripAdvisor</cite></small>
+                                <small>Lucie V van <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                             <blockquote>
-                                <p>Super musée, très didactique, bien fait. Très intéressant de voir à l'oeuvre dans l'atelier.
-                                 Dégustations agréables! petite boutique avec souvenirs gourmands à rapporter, divin!</p>
-                                <small>Natalie F de <cite title="Source Title">TripAdvisor</cite></small>
+                                <p>Geweldige museum, zeer didactische, goed gedaan. Zeer interessant om aan het werk zien in de werkplaats. Aangename proeverij! kleine winkel met souvenirs lekkerbekken, goddelijk!</p>
+                                <small>Natalie F van <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                         </div>
                     </div>

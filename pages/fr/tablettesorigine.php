@@ -24,7 +24,7 @@
                     <li>Chocolat Noir Costa Rica 64%</li>
                     <li>Chocolat Noir Pérou 65% BIO</li>
                     <li>Chocolat Noir Madagascar 67%</li>
-                    <li>Chocolat Noir Côte d'Ivoire 70%%</li>
+                    <li>Chocolat Noir Côte d'Ivoire 70%</li>
                     <li>Chocolat Noir Vietnam 73%</li>
                     <li>Chocolat Noir Ouganda 80%</li>
                 </ul>

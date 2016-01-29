@@ -19,8 +19,8 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat noir</li>
-                    <li>Chocolat au lait</li>
+                    <li>Chocolat noir 70% de Côte d'Ivoire</li>
+                    <li>Chocolat au lait 43% de Venezuella</li>
                     <li>Chocolat blanc</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>

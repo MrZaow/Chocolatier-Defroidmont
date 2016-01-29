@@ -16,20 +16,18 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <img src="../../images/logo3.png" alt="Logo chocolaterie Defroidmont">
-                                    <h1 class="animation animated-item-1">Chocolatier Defroidmont</h1>
-                                    <h4 class="animation animated-item-2">Le goût. L'émotion.</h4>
+                                    <img src="../../images/logo31.png" alt="Logo chocolaterie Defroidmont">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(../../images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(../../images/slider/bg2.JPG)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
-                                    <h1 class="animation animated-item-1">Nos chocolats de Pâques sont là !</h1>
+                                    <h1 class="animation animated-item-1">Nos chocolats de Pâques sont là!</h1>
                                     <br>
                                     <a class="btn btn-md animation animated-item-3" href="paques.php">Voir les chocolats de Pâques</a>
                                 </div>
@@ -42,7 +40,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="animation animated-item-1">N’hésitez pas à passer vos commandes</h2>
+                                    <h2 class="animation animated-item-1">N'hésitez pas à passer vos commandes en ligne</h2>
                                     <h3 class="animation animated-item-2">Téléphone : 086 21 84 40</h3>
                                     <h3 class="animation animated-item-3">Mail : contact@chocolatier-defroidmont.be</h3>
                                 </div>
@@ -251,7 +249,7 @@
                         <div class="col-md-6">
                             <blockquote>
                                 <p>
-                                    C'est toujours un plaisir de terminer une ballade par un tour dans cette chocolaterie pour une dégustation sur la terrasse.
+                                    C'est toujours un plaisir de terminer une balade par un tour dans cette chocolaterie pour une dégustation sur la terrasse.
                                     Mais les pralines achetées sont trop vite mangées et il faudrait déjà y retourner :)
                                 </p>
                                 <small>Lucie V de <cite title="Source Title">TripAdvisor</cite></small>

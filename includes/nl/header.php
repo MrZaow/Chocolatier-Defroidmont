@@ -11,17 +11,17 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-
                 <li><a href="../../pages/nl/index.php">Home</a></li>
                 <li><a href="../../pages/nl/producten.php">Producten</a></li>
+                <li><a href="../../pages/nl/bestelling.php"><i class="fa fa-shopping-cart"></i> Bestelling</a></li>
                 <li><a href="../../pages/nl/winkelen.php">Winkelen</a></li>
                 <li><a href="../../pages/nl/museum.php">Museum</a></li>
-                <li><a href="../../pages/nl/team.php">Team</a></li>
-                <li><a href="../../blog">Blog</a></li>
+                <li><a href="../../pages/nl/pasen.php">Pasen</a></li>
                 <li><a href="../../pages/nl/info.php">Info</a></li>
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
+            <li><a target="_blank" href="https://www.facebook.com/ChocolatierDefroidmont/"><i class="fa fa-facebook-official"></i> </a></li>
             <li><a href="#" style="pointer-events: none; cursor: default; "><strong> <i class="icon-phone"></i> 086 21 84 40</strong></a></li>
             <li><a href="../../pages/fr/index.php"><img src="../../images/flags/fr.png" alt="fr"></a></li>
             <li><a href="../../pages/nl/index.php"><img src="../../images/flags/nl.png" alt="nl"></a></li>

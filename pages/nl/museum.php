@@ -17,43 +17,54 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Osez découvrir notre musée du chocolat</h2>
+                <h2>Durf onze chocolademuseum ontdekken</h2>
                 <p>
-                    L'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier. La fève de cacao, selon son origine, libère des arômes aussi subtils que particuliers qui ne manqueront pas de surprendre vos papilles gustatives.
+                    De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van chocolaty smaken uit de hele wereld. 
+                    Cacaoboon, afhankelijk van de herkomst, brengt ook subtiele aroma's die individuen die zeker zijn om uw smaakpapillen verrassen.                
+                </p>
+                <p>
+                    Het is door het museum, zult u familiegeschiedenis te ontdekken. Je reist door de wereld van de chocolade, 
+                    Papoea-Nieuw-Guinea, het land van herkomst van onze cacaobonen in onze werkplaats terug te keren naar België waar 
+                    u de verschillende stadia van de productie, cacaoboon praline ontdekt.
                 </p>
             </div>
             <div class="col-md-12">
-                <img src="../../images/musee-001.jpg" alt="Musée du chocolat" class="img-responsive">
-                <br>
-                <p>C’est en parcourant le musée, que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, de la Papouasie-Nouvelle Guinée, pays d’origine de nos fèves de cacao pour revenir en Belgique dans notre atelier où vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
+                <div class="col-md-6">
+                    <img src="../../images/musee1.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                    <img src="../../images/musee2.jpg" alt="Musée du chocolat" class="img-responsive"><br>
+                </div>
+                <div class="col-md-6">
+                    <img src="../../images/musee4.JPG" alt="Musée du chocolat" class="img-responsive"><br>
+                    <img src="../../images/musee5.JPG" alt="Musée du chocolat" class="img-responsive"><br>
+                </div>
             </div>
         </div>
         <hr>
         <div class="row">
             <div class="center">
-                <h2>Informations</h2>
+                <h2>Informatie</h2>
             </div>
             <div class="col-md-4">
-                <h3>Tarif</h3>
+                <h3>Tarief</h3>
                 <p>
-                    Adultes : 4,95 euros/personne <br>
-                    Enfants (moins de 12 ans) : 3,95 euros/personne
+                    Volwassenen: 5,00 euro/persoon <br>
+                    Kinderen (tot 12 jaar): 4,00 euro/persoon
                 </p>
-                <h3>Durée</h3>
+                <h3>Duur</h3>
                 <p>
-                    Visite du musée : 40 minutes <br>
-                    Promenade des abeilles : 40 minutes
+                    Bezoek het museum: 40 minuten <br>
+                    Promenade bijen: 40 minuten
                 </p>
-                <h3>Accessibilité</h3>
+                <h3>Toegankelijkheid</h3>
                 <p>
-                    2 places de parking pour les personnes à mobilité reduite <br>
-                    Inaccessible par transport en commun <br>
-                    Inaccessible par train <br>
-                    Présence de rack à vélos
+                    2 parkeerplaatsen voor personen met beperkte mobiliteit <br>
+                    Ontoegankelijk openbaar vervoer <br>
+                    Onbereikbaar per spoor <br>
+                    Fietsenrek Presence
                 </p>
             </div>
             <div class="col-md-8">
-                <h3>Localisation</h3>
+                <h3>Locatie</h3>
                 <iframe width="100%" class="hidden-xs" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6063.0078142283!2d5.591841093712012!3d50.28855343285271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c046a419f795c9%3A0x6b5083c0d48052ff!2sDefroidmont!5e0!3m2!1sfr!2sbe!4v1450614993714" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <iframe width="100%" class="hidden-sm hidden-md hidden-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6063.0078142283!2d5.591841093712012!3d50.28855343285271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c046a419f795c9%3A0x6b5083c0d48052ff!2sDefroidmont!5e0!3m2!1sfr!2sbe!4v1450614993714" width="600" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>

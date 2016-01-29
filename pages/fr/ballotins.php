@@ -22,10 +22,10 @@
                     dans le respect de la tradition avec des notes tantôt fruitées, épicées, caramélisées suivant les saisons.</p>
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat blanc</li>
-                    <li>Chocolat au lait</li>
-                    <li>Chocolat noir</li>
-                    <li>Assortiment des trois</li>
+                    <li>Assortiment de chocolats blancs</li>
+                    <li>Assortiment de chocolats au lait</li>
+                    <li>Assortiment de chocolats noirs</li>
+                    <li>Assortiment de tous nos chocolats</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>
                 <ul>

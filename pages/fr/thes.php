@@ -63,13 +63,6 @@
         </div>
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Vert "Père Fouettard"</h3>
-                <ul>
-                    <li>50g - 4,00€</li>
-                </ul>
-                <img src="../../images/thepere.jpg" alt="Ballotin" class="img-responsive">
-            </div>
-            <div class="col-md-4 col-sm-6">
                 <h3>Infusion Plaisir du Connemara</h3>
                 <ul>
                     <li>60g - 4,00€</li>
@@ -83,8 +76,6 @@
                 </ul>
                 <img src="../../images/thedurbuy.jpg" alt="Tablette d'origine" class="img-responsive">
             </div>
-        </div>
-        <div class="row">
             <div class="col-md-4 col-sm-6">
                 <h3>Tisane Ardennaise</h3>
                 <ul>
@@ -93,9 +84,6 @@
                 <img src="../../images/theardennaise.jpg" alt="Baton fourré" class="img-responsive">
             </div>
         </div>
-        
-
-
     </section><!--/#portfolio-->
 
     <?php include("../../includes/fr/bottom.php"); ?>

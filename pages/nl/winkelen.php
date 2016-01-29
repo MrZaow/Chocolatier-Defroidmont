@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Nos boutiques</h1>
+                    <h1>Onze winkels</h1>
                 </div>
             </div>
         </div>
@@ -17,44 +17,43 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Nos boutiques d'Érezée et de Durbuy sont prêtes à vous accueilir</h2>
+                <h2>Onze winkels Érezée en Durbuy verzoek het plezier</h2>
                 <p>
-                    Notre boutique à Briscol-Erezée vous propose une large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc. Notre boutique à Durbuy vous propose une large gamme de chocolats.
+                    Onze winkel Briscol-Erezée biedt een breed scala van chocolade, delicatessen, honing uit de regio, thee, likeuren, enz. Onze winkel in Durbuy biedt een breed scala van chocolade.
                 </p>
             </div>
             <div class="col-md-5">
-                <h3 class="center">La boutique d'Érezée</h3>
-                <img src="../../images/magasin-erezee.jpg" alt="Magasin de Durbuy" class="img-responsive">
+                <h3 class="center">De winkel Érezée</h3>
+                <img src="../../images/boutique.JPG" alt="Winkel van Durbuy" class="img-responsive">
                 <br>
                 <p>
-                    Adresse : Briscol 19a, 6997 Érezée <br>
-                    Téléphone : 086 21 84 40 <br>
-                    Ouverture : du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30
+                    Adress : Briscol 19a, 6997 Érezée <br>
+                    Telefoon : 086 21 84 40 <br>
+                    Open: dinsdag tot en met zaterdag van 10u tot 18u en zondag 10:00-16:30
                 </p>
                 <p>
-                    Notre boutique à Briscol-Erezée vous propose une 
-                    large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc.
+                    Onze winkel Briscol-Erezée biedt een breed scala van chocolade, delicatessen, honing uit de regio, thee, likeuren, enz.
                 </p>
             </div>
             <div class="col-md-2"></div>
             <div class="col-md-5">
-                <h3 class="center">La boutique de Durbuy</h3>
-                <img src="../../images/magasin-durbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
+                <h3 class="center">De winkel Durbuy</h3>
+                <img src="../../images/boutiquedurbuy.JPG" alt="Magasin de Durbuy" class="img-responsive">
                 <br>
                 <p>
-                    Adresse : rue Alphonse Eloy 7, 6940 Durbuy  <br>
-                    Téléphone : 086 38 70 74 <br>
-                    Ouverture : tous les jours de 10h à 18h sauf mardi et mercredi
+                    Adress : rue Alphonse Eloy 7, 6940 Durbuy  <br>
+                    Telefoon : 086 38 70 74 <br>
+                    Open: dagelijks van 10u tot 18u, behalve dinsdag en woensdag
                 </p>
                 <p>
-                    Notre boutique à Durbuy vous propose une large gamme de chocolats.
+                    Onze winkel in Durbuy biedt een breed scala van chocolade.
                 </p>
             </div>
         </div>
         <hr>
         <div class="row">
             <div class="center">
-                <h2>Vous pouvez également vous procurer nos délicieux chocolats dans nos points de vente partenaires</h2>
+                <h2>U kunt ook onze heerlijke pralines kopen in onze partner verkooppunten</h2>
             </div>
             <div class="col-md-4">
                 <h3>Brabant Wallon</h3>
@@ -71,6 +70,12 @@
                     Tél : 083/63.30.75 <br> 
                     Lundi-samedi : 9h00-18h30 <br>
                     Fermé dimanche
+                </p>
+                <p><strong>DELICES FERMIERS</strong> <br>
+                    Place de l'Eglise, 6 <br>
+                    5377 NETTINNE <br>
+                    Tél : 083/68.80.83 <br> 
+                    Jeudi et vendredi de 14h30 à 20h et le week-end de 10h à 20h
                 </p>
                 <h3>Limbourg</h3>
                 <p><strong>MOKKA MIN</strong> <br>
@@ -102,7 +107,7 @@
                     Le dimanche de 7h00 à 14h00 <br>
                     Fermé le jeudi
                 </p>
-                <p><strong>LE COP</strong> <br>
+                <p><strong>LA COP</strong> <br>
                     Place de Chablis 14a <br>
                     B 4190 FERRIERES <br>
                     Tél : 086/84.01.57
