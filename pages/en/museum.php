@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Notre musée</h1>
+                    <h1>Our museum</h1>
                 </div>
             </div>
         </div>
@@ -17,43 +17,51 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Osez découvrir notre musée du chocolat</h2>
+                <h2>Dare to discover our chocolate museum</h2>
                 <p>
-                    L'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier. La fève de cacao, selon son origine, libère des arômes aussi subtils que particuliers qui ne manqueront pas de surprendre vos papilles gustatives.
+                    The craftsman Philippe Defroidmont invites you to a discovery of chocolaty flavors from around the world. Cocoa bean, depending on its origin, also releases subtle aromas that individuals that are sure to surprise your taste buds.
+                </p>
+                <p>
+                    Through the museum, you will discover family history. You will travel through the world of chocolate, Papua New Guinea, the country of origin of our cocoa beans to return to Belgium in our workshop where you will discover the different stages of manufacturing, cocoa bean praline.
                 </p>
             </div>
             <div class="col-md-12">
-                <img src="../../images/musee-001.jpg" alt="Musée du chocolat" class="img-responsive">
-                <br>
-                <p>C’est en parcourant le musée, que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, de la Papouasie-Nouvelle Guinée, pays d’origine de nos fèves de cacao pour revenir en Belgique dans notre atelier où vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
+                <div class="col-md-6">
+                    <img src="../../images/musee1.jpg" alt="Chocolate museum" class="img-responsive"><br>
+                    <img src="../../images/musee2.jpg" alt="Chocolate museum" class="img-responsive"><br>
+                </div>
+                <div class="col-md-6">
+                    <img src="../../images/musee4.JPG" alt="Chocolate museum" class="img-responsive"><br>
+                    <img src="../../images/musee5.JPG" alt="Chocolate museum" class="img-responsive"><br>
+                </div>
             </div>
         </div>
         <hr>
         <div class="row">
             <div class="center">
-                <h2>Informations</h2>
+                <h2>Information</h2>
             </div>
             <div class="col-md-4">
-                <h3>Tarif</h3>
+                <h3>Rate</h3>
                 <p>
-                    Adultes : 4,95 euros/personne <br>
-                    Enfants (moins de 12 ans) : 3,95 euros/personne
+                    Adults : 4,95 euros/person <br>
+                    Children (under 12 years) : 3,95 euros/person
                 </p>
-                <h3>Durée</h3>
+                <h3>Duration</h3>
                 <p>
-                    Visite du musée : 40 minutes <br>
-                    Promenade des abeilles : 40 minutes
+                    Visit the museum: 40 minutes <br>
+                    Bees walk : 40 minutes
                 </p>
-                <h3>Accessibilité</h3>
+                <h3>Accessibility</h3>
                 <p>
-                    2 places de parking pour les personnes à mobilité reduite <br>
-                    Inaccessible par transport en commun <br>
-                    Inaccessible par train <br>
-                    Présence de rack à vélos
+                    2 parking spaces for disabled people <br>
+                    Inaccessible by public transportation <br>
+                    Inaccessible by rail <br>
+                    Bicycle rack presence
                 </p>
             </div>
             <div class="col-md-8">
-                <h3>Localisation</h3>
+                <h3>Location</h3>
                 <iframe width="100%" class="hidden-xs" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6063.0078142283!2d5.591841093712012!3d50.28855343285271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c046a419f795c9%3A0x6b5083c0d48052ff!2sDefroidmont!5e0!3m2!1sfr!2sbe!4v1450614993714" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <iframe width="100%" class="hidden-sm hidden-md hidden-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6063.0078142283!2d5.591841093712012!3d50.28855343285271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c046a419f795c9%3A0x6b5083c0d48052ff!2sDefroidmont!5e0!3m2!1sfr!2sbe!4v1450614993714" width="600" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>

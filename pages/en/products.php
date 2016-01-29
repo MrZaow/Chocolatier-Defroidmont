@@ -8,8 +8,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Produits</h1>
-                    <p>Les meilleurs des délicieux produits issus de notre chocolaterie</p>
+                    <h1>Our products</h1>
+                    <p>The best of delicious products from our chocolate factory</p>
                 </div>
             </div>
         </div>

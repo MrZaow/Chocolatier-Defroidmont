@@ -39,7 +39,7 @@
             <div class="col-md-2"></div>
             <div class="col-md-5">
                 <h3 class="center">La boutique de Durbuy</h3>
-                <img src="../../images/boutiquedurbuy.JPG" alt="Magasin de Durbuy" class="img-responsive">
+                <img src="../../images/boutiquedurbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
                 <br>
                 <p>
                     Adresse : rue Alphonse Eloy 7, 6940 Durbuy  <br>

@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Nos boutiques</h1>
+                    <h1>Our shops</h1>
                 </div>
             </div>
         </div>
@@ -17,44 +17,43 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Nos boutiques d'Érezée et de Durbuy sont prêtes à vous accueilir</h2>
+                <h2>Our Érezée and Durbuy shops welcome you with pleasure</h2>
                 <p>
-                    Notre boutique à Briscol-Erezée vous propose une large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc. Notre boutique à Durbuy vous propose une large gamme de chocolats.
+                   Our Briscol-Erezée shop  offers a wide range of chocolate, delicatessen, honey from the region, teas, liqueurs, etc. Our shop in Durbuy offers a wide range of chocolates.
                 </p>
             </div>
             <div class="col-md-5">
-                <h3 class="center">La boutique d'Érezée</h3>
-                <img src="../../images/magasin-erezee.jpg" alt="Magasin de Durbuy" class="img-responsive">
+                <h3 class="center">The Érezée shop</h3>
+                <img src="../../images/boutique.JPG" alt="Erezee shop" class="img-responsive">
                 <br>
                 <p>
-                    Adresse : Briscol 19a, 6997 Érezée <br>
-                    Téléphone : 086 21 84 40 <br>
-                    Ouverture : du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30
+                    Adress : Briscol 19a, 6997 Érezée <br>
+                    Phone : 086 21 84 40 <br>
+                    Open: Tuesday to Saturday from 10am to 18pm and Sunday from 10 am to 16:30
                 </p>
                 <p>
-                    Notre boutique à Briscol-Erezée vous propose une 
-                    large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc.
+                    Our Briscol-Erezée shop  offers a wide range of chocolate, delicatessen, honey from the region, teas, liqueurs, etc.
                 </p>
             </div>
             <div class="col-md-2"></div>
             <div class="col-md-5">
-                <h3 class="center">La boutique de Durbuy</h3>
-                <img src="../../images/magasin-durbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
+                <h3 class="center">The Durbuy shop</h3>
+                <img src="../../images/boutiquedurbuy.jpg" alt="Durbuy shop" class="img-responsive">
                 <br>
                 <p>
-                    Adresse : rue Alphonse Eloy 7, 6940 Durbuy  <br>
-                    Téléphone : 086 38 70 74 <br>
-                    Ouverture : tous les jours de 10h à 18h sauf mardi et mercredi
+                    Adress : rue Alphonse Eloy 7, 6940 Durbuy  <br>
+                    Phone : 086 38 70 74 <br>
+                    Open: daily from 10h to 18h except Tuesday and Wednesday
                 </p>
                 <p>
-                    Notre boutique à Durbuy vous propose une large gamme de chocolats.
+                    Our shop in Durbuy offers a wide range of chocolates.
                 </p>
             </div>
         </div>
         <hr>
         <div class="row">
             <div class="center">
-                <h2>Vous pouvez également vous procurer nos délicieux chocolats dans nos points de vente partenaires</h2>
+                <h2>You can also procure yourself with our delicious chocolates in our partner outlets</h2>
             </div>
             <div class="col-md-4">
                 <h3>Brabant Wallon</h3>

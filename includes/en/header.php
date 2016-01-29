@@ -7,18 +7,18 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand hidden-sm" href="../../pages/en/index.php"><img src="../../images/logo31.png" alt="logo"></a>
+            <a class="navbar-brand hidden-sm " href="../../pages/en/index.php"><img src="../../images/logo32.png" alt="logo"></a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
 
                 <li><a href="../../pages/en/index.php">Home</a></li>
                 <li><a href="../../pages/en/products.php">Products</a></li>
+                <li><a href="../../pages/en/order.php"><i class="fa fa-shopping-cart"></i> Order</a></li>
                 <li><a href="../../pages/en/shops.php">Our shops</a></li>
                 <li><a href="../../pages/en/museum.php">Museum</a></li>
-                <li><a href="../../pages/en/team.php">Team</a></li>
-                <li><a href="../../blog">Blog</a></li>
-                <li><a href="../../pages/en/infos.php">Infos</a></li>
+                <li><a href="../../pages/en/easter.php">Easter</a></li>
+                <li><a href="../../pages/en/infos.php">Info</a></li>
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
