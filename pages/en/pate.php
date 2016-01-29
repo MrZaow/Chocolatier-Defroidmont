@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <?php include("../../includes/head.php") ?>
 <body>
-    <?php include("../../includes/fr/header.php") ?>
+    <?php include("../../includes/en/header.php") ?>
     
     <section id="title" class="orange">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Blocs natures</h1>
+                    <h1>Spreads</h1>
                 </div>
             </div>
         </div>
@@ -17,26 +17,25 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Goûts disponibles</h2>
+                <h2>Available tastes</h2>
                 <ul>
-                    <li>Chocolat noir 70% de Côte d'Ivoire</li>
-                    <li>Chocolat au lait 43% de Venezuela</li>
-                    <li>Chocolat blanc</li>
+                    <li>Hazelnut dark chocolate without lactose paste</li>
+                    <li>Hazelnut milk chocolate paste</li>
                 </ul>
-                <h2>Poids disponibles et prix</h2>
+                <h2>Available weights and prices</h2>
                 <ul>
-                    <li>275g - 8,00€</li>
+                    <li>300g - 6,90€</li>
                 </ul>
             </div>
             <div class="col-md-6">
-                <img src="../../images/blocnature.jpg" alt="Bloc nature" class="img-responsive">
+                <img src="../../images/pate.jpg" alt="Pâte à tartiner" class="img-responsive">
             </div>
         </div>
     </section>
 
-    <?php include("../../includes/fr/bottom.php") ?>
+    <?php include("../../includes/en/bottom.php") ?>
 
-    <?php include("../../includes/fr/footer.php") ?>
+    <?php include("../../includes/en/footer.php") ?>
 
     <?php include("../../includes/script.php") ?>
 </body>

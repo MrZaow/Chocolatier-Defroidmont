@@ -18,47 +18,54 @@
     <section id="portfolio" class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
-                <a href="../../en/ballotins.php"><h3>Ballotins</h3></a>
-                <a href="../../en/ballotins.php">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Ballotins</h3>
+                <a href="ballotins.php">
+                    <img id="produit" src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Blocs</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Natural blocks</h3>
+                <a href="blocnature.php">
+                    <img id="produit" src="../../images/blocnature.jpg" alt="Bloc nature" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Tablettes brisées</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Fruit blocks</h3>
+                <a href="blocfruit.php">
+                    <img id="produit" src="../../images/blocfruit.jpg" alt="Bloc fruit" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Tablettes d'origine</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Brisure bar</h3>
+                <a href="tablettesbrisure.php">
+                    <img id="produit" src="../../images/tablettebrisure.jpg" alt="Tablette brisure" class="img-responsive">
                 </a>
             </div>
+            
         </div>
         <div class="row">
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Bâtons fourrés</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Origin bar</h3>
+                <a href="tablettesorigine.php">
+                    <img id="produit" src="../../images/taborigine1.jpg" alt="Tablette d'origine" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Pâtes à tartiner</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Filled sticks</h3>
+                <a href="batonsfourres.php">
+                    <img id="produit" src="../../images/baton.jpg" alt="Baton fourré" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <a href="#"><h3>Thés</h3></a>
-                <a href="#">
-                    <img id="produit" src="../../images/magasin-erezee.jpg" alt="Ballotin" class="img-responsive">
+                <h3>Spreads</h3>
+                <a href="pate.php">
+                    <img id="produit" src="../../images/pate.jpg" alt="Ballotin" class="img-responsive">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <h3>Teas</h3>
+                <a href="thes.php">
+                    <img id="produit" src="../../images/thechocolat.jpg" alt="Ballotin" class="img-responsive">
                 </a>
             </div>
         </div>

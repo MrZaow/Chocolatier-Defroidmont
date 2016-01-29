@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Ballotins</h1>
+                    <h1>Brisure bar</h1>
                 </div>
             </div>
         </div>
@@ -17,25 +17,21 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Description</h2>
-                <p>Philippe and Christiane Defroidmont are pleased to introduce you to this high-quality assortment of pralines 
-                    made with respect for tradition with notes sometimes fruity, spicy, caramelized the seasons.</p>
                 <h2>Available tastes</h2>
                 <ul>
-                    <li>Assortment of white chocolates</li>
-                    <li>Assorted of milk chocolates</li>
-                    <li>Assortment of dark chocolates</li>
-                    <li>Assortment of all our chocolates</li>
+                    <li>43% Milk Chocolate Caramel Brisure</li>
+                    <li>43% Milk Chocolate Hazelnut Brisure</li>
+                    <li>70% dark chocolate Caramel Brisure</li>
+                    <li>70% dark chocolate Espelette</li>
+                    <li>70% dark chocolate Hazelnut Brisure</li>
                 </ul>
                 <h2>Available weights and prices</h2>
                 <ul>
-                    <li>250g - 11,50€</li>
-                    <li>350g - 16,00€</li>
-                    <li>500g - 23,00€</li>
+                    <li>85g - 3,00€</li>
                 </ul>
             </div>
             <div class="col-md-6">
-                <img src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                <img src="../../images/tablettebrisure.jpg" alt="Tablette brisure" class="img-responsive">
             </div>
         </div>
     </section>

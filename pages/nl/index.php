@@ -121,7 +121,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/ballotins.php">
+                                                <a href="../../pages/nl/ballotins.php">
                                                     <img id="produit" class="img-responsive" src="../../images/ballotins.jpg" alt="Ballotins">
                                                 </a>
                                                 <h5>
@@ -133,7 +133,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/blocnature.php">
+                                                <a href="../../pages/nl/blocnature.php">
                                                     <img id="produit" class="img-responsive" src="../../images/blocnature.jpg" alt="">
                                                 </a>
                                                 <h5>
@@ -145,7 +145,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/blocnature.php">
+                                                <a href="../../pages/nl/blocnature.php">
                                                     <img id="produit" class="img-responsive" src="../../images/blocfruit.jpg" alt="">
                                                 </a>
                                                 <h5>
@@ -161,7 +161,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/tablettesbrisure.php">
+                                                <a href="../../pages/nl/tablettesbrisure.php">
                                                     <img id="produit" class="img-responsive" src="../../images/tablettebrisure.jpg" alt="">
                                                 </a>
                                                 <h5>
@@ -173,7 +173,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/tablettesorigine.php">
+                                                <a href="../../pages/nl/tablettesorigine.php">
                                                     <img id="produit" class="img-responsive" src="../../images/taborigine1.jpg" alt="">
                                                 </a>
                                                 <h5>
@@ -185,7 +185,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/batonsfourres.php">
+                                                <a href="../../pages/nl/batonsfourres.php">
                                                     <img id="produit" class="img-responsive" src="../../images/baton.jpg" alt="">
                                                 </a>
                                                 <h5>
@@ -201,7 +201,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/pate.php">
+                                                <a href="../../pages/nl/pate.php">
                                                     <img id="produit" class="img-responsive" src="../../images/pate.jpg" alt="">
                                                 </a>
                                                 <h5>

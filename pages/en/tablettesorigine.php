@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Ballotins</h1>
+                    <h1>Origin tablet</h1>
                 </div>
             </div>
         </div>
@@ -17,25 +17,24 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Description</h2>
-                <p>Philippe and Christiane Defroidmont are pleased to introduce you to this high-quality assortment of pralines 
-                    made with respect for tradition with notes sometimes fruity, spicy, caramelized the seasons.</p>
                 <h2>Available tastes</h2>
                 <ul>
-                    <li>Assortment of white chocolates</li>
-                    <li>Assorted of milk chocolates</li>
-                    <li>Assortment of dark chocolates</li>
-                    <li>Assortment of all our chocolates</li>
+                    <li>White Chocolate Ivory Coast</li>
+                    <li>Venezuela Milk Chocolate 43%</li>
+                    <li>Costa Rica Black Chocolate 64%</li>
+                    <li>Peru Black Chocolate 65% Organic</li>
+                    <li>Madagascar Black Chocolate 67%</li>
+                    <li>Chocolate Black Ivory Coast 70%</li>
+                    <li>Vietnam Black Chocolate 73%</li>
+                    <li>Uganda Black Chocolate 80%</li>
                 </ul>
                 <h2>Available weights and prices</h2>
                 <ul>
-                    <li>250g - 11,50€</li>
-                    <li>350g - 16,00€</li>
-                    <li>500g - 23,00€</li>
+                    <li>85g - 2,80€</li>
                 </ul>
             </div>
             <div class="col-md-6">
-                <img src="../../images/ballotins.jpg" alt="Ballotin" class="img-responsive">
+                <img src="../../images/taborigine1.jpg" alt="Tablette d'origine" class="img-responsive">
             </div>
         </div>
     </section>

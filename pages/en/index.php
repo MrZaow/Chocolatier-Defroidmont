@@ -121,7 +121,7 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/ballotins.php">
+                                                <a href="../../pages/en/ballotins.php">
                                                     <img id="produit" class="img-responsive" src="../../images/ballotins.jpg" alt="Ballotins">
                                                 </a>
                                                 <h5>
@@ -133,11 +133,11 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/blocnature.php">
+                                                <a href="../../pages/en/blocnature.php">
                                                     <img id="produit" class="img-responsive" src="../../images/blocnature.jpg" alt="">
                                                 </a>
                                                 <h5>
-                                                    Blocs nature
+                                                    Natural blocks
                                                 </h5>
                                             </div>
                                         </div>
@@ -145,11 +145,11 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/blocnature.php">
+                                                <a href="../../pages/en/blocnature.php">
                                                     <img id="produit" class="img-responsive" src="../../images/blocfruit.jpg" alt="">
                                                 </a>
                                                 <h5>
-                                                    Blocs fruit
+                                                    Fruit blocks
                                                 </h5>
                                             </div>
                                         </div>
@@ -161,11 +161,11 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/tablettesbrisure.php">
+                                                <a href="../../pages/en/tablettesbrisure.php">
                                                     <img id="produit" class="img-responsive" src="../../images/tablettebrisure.jpg" alt="">
                                                 </a>
                                                 <h5>
-                                                    Tablettes brisure
+                                                    Brisure tablets
                                                 </h5>
                                             </div>
                                         </div>
@@ -173,11 +173,11 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/tablettesorigine.php">
+                                                <a href="../../pages/en/tablettesorigine.php">
                                                     <img id="produit" class="img-responsive" src="../../images/taborigine1.jpg" alt="">
                                                 </a>
                                                 <h5>
-                                                    Tablettes d'origine
+                                                    Origin tablets
                                                 </h5>
                                             </div>
                                         </div>
@@ -185,11 +185,11 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/batonsfourres.php">
+                                                <a href="../../pages/en/batonsfourres.php">
                                                     <img id="produit" class="img-responsive" src="../../images/baton.jpg" alt="">
                                                 </a>
                                                 <h5>
-                                                    Bâtons fourrés
+                                                    Filled sticks
                                                 </h5>
                                             </div>
                                         </div>
@@ -201,11 +201,11 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <a href="../../pages/fr/pate.php">
+                                                <a href="../../pages/en/pate.php">
                                                     <img id="produit" class="img-responsive" src="../../images/pate.jpg" alt="">
                                                 </a>
                                                 <h5>
-                                                    Pâtes à tartiner
+                                                    Spreads
                                                 </h5>
                                             </div>
                                         </div>

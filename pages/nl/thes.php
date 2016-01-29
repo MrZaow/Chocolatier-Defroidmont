@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Nos Thés</h1>
+                    <h1>Thee</h1>
                 </div>
             </div>
         </div>
@@ -17,21 +17,21 @@
     <section id="portfolio" class="container">
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Noir Chocolat</h3>
+                <h3>Zwarte thee Chocolate</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>
                 <img src="../../images/thechocolat.jpg" alt="Ballotin" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Noir Caramel</h3>
+                <h3>Zwarte thee Caramel</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>
                 <img src="../../images/thecaramel.jpg" alt="Bloc nature" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Noir My Lady</h3>
+                <h3>Zwarte thee My Lady</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>
@@ -40,21 +40,21 @@
         </div>
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Vert Douceur Tropical</h3>
+                <h3>Groene thee tropisch zachtheid</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>
                 <img src="../../images/thedouceur.jpg" alt="Tablette brisure" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Vert des Fées</h3>
+                <h3>Groene thee van fee</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>
                 <img src="../../images/thefees.jpg" alt="Tablette d'origine" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-6">
-                <h3>Thé Vert Prune Cannelle</h3>
+                <h3>Groene thee Cinnamon pruim</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>
@@ -63,21 +63,21 @@
         </div>
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <h3>Infusion Plaisir du Connemara</h3>
+                <h3>Infusie genoegen Connemara</h3>
                 <ul>
                     <li>60g - 4,00€</li>
                 </ul>
                 <img src="../../images/theconnemara.jpg" alt="Ballotin" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-6">
-                <h3>Infusion Douceur de Durbuy</h3>
+                <h3>Zachtheid infusie van Durbuy</h3>
                 <ul>
                     <li>60g - 4,00€</li>
                 </ul>
                 <img src="../../images/thedurbuy.jpg" alt="Tablette d'origine" class="img-responsive">
             </div>
             <div class="col-md-4 col-sm-6">
-                <h3>Tisane Ardennaise</h3>
+                <h3>Ardennaise voedzaam afkooksel</h3>
                 <ul>
                     <li>50g - 4,00€</li>
                 </ul>

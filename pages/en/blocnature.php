@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <?php include("../../includes/head.php") ?>
 <body>
-    <?php include("../../includes/fr/header.php") ?>
+    <?php include("../../includes/en/header.php") ?>
     
     <section id="title" class="orange">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Blocs natures</h1>
+                    <h1>Natural blocks</h1>
                 </div>
             </div>
         </div>
@@ -17,13 +17,13 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Goûts disponibles</h2>
+                <h2>Available tastes</h2>
                 <ul>
-                    <li>Chocolat noir 70% de Côte d'Ivoire</li>
-                    <li>Chocolat au lait 43% de Venezuela</li>
-                    <li>Chocolat blanc</li>
+                    <li>70% dark chocolate from Ivory Coast</li>
+                    <li>43% milk chocolate from Venezuela</li>
+                    <li>White chocolate</li>
                 </ul>
-                <h2>Poids disponibles et prix</h2>
+                <h2>Available weights and prices</h2>
                 <ul>
                     <li>275g - 8,00€</li>
                 </ul>
@@ -34,9 +34,9 @@
         </div>
     </section>
 
-    <?php include("../../includes/fr/bottom.php") ?>
+    <?php include("../../includes/en/bottom.php") ?>
 
-    <?php include("../../includes/fr/footer.php") ?>
+    <?php include("../../includes/en/footer.php") ?>
 
     <?php include("../../includes/script.php") ?>
 </body>
