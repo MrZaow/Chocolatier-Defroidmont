@@ -17,15 +17,15 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Osez découvrir notre musée du chocolat</h2>
+                <h2>Nous vous invitons à découvrir notre musée du chocolat</h2>
                 <p>
                     L'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier.
                      La fève de cacao, selon son origine, libère des arômes aussi subtils que particuliers qui ne manqueront
                       pas de surprendre vos papilles gustatives.
                 </p>
-                <p>C’est en parcourant le musée, que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, de la 
-                    Papouasie-Nouvelle Guinée, pays d’origine de nos fèves de cacao pour revenir
-                 en Belgique dans notre atelier où vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
+                <p>C’est en parcourant le musée que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, du Venezuela, 
+                    pays d’origine de nos fèves de cacao, pour revenir
+                 en Belgique. Dans notre atelier, vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
             </div>
             <div class="col-md-12">
                 <div class="col-md-6">

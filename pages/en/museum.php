@@ -17,12 +17,12 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Dare to discover our chocolate museum</h2>
+                <h2>We're inviting you to discover our chocolate museum</h2>
                 <p>
                     The craftsman Philippe Defroidmont invites you to a discovery of chocolaty flavors from around the world. Cocoa bean, depending on its origin, also releases subtle aromas that individuals that are sure to surprise your taste buds.
                 </p>
                 <p>
-                    Through the museum, you will discover family history. You will travel through the world of chocolate, Papua New Guinea, the country of origin of our cocoa beans to return to Belgium in our workshop where you will discover the different stages of manufacturing, cocoa bean praline.
+                    Through the museum you will discover family history. You will travel through the world of chocolate from Venezuela, country of origin of our cocoa beans to return to Belgium. In our workshop, you will discover the various stages of manufacture, from the cocoa bean to the praline.
                 </p>
             </div>
             <div class="col-md-12">

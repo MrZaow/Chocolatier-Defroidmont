@@ -17,15 +17,14 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Durf onze chocolademuseum ontdekken</h2>
+                <h2>Wij nodigen u uit om onze chocolade museum te ontdekken</h2>
                 <p>
                     De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van chocolaty smaken uit de hele wereld. 
                     Cacaoboon, afhankelijk van de herkomst, brengt ook subtiele aroma's die individuen die zeker zijn om uw smaakpapillen verrassen.                
                 </p>
                 <p>
-                    Het is door het museum, zult u familiegeschiedenis te ontdekken. Je reist door de wereld van de chocolade, 
-                    Papoea-Nieuw-Guinea, het land van herkomst van onze cacaobonen in onze werkplaats terug te keren naar België waar 
-                    u de verschillende stadia van de productie, cacaoboon praline ontdekt.
+                    Het is door het museum vindt u familiegeschiedenis te ontdekken. Je reist door de wereld van de chocolade uit Venezuela, het land van herkomst van onze cacaobonen om terug te keren naar België. 
+                    In onze workshop krijgt u de verschillende stadia van de vervaardiging ontdekken, van de cacaoboon tot de praline.
                 </p>
             </div>
             <div class="col-md-12">
