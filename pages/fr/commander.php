@@ -20,8 +20,7 @@
                 <h2>Comment commander nos produits en ligne ?</h2>
                 <p>Pour commander nos produits en ligne, rien de plus simple ! Contactez-nous à l'adresse mail
                  <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> en précisant les produits et les quantités souhaitées,
-                 ainsi que vos coordonnées et l'adresse à laquelle vous souhaitez être livré. Nous vous enverrons votre facture et, après réception de votre paiement,
-                 nous livrerons vos produits.
+                 ainsi que vos coordonnées et l'adresse à laquelle vous souhaitez être livré. Nous établirons votre facture et dès réception du règlement de celle-ci, nous expédierons votre commande.
                 </p>
             </div>
             <div class="col-md-6">

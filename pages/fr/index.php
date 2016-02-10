@@ -71,7 +71,7 @@
                             <h4>Erezée</h4>
                             <p>Ouvert du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30</p>
                             <h4>Durbuy</h4>
-                            <p>Ouvert tous les jours de 10h à 16h30 sauf le mardi et le mercredi</p>
+                            <p>Ouvert tous les jours de 10h à 18h sauf le mardi et le mercredi</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -232,16 +232,16 @@
                         <div class="col-md-6">
                             <blockquote>
                                 <p>
-                                    Les pralines sont extras! Philippe Defroidmont est sans cesse à la recherche de nouvelles
+                                    <i>"Les pralines sont extras! Philippe Defroidmont est sans cesse à la recherche de nouvelles
                                     sensations pour éveiller les papilles gustatives de ses clients...
-                                    La boutique est sympathique avec de bons produits de bouche, idéal pour vos cadeaux quelconques.
+                                    La boutique est sympathique avec de bons produits de bouche, idéal pour vos cadeaux quelconques."</i>
                                 </p>
                                 <small>Emeline Quirynen de <cite title="Source Title">Google Maps</cite></small>
                             </blockquote>
                             <blockquote>
                                 <p>
-                                    Visite bien sympathique. Un petit retour dans l'histoire de cette famille qui visiblement aime son chocolat. 
-                                    Un réel plaisir de dégustation si on l'aime, le chocolat
+                                    <i>"Visite bien sympathique. Un petit retour dans l'histoire de cette famille qui visiblement aime son chocolat. 
+                                    Un réel plaisir de dégustation si on l'aime, le chocolat"</i>
                                 </p>
                                 <small>Virginie Danny de <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
@@ -249,14 +249,15 @@
                         <div class="col-md-6">
                             <blockquote>
                                 <p>
-                                    C'est toujours un plaisir de terminer une balade par un tour dans cette chocolaterie pour une dégustation sur la terrasse.
-                                    Mais les pralines achetées sont trop vite mangées et il faudrait déjà y retourner :)
+                                    <i>"C'est toujours un plaisir de terminer une balade par un tour dans cette chocolaterie pour une dégustation sur la terrasse.
+                                    Mais les pralines achetées sont trop vite mangées et il faudrait déjà y retourner :)"</i>
                                 </p>
                                 <small>Lucie V de <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                             <blockquote>
-                                <p>Super musée, très didactique, bien fait. Très intéressant de voir à l'oeuvre dans l'atelier.
-                                 Dégustations agréables! petite boutique avec souvenirs gourmands à rapporter, divin!</p>
+                                <p><i>"Super musée, très didactique, bien fait. Très intéressant de voir à l'oeuvre dans l'atelier.
+                                 Dégustations agréables! petite boutique avec souvenirs gourmands à rapporter, divin!"</i>
+                                </p>
                                 <small>Natalie F de <cite title="Source Title">TripAdvisor</cite></small>
                             </blockquote>
                         </div>

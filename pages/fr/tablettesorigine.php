@@ -19,8 +19,6 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat Blanc Côte d'Ivoire</li>
-                    <li>Chocolat au Lait Venezuela 43%</li>
                     <li>Chocolat Noir Costa Rica 64%</li>
                     <li>Chocolat Noir Pérou 65% BIO</li>
                     <li>Chocolat Noir Madagascar 67%</li>

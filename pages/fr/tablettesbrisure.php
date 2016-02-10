@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Tablettes Brisure</h1>
+                    <h1>Tablettes Brisures</h1>
                 </div>
             </div>
         </div>
@@ -19,11 +19,11 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat au Lait 43% Brisure de Caramel</li>
-                    <li>Chocolat au Lait 43% Brisure de Noisettes</li>
                     <li>Chocolat noir 70% Brisure de Caramel</li>
                     <li>Chocolat noir 70% Piment d'Espelette</li>
                     <li>Chocolat noir 70% Brisure de Noisettes</li>
+                    <li>Chocolat au Lait 43% Brisure de Caramel</li>
+                    <li>Chocolat au Lait 43% Brisure de Noisettes</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>
                 <ul>

@@ -17,7 +17,7 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Nous vous invitons à découvrir notre musée du chocolat</h2>
+                <h2>Venez découvrir notre Musée du Chocolat</h2>
                 <p>
                     L'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier.
                      La fève de cacao, selon son origine, libère des arômes aussi subtils que particuliers qui ne manqueront
@@ -25,7 +25,7 @@
                 </p>
                 <p>C’est en parcourant le musée que vous découvrirez l’histoire familiale. Vous voyagerez à travers le monde du chocolat, du Venezuela, 
                     pays d’origine de nos fèves de cacao, pour revenir
-                 en Belgique. Dans notre atelier, vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
+                 en Belgique. Dans notre musée, vous découvrirez les différentes étapes de fabrication, de la fève de cacao à la praline.</p>
             </div>
             <div class="col-md-12">
                 <div class="col-md-6">
@@ -57,9 +57,9 @@
                 <h3>Accessibilité</h3>
                 <p>
                     2 places de parking pour les personnes à mobilité reduite <br>
-                    Inaccessible par transport en commun <br>
-                    Inaccessible par train <br>
-                    Présence de rack à vélos
+                    Présence de rack à vélos <br>
+                    Borne pour recharger les batteries de vélos électriques <br>
+                    <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
                 </p>
             </div>
             <div class="col-md-8">

@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Blocs aux fruits</h1>
+                    <h1>Blocs aux fruits secs</h1>
                 </div>
             </div>
         </div>

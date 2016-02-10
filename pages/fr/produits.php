@@ -30,13 +30,13 @@
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <h3>Blocs fruits</h3>
+                <h3>Blocs aux fruits secs</h3>
                 <a href="blocfruit.php">
                     <img id="produit" src="../../images/blocfruit.jpg" alt="Bloc fruit" class="img-responsive">
                 </a>
             </div>
             <div class="col-md-3 col-sm-6">
-                <h3>Tablettes brisure</h3>
+                <h3>Tablettes brisures</h3>
                 <a href="tablettesbrisure.php">
                     <img id="produit" src="../../images/tablettebrisure.jpg" alt="Tablette brisure" class="img-responsive">
                 </a>

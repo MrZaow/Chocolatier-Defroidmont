@@ -19,14 +19,14 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat Blanc Praliné aux Noisettes</li>
-                    <li>Chocolat Blanc Praliné Coco</li>
-                    <li>Chocolat au Lait Praliné aux Noisettes</li>
-                    <li>Chocolat au Lait croustillant</li>
                     <li>Chocolat Noir 70% Praliné aux Noisettes</li>
                     <li>Chocolat Noir 70% Crème de Pistache</li>
                     <li>Chocolat Noir 70% Crème Framboise (sans lactose)</li>
                     <li>Chocolat Noir 70% Crème Vanille (sans lactose)</li>
+                    <li>Chocolat au Lait Praliné aux Noisettes</li>
+                    <li>Chocolat au Lait croustillant</li>
+                    <li>Chocolat Blanc Praliné aux Noisettes</li>
+                    <li>Chocolat Blanc Praliné Coco</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>
                 <ul>

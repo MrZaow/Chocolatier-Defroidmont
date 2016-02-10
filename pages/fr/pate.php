@@ -19,8 +19,8 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Pâte de noisette au chocolat noir sans lactose</li>
-                    <li>Pâte de noisette au chocolat au lait</li>
+                    <li>Pâte de noisettes au chocolat noir sans lactose</li>
+                    <li>Pâte de noisettes au chocolat au lait</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>
                 <ul>

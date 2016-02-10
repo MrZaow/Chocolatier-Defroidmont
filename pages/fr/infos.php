@@ -19,13 +19,13 @@
             <div class="col-md-4">
                 <h2>Contact</h2>
                 <p><strong>Téléphone</strong> : 086 21 84 40</p>
-                <p><strong>Adresse mail</strong> :<a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> </p>
+                <p><strong>Adresse mail</strong> : <br><a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> </p>
                 <h2>Accessibilité</h2>
                 <p>
                     2 places de parking pour les personnes à mobilité reduite <br>
-                    Inaccessible par transport en commun <br>
-                    Inaccessible par train <br>
-                    Présence de rack à vélos
+                    Présence de rack à vélos <br>
+                    Borne pour recharger les batteries de vélos électriques <br>
+                    <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
             </p>
             </div>
             <div class="col-md-8">

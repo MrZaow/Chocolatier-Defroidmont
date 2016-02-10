@@ -17,13 +17,13 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Nos boutiques d'Érezée et Durbuy vous accueillent avec plaisir</h2>
+                <h2>Nos boutiques d'Érezée et Durbuy</h2>
                 <p>
                     Notre boutique à Briscol-Erezée vous propose une large gamme de chocolat, épicerie fine, miels de la région, thés, liqueurs, etc. Notre boutique à Durbuy vous propose une large gamme de chocolats.
                 </p>
             </div>
             <div class="col-md-5">
-                <h3 class="center">La boutique d'Érezée</h3>
+                <h3 class="center">Érezée</h3>
                 <img src="../../images/boutique.JPG" alt="Magasin d'Erezee" class="img-responsive">
                 <br>
                 <p>
@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-2"></div>
             <div class="col-md-5">
-                <h3 class="center">La boutique de Durbuy</h3>
+                <h3 class="center">Durbuy</h3>
                 <img src="../../images/boutiquedurbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
                 <br>
                 <p>

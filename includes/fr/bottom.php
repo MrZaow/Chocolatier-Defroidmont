@@ -2,13 +2,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-3">
-                    <h4>A propos de nous</h4>
-                    <p>
-                    Située dans le petit village de Briscol, la chocolaterie Defroidmont fabrique de nombreuses gourmandises 
-                    de toutes sortes. Ouverte du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30
-                </p>
-                </div>
-                <div class="col-md-3 col-sm-3">
                     <h4>Chocolaterie Defroidmont</h4>
                     <div>
                         <ul class="arrow">
@@ -26,7 +19,13 @@
                     <address>
                         <p>Chocolaterie Defroidmont</p>
                         <p>Briscol 19a, 6997 Érezée</p>
-                        <p>086 21 84 40</p>
+                    </address>
+                </div> <!--/.col-md-3-->
+                <div class="col-md-3 col-sm-3">
+                    <h4>Contact</h4>
+                    <address>
+                        <p>Téléphone : 086 21 84 40</p>
+                        <p>Mail : <a href="mailto:contact@chocolatier-defroidmont.be">contact@chocolatier-defroidmont.be</a></p>
                     </address>
                 </div> <!--/.col-md-3-->
 
