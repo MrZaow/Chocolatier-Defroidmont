@@ -19,12 +19,12 @@
             <div class="col-md-6">
                 <h2>Goûts disponibles</h2>
                 <ul>
-                    <li>Chocolat Noir Costa Rica 64%</li>
-                    <li>Chocolat Noir Pérou 65% BIO</li>
-                    <li>Chocolat Noir Madagascar 67%</li>
-                    <li>Chocolat Noir Côte d'Ivoire 70%</li>
-                    <li>Chocolat Noir Vietnam 73%</li>
-                    <li>Chocolat Noir Ouganda 80%</li>
+                    <li>Chocolat Noir origine Costa Rica 64%</li>
+                    <li>Chocolat Noir origine Pérou 65% BIO</li>
+                    <li>Chocolat Noir origine Madagascar 67%</li>
+                    <li>Chocolat Noir origine Côte d'Ivoire 70%</li>
+                    <li>Chocolat Noir origine Vietnam 73%</li>
+                    <li>Chocolat Noir origine Ouganda 80%</li>
                 </ul>
                 <h2>Poids disponibles et prix</h2>
                 <ul>
