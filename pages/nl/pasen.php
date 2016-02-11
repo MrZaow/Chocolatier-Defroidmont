@@ -16,15 +16,27 @@
 
     <section class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="col-md-6">
-                    <img src="../../images/paques1.JPG" alt="Musée du chocolat" class="img-responsive"><br>
-                    <img src="../../images/paques2.JPG" alt="Musée du chocolat" class="img-responsive"><br>
-                </div>
-                <div class="col-md-6">
-                    <img src="../../images/paques3.JPG" alt="Musée du chocolat" class="img-responsive"><br>
-                    <img src="../../images/paques4.JPG" alt="Musée du chocolat" class="img-responsive"><br>
-                </div>
+            <div class="col-md-6">
+                <img src="../../images/paques1.JPG" alt="Pasen chocolade" class="img-responsive"><br>
+            </div>
+            <div class="col-md-6">
+                <img src="../../images/paques2.JPG" alt="Pasen chocolade" class="img-responsive"><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../../images/paques3.JPG" alt="Pasen chocolade" class="img-responsive"><br>
+            </div>
+            <div class="col-md-6">
+                <img src="../../images/paques4.JPG" alt="Pasen chocolade" class="img-responsive"><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../../images/paques5.JPG" alt="Pasen chocolade" class="img-responsive"><br>
+            </div>
+            <div class="col-md-6">
+                <img src="../../images/paques6.JPG" alt="Pasen chocolade" class="img-responsive"><br>
             </div>
         </div>
     </section>
