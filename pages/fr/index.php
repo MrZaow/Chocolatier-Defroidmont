@@ -11,7 +11,7 @@
                 <li data-target="#main-slider" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-                <div class="item active" style="background-image: url(../../images/slider/bg1.jpg)">
+                <div class="item active" style="background-color: #30120a">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
