@@ -25,7 +25,8 @@
                     2 places de parking pour les personnes à mobilité reduite <br>
                     Inaccessible par transport en commun <br>
                     Inaccessible par train <br>
-                    Présence de rack à vélos
+                    Présence de rack à vélos<br>
+                    <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
             </p>
             </div>
             <div class="col-md-8">

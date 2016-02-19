@@ -19,9 +19,9 @@
             <div class="col-md-6">
                 <h2>Beschikbare smaken</h2>
                 <ul>
-                    <li>70% donkere chocolade uit Ivoorkust</li>
-                    <li>Melkchocolade 43% van Venezuela</li>
-                    <li>Witte chocolade</li>
+                    <li>70% donkere chocolade oorsprong Ivoorkust</li>
+                    <li>Melkchocolade 43% oorsprong Venezuela</li>
+                    <li>Witte chocolade herkomst Ivoorkust</li>
                 </ul>
                 <h2>Beschikbare gewicht en de prijs</h2>
                 <ul>

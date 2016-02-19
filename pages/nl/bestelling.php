@@ -21,7 +21,7 @@
                 <p>Om onze producten online te bestellen is eenvoudig! Neem contact met ons op via het e-mailadres
                  <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> met vermelding van
                   de producten en hoeveelheden gewenst, evenals uw contactgegevens en het adres waar u wilt worden afgeleverd.
-                   Wij sturen u uw factuur en, na ontvangst van uw betaling, zullen wij uw producten te leveren.
+                   Wij zullen uw factuur te stellen en na ontvangst van de betaling daarvan, zullen wij uw bestelling.
                 </p>
             </div>
             <div class="col-md-6">

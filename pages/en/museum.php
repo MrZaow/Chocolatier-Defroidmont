@@ -44,8 +44,8 @@
             <div class="col-md-4">
                 <h3>Rate</h3>
                 <p>
-                    Adults : 4,95 euros/person <br>
-                    Children (under 12 years) : 3,95 euros/person
+                    Adults : 5,00 euros/person <br>
+                    Children (under 12 years) : 4,00 euros/person
                 </p>
                 <h3>Duration</h3>
                 <p>
@@ -57,7 +57,8 @@
                     2 parking spaces for disabled people <br>
                     Inaccessible by public transportation <br>
                     Inaccessible by rail <br>
-                    Bicycle rack presence
+                    Bicycle rack presence <br>
+                    <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
                 </p>
             </div>
             <div class="col-md-8">

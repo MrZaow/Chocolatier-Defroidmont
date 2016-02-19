@@ -59,7 +59,8 @@
                     2 parkeerplaatsen voor personen met beperkte mobiliteit <br>
                     Ontoegankelijk openbaar vervoer <br>
                     Onbereikbaar per spoor <br>
-                    Fietsenrek Presence
+                    Fietsenrek Presence <br>
+                    <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
                 </p>
             </div>
             <div class="col-md-8">

@@ -19,9 +19,9 @@
             <div class="col-md-6">
                 <h2>Available tastes</h2>
                 <ul>
-                    <li>70% dark chocolate from Ivory Coast</li>
-                    <li>43% milk chocolate from Venezuela</li>
-                    <li>White chocolate</li>
+                    <li>70% dark chocolate origin Ivory Coast</li>
+                    <li>Milk chocolate 43% origin Venezuela</li>
+                    <li>White chocolate origin Ivory Coast</li>
                 </ul>
                 <h2>Available weights and prices</h2>
                 <ul>

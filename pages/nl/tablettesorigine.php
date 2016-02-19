@@ -19,12 +19,10 @@
             <div class="col-md-6">
                 <h2>Beschikbare smaken</h2>
                 <ul>
-                    <li>White Chocolate Ivoorkust</li>
-                    <li>Venezuela Melkchocolade 43%</li>
                     <li>Costa Rica Black Chocolate 64%</li>
                     <li>Peru Black Chocolate 65% Organic</li>
                     <li>Madagascar Black Chocolate 67%</li>
-                    <li>Chocolade Zwart Ivoorkust 70%</li>
+                    <li>Chocolade Black Ivoorkust 70%</li>
                     <li>Vietnam Black Chocolate 73%</li>
                     <li>Uganda Black Chocolate 80%</li>
                 </ul>

@@ -16,7 +16,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <img src="../../images/logo31.png" alt="Logo chocolaterie Defroidmont">
+                                    <img src="../../images/logo2.png" alt="Logo chocolaterie Defroidmont">
                                 </div>
                             </div>
                         </div>

@@ -19,14 +19,14 @@
             <div class="col-md-6">
                 <h2>Available tastes</h2>
                 <ul>
-                    <li>White Chocolate Hazelnut Praline</li>
-                    <li>White Chocolate Praline Coco</li>
-                    <li>Milk Chocolate Hazelnut Praline</li>
-                    <li>Crispy Milk Chocolate</li>
                     <li>Chocolate Black Hazelnut Praline 70%</li>
                     <li>Black Chocolate 70% Pistachio Cream</li>
                     <li>Black Chocolate Raspberry Cream 70% (without lactose)</li>
                     <li>Black Chocolate Vanilla Cream 70% (without lactose)</li>
+                    <li>White Chocolate Hazelnut Praline</li>
+                    <li>White Chocolate Praline Coco</li>
+                    <li>Milk Chocolate Hazelnut Praline</li>
+                    <li>Crispy Milk Chocolate</li>
                 </ul>
                 <h2>Available weights and prices</h2>
                 <ul>

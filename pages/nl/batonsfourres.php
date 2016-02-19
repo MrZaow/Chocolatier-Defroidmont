@@ -19,14 +19,14 @@
             <div class="col-md-6">
                 <h2>Beschikbare smaken</h2>
                 <ul>
-                    <li>White Chocolate hazelnootpraliné</li>
-                    <li>Witte chocolade Praline Coco</li>
-                    <li>Melkchocolade Hazelnoot Praline</li>
-                    <li>Krokant Melkchocolade</li>
                     <li>Chocolade Zwart hazelnootpraliné 70%</li>
                     <li>Zwarte chocolade 70% Pistache Cream</li>
                     <li>Zwarte chocolade Raspberry Cream 70% (zonder lactose)</li>
                     <li>Black Chocolate Vanilla Cream 70% (zonder lactose)</li>
+                    <li>White Chocolate hazelnootpraliné</li>
+                    <li>Witte chocolade Praline Coco</li>
+                    <li>Melkchocolade Hazelnoot Praline</li>
+                    <li>Krokant Melkchocolade</li>
                 </ul>
                 <h2>Beschikbare gewicht en de prijs</h2>
                 <ul>

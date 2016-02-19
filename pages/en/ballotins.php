@@ -22,9 +22,9 @@
                     made with respect for tradition with notes sometimes fruity, spicy, caramelized the seasons.</p>
                 <h2>Available tastes</h2>
                 <ul>
-                    <li>Assortment of white chocolates</li>
-                    <li>Assorted of milk chocolates</li>
                     <li>Assortment of dark chocolates</li>
+                    <li>Assorted of milk chocolates</li>
+                    <li>Assortment of white chocolates</li>
                     <li>Assortment of all our chocolates</li>
                 </ul>
                 <h2>Available weights and prices</h2>

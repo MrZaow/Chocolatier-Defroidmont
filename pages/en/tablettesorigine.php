@@ -19,8 +19,6 @@
             <div class="col-md-6">
                 <h2>Available tastes</h2>
                 <ul>
-                    <li>White Chocolate Ivory Coast</li>
-                    <li>Venezuela Milk Chocolate 43%</li>
                     <li>Costa Rica Black Chocolate 64%</li>
                     <li>Peru Black Chocolate 65% Organic</li>
                     <li>Madagascar Black Chocolate 67%</li>

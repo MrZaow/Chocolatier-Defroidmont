@@ -19,11 +19,11 @@
             <div class="col-md-6">
                 <h2>Beschikbare smaken</h2>
                 <ul>
-                    <li>43% Melkchocolade Caramel Brisure</li>
-                    <li>43% Melkchocolade Hazelnoot Brisure</li>
                     <li>70% donkere chocolade Caramel Brisure</li>
                     <li>70% donkere chocolade Espelette</li>
                     <li>70% donkere chocolade hazelnoot Brisure</li>
+                    <li>43% Melkchocolade Caramel Brisure</li>
+                    <li>43% Melkchocolade Hazelnoot Brisure</li>
                 </ul>
                 <h2>Beschikbare gewicht en de prijs</h2>
                 <ul>

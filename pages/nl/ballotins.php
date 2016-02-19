@@ -22,9 +22,9 @@
                     pralines gemaakt met respect voor traditie met notities soms fruitig, kruidig, gekarameliseerde de seizoenen.</p>
                 <h2>Beschikbare smaken</h2>
                 <ul>
-                    <li>Assortiment van witte chocolade</li>
-                    <li>Assortiment van melk chocolade</li>
                     <li>Assortiment van donkere chocolade</li>
+                    <li>Assortiment van melk chocolade</li>
+                    <li>Assortiment van witte chocolade</li>
                     <li>Assortiment van alles onze chocolade</li>
                 </ul>
                 <h2>Beschikbare gewicht en de prijs</h2>
