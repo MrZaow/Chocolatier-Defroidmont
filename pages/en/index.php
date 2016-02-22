@@ -32,7 +32,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
-                                    <h1 class="animation animated-item-1">Our Easter chocolates are there</h1>
+                                    <h1 class="animation animated-item-1">Our Easter chocolates are here !</h1>
                                     <br>
                                     <a class="btn btn-md animation animated-item-3" href="../../pages/en/easter.php">See the Easter chocolates</a>
                                 </div>
@@ -45,8 +45,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="animation animated-item-1">Feel free to place your orders online</h2>
-                                    <h3 class="animation animated-item-2">Phone : 086 21 84 40</h3>
+                                    <h2 class="animation animated-item-1">You can also place your orders online</h2>
+                                    <h3 class="animation animated-item-2">Phone : 0032 (0)86 21 84 40</h3>
                                     <h3 class="animation animated-item-3">Mail : contact@chocolatier-defroidmont.be</h3>
                                 </div>
                             </div>
@@ -72,11 +72,11 @@
                             <i class="icon-time icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Open hours</h3>
+                            <h3 class="media-heading">Opening hours</h3>
                             <h4>Erezée</h4>
-                            <p>Open Tuesday to Saturday from 10am to 18pm and Sunday from 10 am to 16:30</p>
+                            <p>Open Tuesday to Saturday from 10am to 6pm and Sunday 10 am to 4:30pm</p>
                             <h4>Durbuy</h4>
-                            <p>Open daily from 10 am to 16:30 except Tuesday and Wednesday</p>
+                            <p>Open daily 10 am to 4:30pm. Closed Tuesdays and Wednesdays</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -86,8 +86,8 @@
                             <i class="icon-shopping-cart icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Chocolate Sale</h3>
-                            <p>Handmade chocolate sales, tastings and advice.</p>
+                            <h3 class="media-heading">Chocolate Sales</h3>
+                            <p>Sales, tastings and advice from our handmade chocolates</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -97,8 +97,8 @@
                             <i class="icon-group icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Museum Tour</h3>
-                            <p>Visit to discover the chocolate museum.</p>
+                            <h3 class="media-heading">The museum</h3>
+                            <p>Visit our chocolate museum</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -110,8 +110,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3>Our delicious products</h3>
-                    <p>Some of the chocolates we produce in our chocolate factory in Érezée</p>
+                    <h3>Our delicious chocolates</h3>
+                    <p>Here are some chocolates which we produce in our chocolate factory in Érezée</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
                         <a class="btn btn-danger" href="#scroller" data-slide="next"><i class="icon-angle-right"></i></a>
@@ -230,7 +230,7 @@
                 <div class="col-lg-12">
                     <div class="center">
                         <h2>What our clients think of us</h2>
-                        <p>The satisfaction of our customers is our priority</p>
+                        <p>The satisfaction of our customers is a priority</p>
                     </div>
                     <div class="gap"></div>
                     <div class="row">

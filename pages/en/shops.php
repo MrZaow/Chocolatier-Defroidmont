@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Our shops</h1>
+                    <h1>Our stores</h1>
                 </div>
             </div>
         </div>
@@ -17,19 +17,19 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Our Érezée and Durbuy shops welcome you with pleasure</h2>
+                <h2>Our stores in Érezée and Durbuy</h2>
                 <p>
-                   Our Briscol-Erezée shop  offers a wide range of chocolate, delicatessen, honey from the region, teas, liqueurs, etc. Our shop in Durbuy offers a wide range of chocolates.
+                   Our stores in Briscol­Erezée Durbuy and offer a wide range of chocolate delicacies, honey from the region, tea, liqueurs, etc.
                 </p>
             </div>
             <div class="col-md-5">
-                <h3 class="center">The Érezée shop</h3>
+                <h3 class="center">The shop, workshop and museum in Érezée</h3>
                 <img src="../../images/boutique.JPG" alt="Erezee shop" class="img-responsive">
                 <br>
                 <p>
                     Adress : Briscol 19a, 6997 Érezée <br>
-                    Phone : 086 21 84 40 <br>
-                    Open: Tuesday to Saturday from 10am to 18pm and Sunday from 10 am to 16:30
+                    Phone : 0032 (0)86 21 84 40 <br>
+                    Open: Tuesday to Saturday from 10am to 18pm and Sunday 10am to 16h30pm
                 </p>
                 <p>
                     Our Briscol-Erezée shop  offers a wide range of chocolate, delicatessen, honey from the region, teas, liqueurs, etc.
@@ -37,13 +37,13 @@
             </div>
             <div class="col-md-2"></div>
             <div class="col-md-5">
-                <h3 class="center">The Durbuy shop</h3>
+                <h3 class="center">The shop in Durbuy</h3>
                 <img src="../../images/boutiquedurbuy.jpg" alt="Durbuy shop" class="img-responsive">
                 <br>
                 <p>
                     Adress : rue Alphonse Eloy 7, 6940 Durbuy  <br>
-                    Phone : 086 38 70 74 <br>
-                    Open: daily from 10h to 18h except Tuesday and Wednesday
+                    Phone : 0032 (0)86 38 70 74 <br>
+                    Open daily 10am to 16h30pm. Closed on Tuesdays and Wednesdays
                 </p>
                 <p>
                     Our shop in Durbuy offers a wide range of chocolates.
@@ -53,7 +53,7 @@
         <hr>
         <div class="row">
             <div class="center">
-                <h2>You can also procure yourself with our delicious chocolates in our partner outlets</h2>
+                <h2>You can also buy our delicious chocolates in our partner outlets.</h2>
             </div>
             <div class="col-md-4">
                 <h3>Brabant Wallon</h3>

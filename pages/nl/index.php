@@ -32,9 +32,9 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
-                                    <h1 class="animation animated-item-1">Onze Pasen chocolaatjes zijn er !</h1>
+                                    <h1 class="animation animated-item-1">Onze Paaschocolaatjes zijn er !</h1>
                                     <br>
-                                    <a class="btn btn-md animation animated-item-3" href="#">Zie de chocoladen paaseieren</a>
+                                    <a class="btn btn-md animation animated-item-3" href="pasen.php">Zie de chocoladen paaseieren</a>
                                 </div>
                             </div>
                         </div>
@@ -45,8 +45,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="animation animated-item-1">Voel je vrij om online bestellingen plaatsen</h2>
-                                    <h3 class="animation animated-item-2">Telefoon : 086/21.84.40</h3>
+                                    <h2 class="animation animated-item-1">U kan ook online uw bestellingen plaatsen</h2>
+                                    <h3 class="animation animated-item-2">Telefoon : 0032 (0)86/21.84.40</h3>
                                     <h3 class="animation animated-item-3">Mail : contact@chocolatier-defroidmont.be</h3>
                                 </div>
                             </div>
@@ -74,9 +74,9 @@
                         <div class="media-body">
                             <h3 class="media-heading">Kantooruren</h3>
                             <h4>Erezée</h4>
-                            <p>Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10:00-16:30</p>
+                            <p>Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10u tot 16u30</p>
                             <h4>Durbuy</h4>
-                            <p>Dagelijks geopend 10:00-16:30 behalve op dinsdag en woensdag</p>
+                            <p>Dagelijks geopend 10u00 tot 16u30. Gesloten op dinsdag en woensdag</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -86,8 +86,8 @@
                             <i class="icon-shopping-cart icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Chocolade Sale</h3>
-                            <p>Handgemaakte chocolade verkopen, proeverijen en advies.</p>
+                            <h3 class="media-heading">Chocolade Verkoop</h3>
+                            <p>Verkoop, proeverijen en advies van onze handgemaakte chocolade</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -97,8 +97,8 @@
                             <i class="icon-group icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Museum Tour</h3>
-                            <p>Bezoek aan het chocolademuseum te ontdekken.</p>
+                            <h3 class="media-heading">Het Museum</h3>
+                            <p>Bezoek ons chocolademuseum</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -111,7 +111,7 @@
             <div class="row">
                 <div class="col-md-3">
                     <h3>Onze heerlijke bonbons</h3>
-                    <p>Een paar bonbons produceren wij in onze chocoladefabriek in Érezée</p>
+                    <p>Hier een aantal bonbons die wij produceren in onze chocoladefabriek te Érezée</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
                         <a class="btn btn-danger" href="#scroller" data-slide="next"><i class="icon-angle-right"></i></a>
@@ -230,7 +230,7 @@
                 <div class="col-lg-12">
                     <div class="center">
                         <h2>Wat onze klanten van ons denken</h2>
-                        <p>De tevredenheid van onze klanten is onze prioriteit</p>
+                        <p>De tevredenheid van onze klanten is een prioriteit</p>
                     </div>
                     <div class="gap"></div>
                     <div class="row">

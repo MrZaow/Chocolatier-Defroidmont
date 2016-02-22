@@ -15,7 +15,7 @@
                 <li><a href="../../pages/en/index.php">Home</a></li>
                 <li><a href="../../pages/en/products.php">Products</a></li>
                 <li><a href="../../pages/en/order.php"><i class="fa fa-shopping-cart"></i> Order</a></li>
-                <li><a href="../../pages/en/shops.php">Our shops</a></li>
+                <li><a href="../../pages/en/shops.php">Our stores</a></li>
                 <li><a href="../../pages/en/museum.php">Museum</a></li>
                 <li><a href="../../pages/en/easter.php">Easter</a></li>
                 <li><a href="../../pages/en/infos.php">Info</a></li>

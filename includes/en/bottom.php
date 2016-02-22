@@ -4,8 +4,8 @@
                 <div class="col-md-3 col-sm-3">
                     <h4>About us</h4>
                     <p>
-                    Located in the small village of Briscol the Defroidmont chocolate factory manufactures
-                     many delicacies of all kinds. Open Tuesday to Saturday from 10am to 18pm and Sunday from 10 am to 16:30
+                    Chocolate Defroidmont is located in the small village Briscol, we produce many delicacies. 
+                    Open Tuesday to Saturday from 10h to 18h and Sunday 10h to 16h30
                 </p>
                 </div>
                 <div class="col-md-3 col-sm-3">
@@ -27,7 +27,7 @@
                     <address>
                         <p>Chocolaterie Defroidmont</p>
                         <p>Briscol 19a, 6997 Érezée</p>
-                        <p>086 21 84 40</p>
+                        <p>0032 (0)86 21 84 40</p>
                     </address>
                 </div> <!--/.col-md-3-->
 

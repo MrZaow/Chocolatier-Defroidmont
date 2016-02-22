@@ -17,11 +17,9 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Hoe we onze producten online bestellen?</h2>
-                <p>Om onze producten online te bestellen is eenvoudig! Neem contact met ons op via het e-mailadres
-                 <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> met vermelding van
-                  de producten en hoeveelheden gewenst, evenals uw contactgegevens en het adres waar u wilt worden afgeleverd.
-                   Wij zullen uw factuur te stellen en na ontvangst van de betaling daarvan, zullen wij uw bestelling.
+                <h2>Hoe u onze producten online kunt bestellen ?</h2>
+                <p>
+                    Om onze producten eenvoudig online te bestellen neemt u contact met ons op via het e- mailadres <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> met vermelding van de gewenste producten en hoeveelheden, evenals uw contactgegevens en het adres waar de levering plaats moet vinden. Wij zullen u een faktuur opsturen en na ontvangst van de betaling, zullen wij uw bestelling klaarmaken en verzenden.
                 </p>
             </div>
             <div class="col-md-6">

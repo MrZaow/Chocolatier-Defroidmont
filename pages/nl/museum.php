@@ -17,14 +17,14 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Wij nodigen u uit om onze chocolade museum te ontdekken</h2>
+                <h2>Wij nodigen u uit om het chocolade museum te ontdekken</h2>
                 <p>
-                    De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van chocolaty smaken uit de hele wereld. 
-                    Cacaoboon, afhankelijk van de herkomst, brengt ook subtiele aroma's die individuen die zeker zijn om uw smaakpapillen verrassen.                
+                    De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van de verschillende chocolade smaken uit de hele wereld. 
+                    Iedere Cacaoboon, afhankelijk van de herkomst, brengt subtiele aroma's die zeker uw smaakpapillen zullen verrassen.               
                 </p>
                 <p>
-                    Het is door het museum vindt u familiegeschiedenis te ontdekken. Je reist door de wereld van de chocolade uit Venezuela, het land van herkomst van onze cacaobonen om terug te keren naar België. 
-                    In onze workshop krijgt u de verschillende stadia van de vervaardiging ontdekken, van de cacaoboon tot de praline.
+                    Tijdens uw bezoek aan het museum ondekt u de familiegeschiedenis en reist u mee over de wereld van Venezuela, 
+                    het land van herkomst van onze cacaobonen tot België. Hier in het atelier ontdekt u de verschillende stadia van de vervaardiging tot aan het eindproduct, de praline.
                 </p>
             </div>
             <div class="col-md-12">
@@ -52,14 +52,14 @@
                 <h3>Duur</h3>
                 <p>
                     Bezoek het museum: 40 minuten <br>
-                    Promenade bijen: 40 minuten
+                    Promenade wandeling : 40 minuten
                 </p>
                 <h3>Toegankelijkheid</h3>
                 <p>
                     2 parkeerplaatsen voor personen met beperkte mobiliteit <br>
                     Ontoegankelijk openbaar vervoer <br>
                     Onbereikbaar per spoor <br>
-                    Fietsenrek Presence <br>
+                    Fietsenrek ter plaatse <br>
                     <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
                 </p>
             </div>

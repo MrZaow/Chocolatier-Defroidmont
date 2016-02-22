@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Our collection of Easter</h1>
+                    <h1>Our Easter assortment</h1>
                 </div>
             </div>
         </div>

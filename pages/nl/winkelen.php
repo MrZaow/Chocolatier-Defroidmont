@@ -17,19 +17,19 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>Onze winkels Érezée en Durbuy verzoek het plezier</h2>
+                <h2>Onze winkels in Érezée en Durbuy.</h2>
                 <p>
-                    Onze winkel Briscol-Erezée biedt een breed scala van chocolade, delicatessen, honing uit de regio, thee, likeuren, enz. Onze winkel in Durbuy biedt een breed scala van chocolade.
+                    Onze winkels in Briscol­Erezée en in Durbuy bieden een breed assortiment van chocolade, delicatessen, honing uit de regio, thee, likeuren, enz.
                 </p>
             </div>
             <div class="col-md-5">
-                <h3 class="center">De winkel Érezée</h3>
+                <h3 class="center">De winkel, het atelier en het museum in Érezée</h3>
                 <img src="../../images/boutique.JPG" alt="Winkel van Durbuy" class="img-responsive">
                 <br>
                 <p>
                     Adress : Briscol 19a, 6997 Érezée <br>
-                    Telefoon : 086 21 84 40 <br>
-                    Open: dinsdag tot en met zaterdag van 10u tot 18u en zondag 10:00-16:30
+                    Telefoon : 0032 (0)86 21 84 40 <br>
+                    Open: dinsdag tot en met zaterdag van 10u tot 18u en zondag 10u tot 16u30
                 </p>
                 <p>
                     Onze winkel Briscol-Erezée biedt een breed scala van chocolade, delicatessen, honing uit de regio, thee, likeuren, enz.
@@ -37,13 +37,13 @@
             </div>
             <div class="col-md-2"></div>
             <div class="col-md-5">
-                <h3 class="center">De winkel Durbuy</h3>
+                <h3 class="center">De winkel in Durbuy</h3>
                 <img src="../../images/boutiquedurbuy.jpg" alt="Magasin de Durbuy" class="img-responsive">
                 <br>
                 <p>
                     Adress : rue Alphonse Eloy 7, 6940 Durbuy  <br>
-                    Telefoon : 086 38 70 74 <br>
-                    Open: dagelijks van 10u tot 18u, behalve dinsdag en woensdag
+                    Telefoon : 0032 (0)86 38 70 74 <br>
+                    Dagelijks geopend 10u00 tot 16u30. Gesloten op dinsdag en woensdag
                 </p>
                 <p>
                     Onze winkel in Durbuy biedt een breed scala van chocolade.
@@ -53,7 +53,7 @@
         <hr>
         <div class="row">
             <div class="center">
-                <h2>U kunt ook onze heerlijke pralines kopen in onze partner verkooppunten</h2>
+                <h2>U kunt onze heerlijke pralines ook kopen in onze partner verkooppunten</h2>
             </div>
             <div class="col-md-4">
                 <h3>Brabant Wallon</h3>

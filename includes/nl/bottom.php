@@ -4,8 +4,8 @@
                 <div class="col-md-3 col-sm-3">
                     <h4>Over ons</h4>
                     <p>
-                    Gelegen in het kleine dorpje Briscol de Defroidmont chocoladefabriek produceert vele lekkernijen alle soorten. Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10:00-16:30
-                </p>
+                    Chocoladefabriek Defroidmont is gelegen in het kleine dorpje Briscol, daar produceren we vele lekkernijen. Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10u tot 16u30
+                    </p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                     <h4>Chocolaterie Defroidmont</h4>
@@ -26,7 +26,7 @@
                     <address>
                         <p>Chocolaterie Defroidmont</p>
                         <p>Briscol 19a, 6997 Érezée</p>
-                        <p>086 21 84 40</p>
+                        <p>0032 (0)86 21 84 40</p>
                     </address>
                 </div> <!--/.col-md-3-->
 

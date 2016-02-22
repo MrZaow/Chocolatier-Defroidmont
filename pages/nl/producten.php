@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <h1>Producten</h1>
-                    <p>Het beste van heerlijke producten uit onze chocolade</p>
+                    <p>Een overzicht van onze heerlijke producten uit de chocolaterie</p>
                 </div>
             </div>
         </div>

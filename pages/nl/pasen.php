@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Onze collectie van Pasen</h1>
+                    <h1>Ons Paas assortiment</h1>
                 </div>
             </div>
         </div>

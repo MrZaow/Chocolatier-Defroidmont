@@ -17,12 +17,12 @@
     <section class="container">
         <div class="row">
             <div class="center">
-                <h2>We're inviting you to discover our chocolate museum</h2>
+                <h2>We invite you to discover the chocolate museum</h2>
                 <p>
-                    The craftsman Philippe Defroidmont invites you to a discovery of chocolaty flavors from around the world. Cocoa bean, depending on its origin, also releases subtle aromas that individuals that are sure to surprise your taste buds.
+                    The skilled Philippe Defroidmont invites you to a discovery of several chocolate flavors from around the world. Every Cocoa bean, depending on the origin, brings subtle aromas that are sure to delight your taste buds.
                 </p>
                 <p>
-                    Through the museum you will discover family history. You will travel through the world of chocolate from Venezuela, country of origin of our cocoa beans to return to Belgium. In our workshop, you will discover the various stages of manufacture, from the cocoa bean to the praline.
+                    During your visit to the museum discovere the family history and travell around the world from Venezuela, the country of origin of our cocoa beans to Belgium. Here in our workshop you will discover the different stages of manufacturing upto the finished product, the praline.
                 </p>
             </div>
             <div class="col-md-12">
@@ -49,15 +49,15 @@
                 </p>
                 <h3>Duration</h3>
                 <p>
-                    Visit the museum: 40 minutes <br>
-                    Bees walk : 40 minutes
+                    Visit of the museum: 40 minutes <br>
+                    Bees hike : 40 minutes
                 </p>
                 <h3>Accessibility</h3>
                 <p>
-                    2 parking spaces for disabled people <br>
+                    2 parking spaces for persons with reduced mobility <br>
                     Inaccessible by public transportation <br>
                     Inaccessible by rail <br>
-                    Bicycle rack presence <br>
+                    Bike rack present <br>
                     <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
                 </p>
             </div>

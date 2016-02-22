@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <h1>Our products</h1>
-                    <p>The best of delicious products from our chocolate factory</p>
+                    <p>An overview of our delicious products from the shop</p>
                 </div>
             </div>
         </div>

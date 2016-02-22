@@ -22,12 +22,12 @@
                 <p><strong>Email</strong> :<a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> </p>
                 <h2>Accessibility</h2>
                 <p>
-                    2 places de parking pour les personnes à mobilité reduite <br>
-                    Inaccessible par transport en commun <br>
-                    Inaccessible par train <br>
-                    Présence de rack à vélos<br>
+                    2 parking spaces for persons with reduced mobility <br>
+                    Inaccessible by public transportation <br>
+                    Inaccessible by rail <br>
+                    Bike rack present <br>
                     <img style="width:50px;" src="../../images/pmr.png" alt="Personne à mobilité réduite">
-            </p>
+                </p>
             </div>
             <div class="col-md-8">
                 <h2>Localisation</h2>

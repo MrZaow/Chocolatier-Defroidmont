@@ -17,11 +17,9 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>How to order our products online?</h2>
-                <p>Ordering our products online is simple! Contact us at the email address
-                 <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> stating the products and quantities desired, as well as your contact information and the address to which you want to be delivered. 
-                 We will establish your invoice and upon receipt of payment thereof, we will ship your order.
-                </p>
+                <h2>How to order our products online ?</h2>
+                <p>To order our products online, please contact us via the email address <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> stating the products and quantities, as well as your contact information and the address where the delivery should take place.
+                 We will send you an invoice and on receipt of payment, we will prepare your order and send.</p>
             </div>
             <div class="col-md-6">
                 <img src="../../images/equipe-defroidmont.jpg" alt="Équipe de la chocolaterie Defroidmont" class="img-responsive">

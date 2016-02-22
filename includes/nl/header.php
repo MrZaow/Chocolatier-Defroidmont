@@ -13,8 +13,8 @@
             <ul class="nav navbar-nav">
                 <li><a href="../../pages/nl/index.php">Home</a></li>
                 <li><a href="../../pages/nl/producten.php">Producten</a></li>
-                <li><a href="../../pages/nl/bestelling.php"><i class="fa fa-shopping-cart"></i> Bestelling</a></li>
-                <li><a href="../../pages/nl/winkelen.php">Winkelen</a></li>
+                <li><a href="../../pages/nl/bestelling.php"><i class="fa fa-shopping-cart"></i> Bestellen</a></li>
+                <li><a href="../../pages/nl/winkelen.php">Onze winkels</a></li>
                 <li><a href="../../pages/nl/museum.php">Museum</a></li>
                 <li><a href="../../pages/nl/pasen.php">Pasen</a></li>
                 <li><a href="../../pages/nl/info.php">Info</a></li>
