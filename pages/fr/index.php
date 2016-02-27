@@ -17,7 +17,7 @@
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered ">
                                     <div class="hidden-xs">
-                                        <img src="../../images/logo22.png" alt="Logo chocolaterie Defroidmont">
+                                        <img style=" display: block; margin: 0 auto;" src="../../images/logo22.png" alt="Logo chocolaterie Defroidmont">
                                     </div>
                                     <div class="hidden-sm hidden-md hidden-lg">
                                         <img class="img-responsive" src="../../images/logo22.png" alt="Logo chocolaterie Defroidmont">
@@ -27,7 +27,7 @@
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(../../images/slider/bg2.JPG)">
+                <div class="item" style="background-image: url(../../images/slider/bg2.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
