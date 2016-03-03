@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Tablettes d'Origine - Chocolatier Defroidmont</title>
+    <meta name="description" content=" Tablettes d'Origine">
+</head>
 <body>
     <?php include("../../includes/fr/header.php") ?>
     

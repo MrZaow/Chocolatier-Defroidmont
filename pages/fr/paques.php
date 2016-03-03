@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Notre collection de Pâques - Chocolatier Defroidmont</title>
+    <meta name="description" content=" Notre collection de Pâques.">
+</head>
 <body>
     <?php include("../../includes/fr/header.php") ?>
 

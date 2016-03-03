@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Ballotins - Chocolatier Defroidmont</title>
+    <meta name="description" content="Philippe et Christiane Defroidmont ont le plaisir de vous faire 
+    découvrir cet assortiment de pralines de grande qualité.">
+</head>
+
 <body>
     <?php include("../../includes/fr/header.php") ?>
     

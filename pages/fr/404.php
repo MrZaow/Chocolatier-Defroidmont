@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>404 - Chocolatier Defroidmont</title>
+    <meta name="description" content="Erreur 404.">
+</head>
+
 <body>
     <?php include("../../includes/fr/header.php") ?>
 

@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Notre équipe - Chocolatier Defroidmont</title>
+    <meta name="description" content=" C’est dans la pâtisserie familiale fondée en 1926 par son 
+                   grand-père en Basse-Meuse que Philippe Defroidmont débutera 
+                   la fabrication de pralines et de bâtons dans la boulangerie de ses parents.">
+</head>
 <body>
     <?php include("../../includes/fr/header.php") ?>
 

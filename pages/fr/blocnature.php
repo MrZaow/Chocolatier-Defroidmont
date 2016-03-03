@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Blocs natures - Chocolatier Defroidmont</title>
+    <meta name="description" content="Goûts disponibles Blocs natures.">
+</head>
 <body>
     <?php include("../../includes/fr/header.php") ?>
     

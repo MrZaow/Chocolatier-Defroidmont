@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Order our products - Chocolatier Defroidmont</title>
+    <meta name="description" content="Order our products.">
+</head>
 <body>
     <?php include("../../includes/en/header.php") ?>
 
