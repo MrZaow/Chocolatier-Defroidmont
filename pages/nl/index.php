@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="nl">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Home - Chocolatier Defroidmont</title>
+    <meta name="description" content="De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van de verschillende chocolade smaken uit de hele wereld. ">
+</head>
 <body>
     <?php include("../../includes/nl/header.php") ?>
     <section id="main-slider" class="no-margin">

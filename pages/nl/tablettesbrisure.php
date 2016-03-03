@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="nl">
-<?php include("../../includes/head.php") ?>
+<head>
+    <?php include("../../includes/head.php") ?>
+    <title>Breaking Tabletten - Chocolatier Defroidmont</title>
+    <meta name="description" content="Breaking Tabletten ">
+</head>
 <body>
     <?php include("../../includes/nl/header.php") ?>
     

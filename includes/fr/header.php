@@ -14,7 +14,7 @@
                 <li><a href="../../index.php">Accueil</a></li>
                 <li><a href="../../pages/fr/produits.php">Produits</a></li>
                 <li><a href="../../pages/fr/commander.php"><i class="fa fa-shopping-cart"></i> Commander</a></li>
-                <li><a href="../../pages/fr/boutiques.php">Nos boutiques</a></li>
+                <li><a href="../../pages/fr/boutiques.php">Boutiques</a></li>
                 <li><a href="../../pages/fr/musee.php">Musée</a></li>
                 <li><a href="../../pages/fr/paques.php">Pâques</a></li>
                 <li><a href="../../pages/fr/infos.php">Infos</a></li>
