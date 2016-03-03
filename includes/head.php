@@ -28,3 +28,4 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
+    <meta name="google-site-verification" content="W0P-H3luWuTvxqp1eQ7EDPqS6d5dY0vxnAiplBlBDpo" />
