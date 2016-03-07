@@ -15,7 +15,7 @@
                 <li data-target="#main-slider" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-                <div class="item active" style="background-color: #30120a">
+                <div class="item active" style="background-color: #1B0C08">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
@@ -44,7 +44,7 @@
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(../../images/equipe-defroidmont.jpg)">
+                <div class="item" style="background-image: url(../../images/slider/bg3.JPG)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
