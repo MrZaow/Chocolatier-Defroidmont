@@ -48,7 +48,7 @@
             <div class="col-md-4">
                 <h3>Rate</h3>
                 <p>
-                    Adults : 5,00 euros/person <br>
+                    Adults : 5,50 euros/person <br>
                     Children (under 12 years) : 4,00 euros/person
                 </p>
                 <h3>Duration</h3>

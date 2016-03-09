@@ -50,7 +50,7 @@
             <div class="col-md-4">
                 <h3>Tarief</h3>
                 <p>
-                    Volwassenen: 5,00 euro/persoon <br>
+                    Volwassenen: 5,50 euro/persoon <br>
                     Kinderen (tot 12 jaar): 4,00 euro/persoon
                 </p>
                 <h3>Duur</h3>
