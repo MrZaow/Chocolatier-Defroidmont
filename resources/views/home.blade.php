@@ -104,7 +104,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">{{ trans('messages.visit_museum') }}</h3>
-                            <p>{{ trans('messages.visit_museum_details') }}</p>
+                            <p>{!! trans('messages.visit_museum_details') !!}</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
