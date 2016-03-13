@@ -22,7 +22,7 @@ return [
     'ballotins_title' => 'Ballotins',
     'desc_ballotins' => 'Ballotins',
     'desc' => 'Description',
-    'desc_details' => 'hilippe and Christiane Defroidmont are pleased to introduce you to this high-quality assortment of pralines
+    'desc_details' => 'Philippe and Christiane Defroidmont are pleased to introduce you to this high-quality assortment of pralines
                     made with respect for tradition with notes sometimes fruity, spicy, caramelized the seasons.',
     'tasty' => 'Available tastes',
     'ass_black' => 'Assortment of dark chocolates',
