@@ -116,7 +116,7 @@ return [
     'sell_chocolate' => 'Vente de chocolat',
     'sell_chocolate_details' => 'Vente de chocolat artisanal, dégustations et conseils.',
     'visit_museum' => 'Visite du musée',
-    'visit_museum_details' => 'Visite à la découverte du musée du chocolat.',
+    'visit_museum_details' => 'Visite à la découverte du <a href="fr/musee">musée du chocolat</a>.',
     'delicious_products' => 'Nos délicieux produits',
     'delicious_products_details' => 'Quelques un des chocolats que nous produisons dans notre chocolaterie à Érezée',
     'natural_blocs' => 'Blocs nature',

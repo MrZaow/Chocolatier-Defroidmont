@@ -113,7 +113,7 @@ return [
     'sell_chocolate' => 'Chocolade Verkoop',
     'sell_chocolate_details' => 'Verkoop, proeverijen en advies van onze handgemaakte chocolade',
     'visit_museum' => 'Het Museum',
-    'visit_museum_details' => 'Bezoek ons chocolademuseum',
+    'visit_museum_details' => 'Bezoek ons <a href="nl/museum">chocolademuseum</a>',
     'delicious_products' => 'Onze heerlijke bonbons',
     'delicious_products_details' => 'Hier een aantal bonbons die wij produceren in onze chocoladefabriek te Érezée',
     'natural_blocs' => 'Natural blokken',

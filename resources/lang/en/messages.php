@@ -112,7 +112,7 @@ return [
     'sell_chocolate' => 'Chocolate Sales',
     'sell_chocolate_details' => 'Sales, tastings and advice from our handmade chocolates',
     'visit_museum' => 'The museum',
-    'visit_museum_details' => 'Visit our chocolate museum',
+    'visit_museum_details' => 'Visit our <a href="en/museum">chocolate museum</a>',
     'delicious_products' => 'Our delicious chocolates',
     'delicious_products_details' => 'Here are some chocolates which we produce in our chocolate factory in Érezée',
     'natural_blocs' => 'Natural blocks',
