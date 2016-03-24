@@ -187,14 +187,14 @@ senden vorzubereiten.',
      */
     'the_title' => 'Unsere Tees',
     'the_nc' => 'Schwarze Schokolade Tee',
-    'the_nca' => 'Black Caramel Tea',
-    'the_nml' => 'Black Tea My Lady',
-    'the_vct' => 'Green Tea Tropical Sweetness',
-    'the_vf' => 'Green Tea of the Fairy',
-    'the_vpc' => 'Cinnamon Plum Green Tea',
-    'the_ipc' => 'Connemara Pleasure Infusion',
-    'the_idd' => 'Durbuy Smooth Infusion',
-    'the_ta' => 'Ardennaise Tisane',
+    'the_nca' => 'Schwarzer Tee Karamell',
+    'the_nml' => 'Schwarzer Tee meine Dame',
+    'the_vct' => 'Grüner Tee tropische Süße',
+    'the_vf' => 'Grüner Tee der Fee',
+    'the_vpc' => 'Zimt Pflaume Grüntee',
+    'the_ipc' => 'Connemara Vergnügen Infusion',
+    'the_idd' => 'Durbuy Glatte Infusion',
+    'the_ta' => 'Tee Ardennes',
 
 
     /**
@@ -205,48 +205,47 @@ senden vorzubereiten.',
     'our_shops_ed' => 'Unsere Shops in Érezée und Durbuy',
     'our_shops_ed_details' => 'Unsere Shops in Briscol­Erezée Durbuy und bieten eine breite Palette von Schokolade Delikatessen, Honig aus der Region, Tee, Liköre, usw.',
     'erezee' => 'Der Laden, Werkstatt und Museum in Érezée',
-    'erezee_shop' => 'Erezee shop',
+    'erezee_shop' => 'Erezee geschäft',
     'open_erezee' => 'Dienstag bis Samstag von 10 Uhr bis 18 Uhr und Sonntag 10.00 bis 16h30pm',
     'open_durbuy' => 'Geöffnet täglich 10 bis 16h30pm. Geschlossen am Dienstag und Mittwoch',
-    'erezee_details' => 'Our stores in Briscol­Erezée Durbuy and offer a wide range of chocolate delicacies, honey from the region, tea, liqueurs, etc.',
-    'durbuy_details' => 'Our Briscol-Erezée shop  offers a wide range of chocolate, delicatessen, honey from the region, teas, liqueurs, etc.',
+    'erezee_details' => 'Unsere Shops in BriscolErezée Durbuy und bieten eine große Auswahl an Schokoladen-Köstlichkeiten, Honig aus der Region, Tee, Liköre, usw.',
+    'durbuy_details' => 'Unser Briscol-Erezée-Shop bietet eine große Auswahl an Schokolade, Feinkost, Honig aus der Region, Tees, Liköre, usw.',
     'durbuy' => 'Das Geschäft in Durbuy',
-    'durbuy_shop' => 'Durbuy shop',
+    'durbuy_shop' => 'Durbuy geschäft',
     'phone_number_durbuy' => '0032 (0)86 38 70 74',
     'phone_number_erezee' => '0032 (0)86 21 84 40',
     'partenaire_title' => 'Sie können auch unsere köstlichen Pralinen in unserem Partner­Filialen erhältlich.',
-    'brabant_wallon' => 'Brabant Wallon',
+    'brabant_wallon' => 'Brabant Wallonia',
     'namur' => 'Namur',
     'limbourg' => 'Limbourg',
     'liege' => 'Liège',
-    'luxembourg' => 'Luxembourg',
-    'acp_horaire' => 'Tuesday to Saturday from 10:00 to 19:00.',
-    'cm_horaire' => 'Tuesday to Saturday, from 9h00 to 18h30 <br>
-                    and Sundays from 9:00 to 12:00',
-    'e_horaire' => 'Every day from 10:30 to 18h <br>
-                    except Tuesday',
-    'mb1_horaire' => 'Monday 1:00 p.m. to 6:30 p.m. <br>
-                    Tuesday to Friday 9.00-12.00 - 13h30-18h30 <br>
-                    Saturday 9.00-12.00 - 13h30-18h00',
-    'mb2_horaire' => 'Monday 1:00 p.m. to 7:00 p.m. <br>
-                    Tuesday to Friday 8h00-19h00 <br>
-                    Saturday 8h00-18h00',
-    'ss_horaire' => 'Tuesday to Sunday 7:00 - 6:30 p.m. <br>
-                    Monday closed.',
-    'lg_horaire' => 'Monday-Saturday: 9h00-18h30 <br>
-                    closed Sunday',
-    'df_horaire' => 'Thursday and Friday from 14h30 to 20h and from 10h to 20h weekend',
-    'mm_horaire' => 'Open on Monday 13.30 at 18:00 <br>
-                    From Tuesday to Saturday from 9:30 a.m. to 6:00 p.m. <br>
-                    Tuesday, Wednesday and Thursday from 12:15 to 13:15 lunch break <br>
-                    closed Sunday',
-    'mg_horaire' => 'Monday to Friday from 6:00 a.m. to 6:00 p.m. <br>
-                    Saturday from 7:00 a.m. to 6:00 p.m. <br>
-                    Sunday from 7:00 a.m. to 2:00 p.m. <br>
-                    Closed Thursday',
-    'fs_horaire' => 'Monday-Saturday: 9h30-18h30 <br>
-                    Sunday 9.30-12.00 <br>
-                    Closed Thursday and holidays',
+    'luxembourg' => 'Luxemburg',
+    'acp_horaire' => 'Dienstag bis Samstag von 10:00 bis 19:00 Uhr.',
+    'cm_horaire' => 'Dienstag bis Samstag von 9.00 bis 18.30 Uhr <br> und sonntags von 9.00 bis 12.00 Uhr',
+    'e_horaire' => 'Jeden Tag von 10.30 Uhr bis 18 Uhr <br>
+                    außer Dienstag',
+    'mb1_horaire' => 'Montag 13.00 Uhr bis 06.30 Uhr <br>
+                    Dienstag bis Freitag 9.00-12.00 - 13h30-18h30 <br>
+                    Samstag 9.00-12.00 - 13h30-18h00',
+    'mb2_horaire' => 'Montag 13.00 Uhr bis 07.00 Uhr <br>
+                    Dienstag bis Freitag 8h00-19h00 <br>
+                    samstag 8h00-18h00',
+    'ss_horaire' => 'Dienstag bis Sonntag von 7.00 bis 06.30 Uhr <br>
+                    Montag geschlossen.',
+    'lg_horaire' => 'Montag bis Samstag: 9h00-18h30 <br>
+                    Sonntag geschlossen',
+    'df_horaire' => 'Donnerstag und Freitag von 14.30 Uhr bis 20 Uhr und von 10 Uhr bis 20 Uhr am Wochenende',
+    'mm_horaire' => 'Öffnen Sie am Montag, 13.30 um 18:00 Uhr <br>
+                    Von Dienstag bis Samstag von 9.30 bis 18.00 Uhr <br>
+                    Dienstag, Mittwoch und Donnerstag von 12.15 bis 13.15 Uhr Mittagspause <br>
+                    Sonntag geschlossen',
+    'mg_horaire' => 'Montag bis Freitag von 6.00 bis 18.00 Uhr <br>
+                    Samstag 7.00 Uhr bis 18.00 Uhr <br>
+                    Sonntag 7.00 Uhr bis 14.00 Uhr <br>
+                    Geschlossen donnerstag',
+    'fs_horaire' => 'Montag bis Samstag: 9h30-18h30 <br>
+                    sonntag 9.30-12.00 <br>
+                    Geschlossen Donnerstag und Feiertage',
 
 
 
@@ -258,21 +257,21 @@ senden vorzubereiten.',
     'menu_home' => 'Home',
     'menu_products' => 'Produkte',
     'menu_order' => 'Auftrag',
-    'menu_shops' => 'Our stores',
+    'menu_shops' => 'Unsere Läden',
     'menu_museum' => 'Museum',
-    'menu_easter' => 'Easter',
+    'menu_easter' => 'Ostern',
     'menu_infos' => 'Info',
 
     /**
      * Traduction footer
      */
     'address' => 'Adresse',
-    'contact' => 'Contact',
+    'contact' => 'Kontakt',
     'phone' => 'Telefon',
     'phone_number_footer' => '0032 (0)86 21 84 40',
-    'open' => 'Opening',
-    'social_network' => 'Social networks',
-    'realised_by' => 'Made by',
-    'go_top' => 'Top',
+    'open' => 'Öffnung',
+    'social_network' => 'Soziale Netzwerke',
+    'realised_by' => 'Hergestellt von',
+    'go_top' => 'Oben',
 
 ];
