@@ -33,8 +33,8 @@ return [
     /**
      * Page baton fourre
      */
-    'bfr_title' => 'Gefüllt Sticks',
-    'desc_bfr' => 'Gefüllt Sticks',
+    'bfr_title' => 'Gefüllte Tafelschokolade',
+    'desc_bfr' => 'Gefüllte Tafelschokolade',
     'ch_npn' => 'Schokolade Schwarz Haselnuss Praline 70%',
     'ch_ncp' => 'Schwarze Schokolade 70% Pistaziencreme',
     'ch_ncf' => 'Schwarze Schokolade Himbeercreme 70% (ohne Laktose)',
@@ -131,11 +131,11 @@ senden vorzubereiten.',
     'visit_museum_details' => 'Besuchen Sie unsere <a href="de/museum">Schokoladenmuseum</a>',
     'delicious_products' => 'Unsere köstliche Pralinen',
     'delicious_products_details' => 'Hier sind ein paar Pralinen, die wir in unserer Schokoladenfabrik in Érezée produzieren',
-    'natural_blocs' => 'Natürliche Blöcke',
+    'natural_blocs' => 'Blockschokolade',
     'fruit_blocs' => 'Fruchtblöcke',
     'brisure_tablet' => 'Brisure Tabletten',
     'origin_tablet' => 'Herkunft Tabletten',
-    'fure_baton' => 'Gefüllt Sticks',
+    'fure_baton' => 'Gefüllte Tafelschokolade',
     'pate_tartinas' => 'Aufstriche',
     'what_client_say' => 'Was unsere Kunden über uns denken',
     'satisfaction_first' => 'Die Zufriedenheit unserer Kunden ist eine Priorität',
@@ -149,8 +149,8 @@ senden vorzubereiten.',
     /**
      * Page bloc fruit
      */
-    'bloc_fruit_title' => 'Fruchtblöckes',
-    'desc_bloc_fruit' => 'Fruchtblöckes',
+    'bloc_fruit_title' => 'Nuss- und Fruchtschokolade',
+    'desc_bloc_fruit' => 'Nuss- und Fruchtschokolade',
     'ch_noci' => '70% dunkle Schokolade Herkunft Elfenbeinküste',
     'ch_lov' => 'Milchschokolade 43% Herkunft Venezuela',
     'ch_oci' => 'Weiße Schokolade Herkunft Elfenbeinküste',
@@ -158,13 +158,13 @@ senden vorzubereiten.',
     /**
      * Page bloc nature
      */
-    'bloc_nature_title' => 'Natürliche Blöcke',
-    'desc_bloc_nature' => 'Natürliche Blöcke',
+    'bloc_nature_title' => 'Blockschokolade',
+    'desc_bloc_nature' => 'Blockschokolade',
 
     /**
      * Page tablette brisure
      */
-    'tab_brisure_title' => 'Brisure bar',
+    'tab_brisure_title' => 'Bruchschokolade',
     'tb_bc' => '70% dunkle Schokolade Caramel brisure',
     'tb_pe' => '70% dunkle Schokolade Espelette',
     'tb_bn' => '70% dunkle Schokolade Hazelnut brisure',
@@ -174,7 +174,7 @@ senden vorzubereiten.',
     /**
      * Page tablette origine
      */
-    'tab_origine_title' => 'Origin Tablette',
+    'tab_origine_title' => 'Tafeln "grand cru"',
     'to_cr' => 'Costa Rica Schwarze Schokolade 64%',
     'to_p' => 'Peru Schwarze Schokolade 65% Bio',
     'to_m' => 'Madagaskar Schwarze Schokolade 67%',
