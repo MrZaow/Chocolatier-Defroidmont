@@ -62,9 +62,9 @@ return [
      */
     'museum_title' => 'Our museum',
     'desc_museum' => 'Our museum',
-    'come_museum' => 'We invite you to discover the chocolate museum',
+    'come_museum' => 'We invite you to discover our chocolate museum',
     'desc_museum1' => 'The skilled Philippe Defroidmont invites you to a discovery of several chocolate flavors from around the world. Every Cocoa bean, depending on the origin, brings subtle aromas that are sure to delight your taste buds.',
-    'desc_museum2' => 'During your visit to the museum discovere the family history and travell around the world from Venezuela, the country of origin of our cocoa beans to Belgium. Here in our workshop you will discover the different stages of manufacturing upto the finished product, the praline.',
+    'desc_museum2' => 'During your visit of the museum discover the family history and travel around the world from Venezuela, the country of origin of our cocoa beans to Belgium. Here in our workshop you will discover the different stages of manufacturing upto the finished product, the praline.',
     'ch_museum' => 'Chocolate museum',
     'informations' => 'Information',
     'tarif' => 'Rate',
@@ -72,7 +72,7 @@ return [
     'enfants' => 'Children (under 12 years) : 4,00 euros/person',
     'duree' => 'Duration',
     'desc_museum3' => 'Visit of the museum: 40 minutes<br>
-                    Bees hike : 40 minutes',
+                    Bees and birds : 40 minutes',
     'localisation' => 'Location',
 
     /**
@@ -80,7 +80,7 @@ return [
      */
     'order_title' => 'Order our products',
     'desc_order' => 'How to order our products online ?',
-    'order_details' => 'To order our products online, please contact us via the email address <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> stating the products and quantities, as well as your contact information and the address where the delivery should take place.
+    'order_details' => 'To order our products online, please contact us via the email address <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> stating the products and quantities, as well as your contact information and the address where the delivery should be made.
                  We will send you an invoice and on receipt of payment, we will prepare your order and send.',
     'order_alt' => 'The team of chocolaterie Defroidmont',
 
@@ -107,18 +107,18 @@ return [
     'see_choco_here' => 'See the Easter chocolates',
     'dont_hesitate' => 'You can also place your orders online',
     'open_hour' => 'Opening hours',
-    'open_hour_erezee' => 'Open Tuesday to Saturday from 10am to 6pm and Sunday 10 am to 4:30pm',
-    'open_hour_durbuy' => 'Open daily 10 am to 4:30pm. Closed Tuesdays and Wednesdays',
+    'open_hour_erezee' => 'Open Tuesday to Saturday from 10 to 6 and Sunday 10 to 4:30',
+    'open_hour_durbuy' => 'Open daily 10 to 4:30. Closed Tuesdays and Wednesdays',
     'sell_chocolate' => 'Chocolate Sales',
-    'sell_chocolate_details' => 'Sales, tastings and advice from our handmade chocolates',
+    'sell_chocolate_details' => 'Sales, tastings and advice of our handmade chocolates',
     'visit_museum' => 'The museum',
     'visit_museum_details' => 'Visit our <a href="en/museum">chocolate museum</a>',
     'delicious_products' => 'Our delicious chocolates',
     'delicious_products_details' => 'Here are some chocolates which we produce in our chocolate factory in Érezée',
     'natural_blocs' => 'Natural blocks',
-    'fruit_blocs' => 'Fruit blocks',
+    'fruit_blocs' => 'Dry fruit blocks',
     'brisure_tablet' => 'Brisure tablets',
-    'origin_tablet' => 'Origin tablets',
+    'origin_tablet' => 'Tablet\'s origin',
     'fure_baton' => 'Filled sticks',
     'pate_tartinas' => 'Spreads',
     'what_client_say' => 'What our clients think of us',
@@ -135,8 +135,8 @@ return [
     /**
      * Page bloc fruit
      */
-    'bloc_fruit_title' => 'Fruit Blocks',
-    'desc_bloc_fruit' => 'Fruit Blocks',
+    'bloc_fruit_title' => 'Dry fruit Blocks',
+    'desc_bloc_fruit' => 'Dry fruit Blocks',
     'ch_noci' => '70% dark chocolate origin Ivory Coast',
     'ch_lov' => 'Milk chocolate 43% origin Venezuela',
     'ch_oci' => 'White chocolate origin Ivory Coast',
@@ -160,7 +160,7 @@ return [
     /**
      * Page tablette origine
      */
-    'tab_origine_title' => 'Origin tablet',
+    'tab_origine_title' => 'Tablet\'s origin',
     'to_cr' => 'Costa Rica Black Chocolate 64%',
     'to_p' => 'Peru Black Chocolate 65% Organic',
     'to_m' => 'Madagascar Black Chocolate 67%',
@@ -189,12 +189,12 @@ return [
     'shops_title' => 'Our stores',
     'desc_shops' => 'Our stores',
     'our_shops_ed' => 'Our stores in Érezée and Durbuy',
-    'our_shops_ed_details' => 'Our stores in Briscol­Erezée Durbuy and offer a wide range of chocolate delicacies, honey from the region, tea, liqueurs, etc.',
+    'our_shops_ed_details' => 'Our stores in Briscol Erezée and Durbuy offer a wide range of chocolate delicacies, honey from the region, tea, liqueurs, etc.',
     'erezee' => 'The shop, workshop and museum in Érezée',
     'erezee_shop' => 'Erezee shop',
-    'open_erezee' => 'Tuesday to Saturday from 10am to 18pm and Sunday 10am to 16h30pm',
-    'open_durbuy' => 'Open daily 10am to 16h30pm. Closed on Tuesdays and Wednesdays',
-    'erezee_details' => 'Our stores in Briscol­Erezée Durbuy and offer a wide range of chocolate delicacies, honey from the region, tea, liqueurs, etc.',
+    'open_erezee' => 'Tuesday to Saturday from 10 to 18 and Sunday 10 to 16:30',
+    'open_durbuy' => 'Open daily 10 to 16:30. Closed on Tuesdays and Wednesdays',
+    'erezee_details' => 'Our stores in Briscol Erezée and Durbuy offer a wide range of chocolate delicacies, honey from the region, tea, liqueurs, etc.',
     'durbuy_details' => 'Our Briscol-Erezée shop  offers a wide range of chocolate, delicatessen, honey from the region, teas, liqueurs, etc.',
     'durbuy' => 'The shop in Durbuy',
     'durbuy_shop' => 'Durbuy shop',
@@ -207,31 +207,31 @@ return [
     'liege' => 'Liège',
     'luxembourg' => 'Luxembourg',
     'acp_horaire' => 'Tuesday to Saturday from 10:00 to 19:00.',
-    'cm_horaire' => 'Tuesday to Saturday, from 9h00 to 18h30 <br>
+    'cm_horaire' => 'Tuesday to Saturday, from 9:00 to 18:30 <br>
                     and Sundays from 9:00 to 12:00',
-    'e_horaire' => 'Every day from 10:30 to 18h <br>
+    'e_horaire' => 'Every day from 10:30 to 18 <br>
                     except Tuesday',
-    'mb1_horaire' => 'Monday 1:00 p.m. to 6:30 p.m. <br>
-                    Tuesday to Friday 9.00-12.00 - 13h30-18h30 <br>
-                    Saturday 9.00-12.00 - 13h30-18h00',
-    'mb2_horaire' => 'Monday 1:00 p.m. to 7:00 p.m. <br>
-                    Tuesday to Friday 8h00-19h00 <br>
-                    Saturday 8h00-18h00',
-    'ss_horaire' => 'Tuesday to Sunday 7:00 - 6:30 p.m. <br>
+    'mb1_horaire' => 'Monday 1:00 to 6:30 <br>
+                    Tuesday to Friday 9:00-12:00 - 13:30-18:30 <br>
+                    Saturday 9:00-12:00 - 13:30-18:00',
+    'mb2_horaire' => 'Monday 1:00 to 7:00 <br>
+                    Tuesday to Friday 8:00-19:00 <br>
+                    Saturday 8:00-18:00',
+    'ss_horaire' => 'Tuesday to Sunday 7:00 - 6:30 <br>
                     Monday closed.',
-    'lg_horaire' => 'Monday-Saturday: 9h00-18h30 <br>
+    'lg_horaire' => 'Monday-Saturday: 9:00-18:30 <br>
                     closed Sunday',
-    'df_horaire' => 'Thursday and Friday from 14h30 to 20h and from 10h to 20h weekend',
-    'mm_horaire' => 'Open on Monday 13.30 at 18:00 <br>
-                    From Tuesday to Saturday from 9:30 a.m. to 6:00 p.m. <br>
+    'df_horaire' => 'Thursday and Friday from 14:30 to 20 and from 10 to 20 weekend',
+    'mm_horaire' => 'Open on Monday 13:30 at 18:00 <br>
+                    From Tuesday to Saturday from 9:30 to 6:00 <br>
                     Tuesday, Wednesday and Thursday from 12:15 to 13:15 lunch break <br>
                     closed Sunday',
-    'mg_horaire' => 'Monday to Friday from 6:00 a.m. to 6:00 p.m. <br>
-                    Saturday from 7:00 a.m. to 6:00 p.m. <br>
-                    Sunday from 7:00 a.m. to 2:00 p.m. <br>
+    'mg_horaire' => 'Monday to Friday from 6:00 to 6:00 <br>
+                    Saturday from 7:00 to 6:00 <br>
+                    Sunday from 7:00 to 2:00 <br>
                     Closed Thursday',
-    'fs_horaire' => 'Monday-Saturday: 9h30-18h30 <br>
-                    Sunday 9.30-12.00 <br>
+    'fs_horaire' => 'Monday-Saturday: 9:30-18:30 <br>
+                    Sunday 9:30-12:00 <br>
                     Closed Thursday and holidays',
 
 
