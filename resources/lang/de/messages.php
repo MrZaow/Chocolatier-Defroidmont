@@ -53,34 +53,23 @@ return [
     'access_img_alt' => 'Jemand mit eingeschränkter Mobilität',
     'access_details' => '2 Parkplätze für Personen mit eingeschränkter Mobilität <br>
                     Unzugänglich mit öffentlichen Verkehrsmitteln <br>
-                    Erreichbar mit der Bahn <br>
-                    Fahrradträger vorhanden <br>',
+                    Fahrradständer sowie Ladestation für E-bikes vorhanden<br>',
 
     /**
      * Page museum
      */
     'museum_title' => 'Unser Museum',
     'desc_museum' => 'Unser Museum',
-    'come_museum' => 'Wir laden Sie zu der Schokoladenmuseum zu entdecken',
-    'desc_museum1' => 'Der Fach Philippe Defroidmont lädt zu einer Entdeckung von mehreren Schokolade
-
-Aromen aus der ganzen Welt. Jede Kakaobohne, je nach Herkunft, bringt feinen Aromen,
-
-die sicher Ihren Gaumen zu erfreuen.',
-    'desc_museum2' => 'Bei Ihrem Besuch des Museums Discovere die Familiengeschichte und travell um die
-
-Welt von Venezuela, dem Ursprungsland der Kakaobohnen nach Belgien. Hier in
-
-unserem Workshop werden Sie die verschiedenen Stadien der Herstellung bis zum
-
-fertigen Produkt zu entdecken, die Praline.',
+    'come_museum' => 'Wir laden Sie ein, unser Schokoladenmuseum zu besuchen',
+    'desc_museum1' => 'Philippe Defroidmont lädt Sie ein, die Schokoladenvielfalt der ganzen Welt zu entdecken. Jede Kakaobohne, je nach Herkunft, birgt feine Aromen, die sicherlich auch Ihren Gaumen erfreuen.',
+    'desc_museum2' => 'Beim Besuch des Museums entdecken Sie die Familiengeschichte und machen eine Reise nach Venezuela, dem Ursprungsland der in Belgien verarbeiteten Kakaobohnen. Sie sehen die verschiedenen Stadien der Herstellung von der Kakaobohne bis zum fertigen Produkt, der Praline.',
     'ch_museum' => 'Schokoladenmuseum',
     'informations' => 'Informationen',
-    'tarif' => 'Raten',
-    'adultes' => 'Erwachsene : 5,50 euro/person',
-    'enfants' => 'Kinder (unter 12 Jahre) : 4,00 euro/person',
+    'tarif' => 'Tarife',
+    'adultes' => 'Erwachsene: 5,50 Euro / Person',
+    'enfants' => 'Kinder (unter 12 Jahren): 4 Euro / Kind',
     'duree' => 'Dauer',
-    'desc_museum3' => 'Besuchen Sie das Museum: 40 Minuten<br>
+    'desc_museum3' => 'Dauer des Museumbesuchs: 40 Minuten<br>
                     Bienen Wanderung: 40 Minuten',
     'localisation' => 'Ort',
 
@@ -88,16 +77,10 @@ fertigen Produkt zu entdecken, die Praline.',
      * Page order
      */
     'order_title' => 'Bestellen Sie unsere Produkte',
-    'desc_order' => 'Wie Sie Ihre Produkte online zu bestellen?',
-    'order_details' => 'Um unsere Produkte online bestellen möchten, wenden Sie sich bitte per E­Mail­Adresse
+    'desc_order' => 'Wie können Sie unsere Produkte bestellen?',
+    'order_details' => 'Wenn Sie unsere Produkte online bestellen möchten, wenden Sie sich bitte per E-Mail an uns:
 
-<a href="mailto:contact@chocolatier-defroidmont.be">contact@chocolatier­defroidmont.be</a> Angabe der Produkte und Mengen sowie Ihre
-
-Kontaktinformationen und die Adresse, wo die Lieferung stattfinden soll. Wir werden
-
-Ihnen eine Rechnung und nach Eingang der Zahlung, werden wir Ihre Bestellung und
-
-senden vorzubereiten.',
+<a href="mailto:contact@chocolatier-defroidmont.be">contact@chocolatier­defroidmont.be</a> Bitte geben sie die gewünschten Produkte und deren Menge an sowie Ihre Kontaktinformationen und die Adresse, wo die Lieferung stattfinden soll. Wir werden Ihnen danach eine Rechnung übermitteln und Ihnen nach Eingang der Zahlung Ihre Bestellung zusenden.',
     'order_alt' => 'Das Team von chocolaterie Defroidmont',
 
     /**
@@ -123,12 +106,12 @@ senden vorzubereiten.',
     'see_choco_here' => 'Sehen Sie sich die Ostern Pralinen',
     'dont_hesitate' => 'Sie können auch online Ihre Bestellungen aufgeben',
     'open_hour' => 'Öffnungszeiten',
-    'open_hour_erezee' => 'Geöffnet von Dienstag bis Samstag von 10 bis 18 Uhr und Sonntag 10.00 bis 16h30pm',
-    'open_hour_durbuy' => 'Geöffnet täglich 10.00 tot 16h30pm. Geschlossen am Dienstag und Mittwoch',
-    'sell_chocolate' => 'Schokoladen­Vertrieb',
-    'sell_chocolate_details' => 'Sales, Verkostungen und Beratung durch unsere handgemachte Schokolade.',
+    'open_hour_erezee' => 'Geöffnet von Dienstag bis Samstag von 10 bis 18 Uhr und Sonntag von 10.00 bis 16.30 Uhr',
+    'open_hour_durbuy' => 'Geöffnet täglich von 10.00 bis 16.30 Uhr. Geschlossen am Dienstag und Mittwoch.',
+    'sell_chocolate' => 'Schokoladenvertrieb',
+    'sell_chocolate_details' => 'Verkauf unserer handgemachten Pralinen,  Verkostungen und Beratung.',
     'visit_museum' => 'Das Museum',
-    'visit_museum_details' => 'Besuchen Sie unsere <a href="de/museum">Schokoladenmuseum</a>',
+    'visit_museum_details' => 'Besuchen Sie unser <a href="de/museum">Schokoladenmuseum</a>',
     'delicious_products' => 'Unsere köstliche Pralinen',
     'delicious_products_details' => 'Hier sind ein paar Pralinen, die wir in unserer Schokoladenfabrik in Érezée produzieren',
     'natural_blocs' => 'Blockschokolade',
@@ -203,11 +186,11 @@ senden vorzubereiten.',
     'shops_title' => 'Unsere Läden',
     'desc_shops' => 'Unsere Läden',
     'our_shops_ed' => 'Unsere Shops in Érezée und Durbuy',
-    'our_shops_ed_details' => 'Unsere Shops in Briscol­Erezée Durbuy und bieten eine breite Palette von Schokolade Delikatessen, Honig aus der Region, Tee, Liköre, usw.',
-    'erezee' => 'Der Laden, Werkstatt und Museum in Érezée',
+    'our_shops_ed_details' => 'Unsere Shops in Briscol / Erezée und Durbuy und bieten eine breite Palette von Schokolade Delikatessen, Honig aus der Region, Tee, Liköre, usw.',
+    'erezee' => 'Der Laden, Werkstatt und das Museum in Érezée',
     'erezee_shop' => 'Erezee geschäft',
-    'open_erezee' => 'Dienstag bis Samstag von 10 Uhr bis 18 Uhr und Sonntag 10.00 bis 16h30pm',
-    'open_durbuy' => 'Geöffnet täglich 10 bis 16h30pm. Geschlossen am Dienstag und Mittwoch',
+    'open_erezee' => 'Dienstag bis Samstag von 10 Uhr bis 18 Uhr und Sonntag von 10.00 bis 16.30 Uhr',
+    'open_durbuy' => 'Geöffnet täglich von 10 bis 16.30 Uhr. Geschlossen am Dienstag und Mittwoch',
     'erezee_details' => 'Unsere Shops in BriscolErezée Durbuy und bieten eine große Auswahl an Schokoladen-Köstlichkeiten, Honig aus der Region, Tee, Liköre, usw.',
     'durbuy_details' => 'Unser Briscol-Erezée-Shop bietet eine große Auswahl an Schokolade, Feinkost, Honig aus der Region, Tees, Liköre, usw.',
     'durbuy' => 'Das Geschäft in Durbuy',
@@ -269,7 +252,7 @@ senden vorzubereiten.',
     'contact' => 'Kontakt',
     'phone' => 'Telefon',
     'phone_number_footer' => '0032 (0)86 21 84 40',
-    'open' => 'Öffnung',
+    'open' => 'Öffnungszeiten',
     'social_network' => 'Soziale Netzwerke',
     'realised_by' => 'Hergestellt von',
     'go_top' => 'Oben',
