@@ -14,6 +14,7 @@ return [
     'easter_title' => 'Our spring collection',
     'desc_easter' => 'Our spring collection',
     'our_collection' => 'Our spring collection',
+    'our_collection_details' => '',
     'choco_easter' => 'Chocolate',
 
     /**

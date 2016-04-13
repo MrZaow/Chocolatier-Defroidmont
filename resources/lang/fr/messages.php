@@ -14,6 +14,13 @@ return [
     'easter_title' => 'Notre collection de printemps',
     'desc_easter' => 'Notre collection de printemps.',
     'our_collection' => 'Notre collection de printemps',
+
+Que ce soit pour une naissance, un baptême, un anniversaire, une communion,  un mariage,  ou encore une simple réunion en famille ou entre amis, n’hésitez pas à nous contacter, nous trouverons ensemble LE dessert, l’accompagnement parfait pour votre occasion. <br><br>
+
+Voici quelques réalisations de gâteaux au chocolat, macarons, ou encore mousses de fruits, un éventail de plaisir pour vos papilles.<br><br>
+
+Nous sommes à l’écoute de vos souhaits et répondrons avec plaisir à vos demandes !<br><br>
+
     'choco_easter' => 'Chocolat',
 
     /**

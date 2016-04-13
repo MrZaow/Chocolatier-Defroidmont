@@ -14,6 +14,7 @@ return [
     'easter_title' => 'Onze voorjaarscollectie',
     'desc_easter' => 'Onze voorjaarscollectie',
     'our_collection' => 'Onze voorjaarscollectie',
+    'our_collection_details' => '',
     'choco_easter' => 'Chocolade',
 
     /**

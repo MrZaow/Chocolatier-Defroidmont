@@ -14,6 +14,7 @@ return [
     'easter_title' => 'Unsere Frühjahrskollektion',
     'desc_easter' => 'Unsere Frühjahrskollektion',
     'our_collection' => 'Unsere Frühjahrskollektion',
+    'our_collection_details' => '',
     'choco_easter' => 'Schokolade',
 
     /**
