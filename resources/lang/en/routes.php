@@ -5,7 +5,7 @@ return [
     "order"       => "order",
     "shops"       => "shops",
     "museum"      => "museum",
-    "easter"      => "easter",
+    "spring"      => "spring",
     "infos"       => "information",
     "ballotins"   => "ballotins",
     "bloc_nature" => "natural-block",

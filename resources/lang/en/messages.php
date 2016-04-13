@@ -11,10 +11,10 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Our Easter assortment',
-    'desc_easter' => 'Our Easter assortment',
-    'our_collection' => 'Our Easter assortment',
-    'choco_easter' => 'Easter chocolate',
+    'easter_title' => 'Our spring collection',
+    'desc_easter' => 'Our spring collection',
+    'our_collection' => 'Our spring collection',
+    'choco_easter' => 'Chocolate',
 
     /**
      * Page ballotins
@@ -103,8 +103,8 @@ return [
      */
     'home_title' => 'Home',
     'desc_home' => 'The skilled Philippe Defroidmont invites you to a discovery of several chocolate flavors from around the world.',
-    'choco_here' => 'Our Easter chocolates are here !',
-    'see_choco_here' => 'See the Easter chocolates',
+    'choco_here' => 'Our Spring chocolates are here!',
+    'see_choco_here' => 'See Spring chocolates',
     'dont_hesitate' => 'You can also place your orders online',
     'open_hour' => 'Opening hours',
     'open_hour_erezee' => 'Open Tuesday to Saturday from 10 to 6 and Sunday 10 to 4:30',
@@ -246,7 +246,7 @@ return [
     'menu_order' => 'Order',
     'menu_shops' => 'Our stores',
     'menu_museum' => 'Museum',
-    'menu_easter' => 'Easter',
+    'menu_easter' => 'Spring',
     'menu_infos' => 'Info',
 
     /**

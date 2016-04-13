@@ -11,10 +11,10 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Ons Paas assortiment',
-    'desc_easter' => 'Ons Paas assortiment',
-    'our_collection' => 'Ons Paas assortiment',
-    'choco_easter' => 'Pasen chocolade',
+    'easter_title' => 'Onze voorjaarscollectie',
+    'desc_easter' => 'Onze voorjaarscollectie',
+    'our_collection' => 'Onze voorjaarscollectie',
+    'choco_easter' => 'Chocolade',
 
     /**
      * Page ballotins
@@ -104,8 +104,8 @@ return [
      */
     'home_title' => 'Home',
     'desc_home' => 'De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van de verschillende chocolade smaken uit de hele wereld.',
-    'choco_here' => 'Onze Paaschocolaatjes zijn er !',
-    'see_choco_here' => 'Zie de chocoladen paaseieren',
+    'choco_here' => 'Onze Spring pralines zijn er !',
+    'see_choco_here' => 'Zie Spring chocolade',
     'dont_hesitate' => 'U kan ook online uw bestellingen plaatsen',
     'open_hour' => 'Kantooruren',
     'open_hour_erezee' => 'Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10u tot 16u30',
@@ -246,7 +246,7 @@ return [
     'menu_order' => 'Bestellen',
     'menu_shops' => 'Onze winkels',
     'menu_museum' => 'Museum',
-    'menu_easter' => 'Pasen',
+    'menu_easter' => 'Veer',
     'menu_infos' => 'Info',
 
     /**

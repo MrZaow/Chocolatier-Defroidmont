@@ -11,10 +11,10 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Notre collection de Pâques',
-    'desc_easter' => 'Notre collection de Pâques.',
-    'our_collection' => 'Notre collection de Pâques',
-    'choco_easter' => 'Chocolat de Pâques',
+    'easter_title' => 'Notre collection de printemps',
+    'desc_easter' => 'Notre collection de printemps.',
+    'our_collection' => 'Notre collection de printemps',
+    'choco_easter' => 'Chocolat',
 
     /**
      * Page ballotins
@@ -107,8 +107,8 @@ return [
      */
     'home_title' => 'Accueil',
     'desc_home' => 'L\'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier.',
-    'choco_here' => 'Nos chocolats de Pâques sont là!',
-    'see_choco_here' => 'Voir les chocolats de Pâques',
+    'choco_here' => 'Nos chocolats de printemps sont là!',
+    'see_choco_here' => 'Voir les chocolats de printemps',
     'dont_hesitate' => 'N\'hésitez pas à passer vos commandes en ligne',
     'open_hour' => 'Heures d\'ouverture',
     'open_hour_erezee' => 'Ouvert du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30',
@@ -253,7 +253,7 @@ return [
     'menu_order' => 'Commander',
     'menu_shops' => 'Boutiques',
     'menu_museum' => 'Musée',
-    'menu_easter' => 'Pâques',
+    'menu_easter' => 'Printemps',
     'menu_infos' => 'Infos',
 
     /**
