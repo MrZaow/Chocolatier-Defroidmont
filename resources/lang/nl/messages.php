@@ -11,10 +11,10 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Ons Paas assortiment',
-    'desc_easter' => 'Ons Paas assortiment',
-    'our_collection' => 'Ons Paas assortiment',
-    'choco_easter' => 'Pasen chocolade',
+    'easter_title' => 'Onze voorjaarscollectie',
+    'desc_easter' => 'Onze voorjaarscollectie',
+    'our_collection' => 'Onze voorjaarscollectie',
+    'choco_easter' => 'Chocolade',
 
     /**
      * Page ballotins

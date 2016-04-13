@@ -11,10 +11,10 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Notre collection de Pâques',
-    'desc_easter' => 'Notre collection de Pâques.',
-    'our_collection' => 'Notre collection de Pâques',
-    'choco_easter' => 'Chocolat de Pâques',
+    'easter_title' => 'Notre collection de printemps',
+    'desc_easter' => 'Notre collection de printemps.',
+    'our_collection' => 'Notre collection de printemps',
+    'choco_easter' => 'Chocolat',
 
     /**
      * Page ballotins
