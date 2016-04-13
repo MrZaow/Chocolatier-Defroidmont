@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <h1>{{ trans('messages.our_collection') }}</h1>
-                    {!! trans('messages.our_collection') !!}
+                    {!! trans('messages.our_collection_details') !!}
                 </div>
             </div>
         </div>
