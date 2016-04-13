@@ -102,8 +102,8 @@ return [
      */
     'home_title' => 'Home',
     'desc_home' => 'Der Fach Philippe Defroidmont lädt zu einer Entdeckung von mehreren Schokolade Aromen aus der ganzen Welt.',
-    'choco_here' => 'Unsere Ostern Pralinen sind hier!',
-    'see_choco_here' => 'Sehen Sie sich die Ostern Pralinen',
+    'choco_here' => 'Unsere Frühlings-Pralinen sind hier!',
+    'see_choco_here' => 'Siehe Frühling Schokolade',
     'dont_hesitate' => 'Sie können auch online Ihre Bestellungen aufgeben',
     'open_hour' => 'Öffnungszeiten',
     'open_hour_erezee' => 'Geöffnet von Dienstag bis Samstag von 10 bis 18 Uhr und Sonntag von 10.00 bis 16.30 Uhr',
@@ -242,7 +242,7 @@ return [
     'menu_order' => 'Auftrag',
     'menu_shops' => 'Unsere Läden',
     'menu_museum' => 'Museum',
-    'menu_easter' => 'Ostern',
+    'menu_easter' => 'Frühling',
     'menu_infos' => 'Info',
 
     /**
