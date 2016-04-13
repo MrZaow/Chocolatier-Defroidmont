@@ -12,7 +12,7 @@
     <section id="title" class="orange">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-12">
                     <h1>{{ trans('messages.our_collection') }}</h1>
                     {!! trans('messages.our_collection_details') !!}
                 </div>
