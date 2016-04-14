@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url({{ asset('/images/slider/bg2.jpg') }});">
+                <div class="item" style="background-image: url({{ asset('/images/slider/bg3.JPG') }});">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
