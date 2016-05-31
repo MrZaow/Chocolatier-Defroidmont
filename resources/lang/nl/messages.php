@@ -11,9 +11,9 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Onze voorjaarscollectie',
-    'desc_easter' => 'Onze voorjaarscollectie',
-    'our_collection' => 'Onze voorjaarscollectie',
+    'easter_title' => 'Onze galerij',
+    'desc_easter' => 'Onze galerij',
+    'our_collection' => 'Onze galerij',
     'our_collection_details' => '',
     'choco_easter' => 'Chocolade',
 
@@ -105,8 +105,8 @@ return [
      */
     'home_title' => 'Home',
     'desc_home' => 'De vakman Philippe Defroidmont nodigt u uit voor een ontdekking van de verschillende chocolade smaken uit de hele wereld.',
-    'choco_here' => 'Onze Spring pralines zijn er !',
-    'see_choco_here' => 'Zie Spring chocolade',
+    'choco_here' => 'Bezoek onze nieuwe galerij !',
+    'see_choco_here' => 'Bezoek de galerij',
     'dont_hesitate' => 'U kan ook online uw bestellingen plaatsen',
     'open_hour' => 'Kantooruren',
     'open_hour_erezee' => 'Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10u tot 16u30',
@@ -247,7 +247,7 @@ return [
     'menu_order' => 'Bestellen',
     'menu_shops' => 'Onze winkels',
     'menu_museum' => 'Museum',
-    'menu_easter' => 'Veer',
+    'menu_easter' => 'Galerij',
     'menu_infos' => 'Info',
 
     /**

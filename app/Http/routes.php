@@ -45,8 +45,8 @@ Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalizati
         return view('museum');
     }]);
 
-    Route::get(LaravelLocalization::transRoute('routes.spring'), ['as' => 'easter',function(){
-        return view('spring');
+    Route::get(LaravelLocalization::transRoute('routes.gallery'), ['as' => 'easter',function(){
+        return view('gallery');
     }]);
 
     Route::get(LaravelLocalization::transRoute('routes.infos'), ['as' => 'infos',function(){

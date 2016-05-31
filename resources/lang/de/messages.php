@@ -11,9 +11,9 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Unsere Frühjahrskollektion',
-    'desc_easter' => 'Unsere Frühjahrskollektion',
-    'our_collection' => 'Unsere Frühjahrskollektion',
+    'easter_title' => 'Unsere Galerie',
+    'desc_easter' => 'Unsere Galerie',
+    'our_collection' => 'Unsere Galerie',
     'our_collection_details' => '',
     'choco_easter' => 'Schokolade',
 
@@ -103,8 +103,8 @@ return [
      */
     'home_title' => 'Home',
     'desc_home' => 'Der Fach Philippe Defroidmont lädt zu einer Entdeckung von mehreren Schokolade Aromen aus der ganzen Welt.',
-    'choco_here' => 'Unsere Frühlings-Pralinen sind hier!',
-    'see_choco_here' => 'Siehe Frühling Schokolade',
+    'choco_here' => 'Besuchen Sie unsere neue Galerie!',
+    'see_choco_here' => 'Besuchen Sie die Galerie',
     'dont_hesitate' => 'Sie können auch online Ihre Bestellungen aufgeben',
     'open_hour' => 'Öffnungszeiten',
     'open_hour_erezee' => 'Geöffnet von Dienstag bis Samstag von 10 bis 18 Uhr und Sonntag von 10.00 bis 16.30 Uhr',
@@ -243,7 +243,7 @@ return [
     'menu_order' => 'Auftrag',
     'menu_shops' => 'Unsere Läden',
     'menu_museum' => 'Museum',
-    'menu_easter' => 'Frühling',
+    'menu_easter' => 'Galerie',
     'menu_infos' => 'Info',
 
     /**

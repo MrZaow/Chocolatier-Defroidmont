@@ -31,7 +31,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <img src="{{ asset('/images/paques3.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+                <img src="{{ asset('/images/paques6.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
             <div class="col-md-6">
                 <img src="{{ asset('/images/paques4.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
@@ -42,7 +42,7 @@
                 <img src="{{ asset('/images/paques5.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
             <div class="col-md-6">
-                <img src="{{ asset('/images/paques6.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+                <img src="{{ asset('/images/paques3.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
         </div>
     </section>

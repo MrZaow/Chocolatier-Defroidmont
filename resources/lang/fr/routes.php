@@ -5,7 +5,7 @@ return [
     "order"       => "commander",
     "shops"       => "boutiques",
     "museum"      => "musee",
-    "spring"      => "printemps",
+    "gallery"      => "galerie",
     "infos"       => "informations",
     "ballotins"   => "ballotins",
     "bloc_nature" => "bloc-nature",

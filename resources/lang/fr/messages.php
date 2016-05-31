@@ -11,18 +11,10 @@ return [
     /**
      * Page easter
      */
-    'easter_title' => 'Notre collection de printemps',
-    'desc_easter' => 'Notre collection de printemps.',
-    'our_collection' => 'Notre collection de printemps',
-    'our_collection_details' => 'Le printemps est là, porteur de promesses de renouveau, de joies, de bonne humeur mais également d’heureux évènements.<br><br>
-
-Que ce soit pour une naissance, un baptême, un anniversaire, une communion,  un mariage,  ou encore une simple réunion en famille ou entre amis, n’hésitez pas à nous contacter, nous trouverons ensemble LE dessert, l’accompagnement parfait pour votre occasion. <br><br>
-
-Voici quelques réalisations de gâteaux au chocolat, macarons, ou encore mousses de fruits, un éventail de plaisir pour vos papilles.<br><br>
-
-Nous sommes à l’écoute de vos souhaits et répondrons avec plaisir à vos demandes !<br><br>
-
-Toute notre équipe vous souhaite d’ores et déjà un merveilleux printemps',
+    'easter_title' => 'Notre galerie',
+    'desc_easter' => 'Notre galerie',
+    'our_collection' => 'Notre galerie',
+    'our_collection_details' => '',
     'choco_easter' => 'Chocolat',
 
     /**
@@ -116,8 +108,8 @@ Toute notre équipe vous souhaite d’ores et déjà un merveilleux printemps',
      */
     'home_title' => 'Accueil',
     'desc_home' => 'L\'artisan Philippe Defroidmont vous invite à une découverte des saveurs chocolatées du monde entier.',
-    'choco_here' => 'Nos chocolats de printemps sont là!',
-    'see_choco_here' => 'Voir les chocolats de printemps',
+    'choco_here' => 'Visitez notre toute nouvelle galerie!',
+    'see_choco_here' => 'Visiter la galerie',
     'dont_hesitate' => 'N\'hésitez pas à passer vos commandes en ligne',
     'open_hour' => 'Heures d\'ouverture',
     'open_hour_erezee' => 'Ouvert du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30',
@@ -262,7 +254,7 @@ Toute notre équipe vous souhaite d’ores et déjà un merveilleux printemps',
     'menu_order' => 'Commander',
     'menu_shops' => 'Boutiques',
     'menu_museum' => 'Musée',
-    'menu_easter' => 'Printemps',
+    'menu_easter' => 'Galerie',
     'menu_infos' => 'Infos',
 
     /**

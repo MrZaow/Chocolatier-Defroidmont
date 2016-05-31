@@ -5,7 +5,7 @@ return [
     "order"       => "bestellen",
     "shops"       => "geschafte",
     "museum"      => "museum",
-    "spring"      => "fruhling",
+    "gallery"      => "Galerie",
     "infos"       => "nachrichten",
     "ballotins"   => "ballotins",
     "bloc_nature" => "blockschokolade",

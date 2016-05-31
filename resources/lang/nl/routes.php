@@ -5,7 +5,7 @@ return [
     "order"       => "bestelling",
     "shops"       => "winkelen",
     "museum"      => "museum",
-    "spring"      => "veer",
+    "gallery"      => "galerij",
     "infos"       => "informatie",
     "ballotins"   => "ballotins",
     "bloc_nature" => "bloc-nature",
