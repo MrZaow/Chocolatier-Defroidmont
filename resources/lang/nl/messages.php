@@ -110,7 +110,7 @@ return [
     'dont_hesitate' => 'U kan ook online uw bestellingen plaatsen',
     'open_hour' => 'Kantooruren',
     'open_hour_erezee' => 'Open van dinsdag tot zaterdag van 10u tot 18u en zondag 10u tot 16u30. Gesloten op deze zondag 19 juni.',
-    'open_hour_durbuy' => 'Dagelijks geopend 10u00 tot 16u30. Gesloten op dinsdag en woensdag. Gesloten op deze zondag 19 juni.',
+    'open_hour_durbuy' => 'Dagelijks geopend 10u00 tot 16u30. Gesloten op dinsdag en woensdag',
     'sell_chocolate' => 'Chocolade Verkoop',
     'sell_chocolate_details' => 'Verkoop, proeverijen en advies van onze handgemaakte chocolade',
     'visit_museum' => 'Het Museum',

@@ -113,7 +113,7 @@ return [
     'dont_hesitate' => 'N\'hésitez pas à passer vos commandes en ligne',
     'open_hour' => 'Heures d\'ouverture',
     'open_hour_erezee' => 'Ouvert du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30. Fermé ce dimanche 19 juin.',
-    'open_hour_durbuy' => 'Ouvert tous les jours de 10h à 18h sauf le mardi et le mercredi. Fermé ce dimanche 19 juin.',
+    'open_hour_durbuy' => 'Ouvert tous les jours de 10h à 18h sauf le mardi et le mercredi',
     'sell_chocolate' => 'Vente de chocolat',
     'sell_chocolate_details' => 'Vente de chocolat artisanal, dégustations et conseils.',
     'visit_museum' => 'Visite du musée',

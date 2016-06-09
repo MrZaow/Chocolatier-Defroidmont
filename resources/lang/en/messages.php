@@ -109,7 +109,7 @@ return [
     'dont_hesitate' => 'You can also place your orders online',
     'open_hour' => 'Opening hours',
     'open_hour_erezee' => 'Open Tuesday to Saturday from 10 to 6 and Sunday 10 to 4:30. Closed this Sunday, June 19.',
-    'open_hour_durbuy' => 'Open daily 10 to 4:30. Closed Tuesdays and Wednesdays. Closed this Sunday, June 19.',
+    'open_hour_durbuy' => 'Open daily 10 to 4:30. Closed Tuesdays and Wednesdays',
     'sell_chocolate' => 'Chocolate Sales',
     'sell_chocolate_details' => 'Sales, tastings and advice of our handmade chocolates',
     'visit_museum' => 'The museum',
