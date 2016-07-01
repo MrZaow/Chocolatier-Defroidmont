@@ -101,7 +101,7 @@ return [
      * Page produits
      */
     'products_title' => 'Nos Produits',
-    'desc_products' => 'Les meilleurs des délicieux produits issus de notre chocolaterie',
+    'desc_products' => 'Le meilleur de nos produits chocolatés',
 
     /**
      * Page home
@@ -112,8 +112,8 @@ return [
     'see_choco_here' => 'Visiter la galerie',
     'dont_hesitate' => 'N\'hésitez pas à passer vos commandes en ligne',
     'open_hour' => 'Heures d\'ouverture',
-    'open_hour_erezee' => 'Ouvert du mardi au samedi de 10h à 18h et le dimanche de 10h à 16h30. Fermé ce dimanche 19 juin.',
-    'open_hour_durbuy' => 'Ouvert tous les jours de 10h à 18h sauf le mardi et le mercredi',
+    'open_hour_erezee' => 'Ouvert du mardi au samedi de 10h à 18h et le dimanche de 11h à 16h.',
+    'open_hour_durbuy' => 'Ouvert tous les jours de 10h à 17h30 sauf le mardi et le mercredi. Fermé le lundi.',
     'sell_chocolate' => 'Vente de chocolat',
     'sell_chocolate_details' => 'Vente de chocolat artisanal, dégustations et conseils.',
     'visit_museum' => 'Visite du musée',

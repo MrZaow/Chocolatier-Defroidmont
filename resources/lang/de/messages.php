@@ -107,7 +107,7 @@ return [
     'see_choco_here' => 'Besuchen Sie die Galerie',
     'dont_hesitate' => 'Sie können auch online Ihre Bestellungen aufgeben',
     'open_hour' => 'Öffnungszeiten',
-    'open_hour_erezee' => 'Geöffnet von Dienstag bis Samstag von 10 bis 18 Uhr und Sonntag von 10.00 bis 16.30 Uhr. Geschlossen Dieser Sonntag, 19. Juni.',
+    'open_hour_erezee' => 'Geöffnet von Dienstag bis Samstag von 10 bis 17.30 Uhr und Sonntag von 11.00 bis 16 Uhr. Montag geschlossen.',
     'open_hour_durbuy' => 'Geöffnet täglich von 10.00 bis 16.30 Uhr. Geschlossen am Dienstag und Mittwoch',
     'sell_chocolate' => 'Schokoladenvertrieb',
     'sell_chocolate_details' => 'Verkauf unserer handgemachten Pralinen,  Verkostungen und Beratung.',

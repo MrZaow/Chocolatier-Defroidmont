@@ -27,6 +27,7 @@
                 <address>
                     <p>{{ trans('messages.phone') }} : {{ trans('messages.phone_number_footer') }}</p>
                     <p>Mail : <a href="mailto:contact@chocolatier-defroidmont.be">contact@chocolatier-defroidmont.be</a></p>
+                    <p>TVA : BE 0833.318.585 </p>
                 </address>
             </div> <!--/.col-md-3-->
 
