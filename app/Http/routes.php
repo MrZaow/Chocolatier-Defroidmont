@@ -26,7 +26,7 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 
 Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalization::setLocale()], function () {
     Route::get('/', ['as' => 'home', function () {
-        return view('home');
+       return view('home');
     }]);
 
     Route::get(LaravelLocalization::transRoute('routes.products'), ['as' => 'products',function(){
