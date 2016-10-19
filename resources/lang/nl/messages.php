@@ -71,8 +71,8 @@ return [
     'ch_museum' => 'Chocolate museum',
     'informations' => 'Informatie',
     'tarif' => 'Tarief',
-    'adultes' => 'Volwassenen: 5,50 euro/persoon',
-    'enfants' => 'Kinderen (tot 12 jaar): 4,00 euro/persoon',
+    'adultes' => 'Volwassenen: 6 euro/persoon en birds and bees: 6 euro',
+    'enfants' => 'Kinderen (tot 12 jaar): 4,00 euro/persoon en birds and bees: 5 euro',
     'duree' => 'Duur',
     'desc_museum3' => 'Bezoek het museum: 40 minuten <br>
                     Promenade wandeling : 40 minuten',

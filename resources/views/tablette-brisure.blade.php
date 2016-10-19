@@ -32,7 +32,7 @@
                 </ul>
                 <h2>{{ trans('messages.pd_px') }}</h2>
                 <ul>
-                    <li>85g - 3,00€</li>
+                    <li>85g - 4,00€</li>
                 </ul>
             </div>
             <div class="col-md-6">

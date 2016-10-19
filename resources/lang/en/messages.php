@@ -69,8 +69,8 @@ return [
     'ch_museum' => 'Chocolate museum',
     'informations' => 'Information',
     'tarif' => 'Rate',
-    'adultes' => 'Adults : 5,50 euros/person',
-    'enfants' => 'Children (under 12 years) : 4,00 euros/person',
+    'adultes' => 'Adults : 6 euros/person and birds and bees : 6 euro',
+    'enfants' => 'Children (under 12 years) : 4,00 euros/person and birds and bees : 5 euro',
     'duree' => 'Duration',
     'desc_museum3' => 'Visit of the museum: 40 minutes<br>
                     Bees and birds : 40 minutes',

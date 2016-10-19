@@ -54,8 +54,7 @@ return [
     'access' => 'Accessibilité',
     'access_img_alt' => 'Personne à mobilité réduite',
     'access_details' => '2 places de parking pour les personnes à mobilité reduite <br>
-                    Présence de rack à vélos <br>
-                    Borne pour recharger les batteries de vélos électriques <br>',
+                    Présence de rack à vélos <br> ',
 
     /**
      * Page museum
@@ -72,8 +71,8 @@ return [
     'ch_museum' => 'Musée du chocolat',
     'informations' => 'Informations',
     'tarif' => 'Tarif',
-    'adultes' => 'Adultes : 5,50 euros/personne',
-    'enfants' => 'Enfants (moins de 12 ans) : 4,00 euros/personne',
+    'adultes' => 'Adultes : 6 euros/personne et birds and bees: 6 euro',
+    'enfants' => 'Enfants (moins de 12 ans) : 4,00 euros/personne et birds and bees: 5 euro',
     'duree' => 'Durée',
      'desc_museum3' => 'Visite du musée : 40 minutes <br>
                     Promenade des abeilles : 40 minutes',
