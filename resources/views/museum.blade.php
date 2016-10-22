@@ -48,6 +48,11 @@
                     {{ trans('messages.adultes') }} <br>
                     {{ trans('messages.enfants') }}
                 </p>
+                <h3>{{ trans('messages.tarif_bees') }}</h3>
+                <p>
+                    {{ trans('messages.adultes_bees') }} <br>
+                    {{ trans('messages.enfants_bees') }}
+                </p>
                 <h3>{{ trans('messages.duree') }}</h3>
                 <p>{!! trans('messages.desc_museum3') !!}</p>
                 <h3>{{ trans('messages.access') }}</h3>

@@ -34,7 +34,7 @@
                 <h2>{{ trans('messages.pd_px') }}</h2>
                 <ul>
                     <li>250g - 12,50€</li>
-                    <li>350g - 17,00€</li>
+                    <li>350g - 17,50€</li>
                     <li>500g - 25,00€</li>
                 </ul>
             </div>
