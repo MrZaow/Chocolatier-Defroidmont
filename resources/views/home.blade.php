@@ -42,7 +42,7 @@
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url({{ asset('/images/slider/bg3.JPG') }});">
+                <div class="item" style="background-image: url({{ asset('/images/slider/slider03.jpg') }});">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url({{ asset('/images/equipe-defroidmont.jpg') }})">
+                <div class="item" style="background-image: url({{ asset('/images/slider/slider02.jpg') }})">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
