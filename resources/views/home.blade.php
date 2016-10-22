@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Defroidmont</h1>
+                    <h1>{{ trans('messages.home_title') }}</h1>
                 </div>
             </div>
         </div>
