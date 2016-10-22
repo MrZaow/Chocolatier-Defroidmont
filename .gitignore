@@ -6,3 +6,4 @@ Homestead.json
 .env
 
 *.xml
+.idea/workspace.xml
