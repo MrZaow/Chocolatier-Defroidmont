@@ -71,6 +71,8 @@ return [
     'ch_museum' => 'Chocolate museum',
     'informations' => 'Informatie',
     'tarif' => 'Tarief museum',
+    'desc_museum' => 'Bezoek het museum: 40 min + proeverij = +/-1 h00',
+    'desc_bees' => 'Wandeling "Birds and Bees" : 1h00 à 2h30',
     'tarif_bees' => 'Tarief birds and bees',
     'adultes' => 'Volwassenen: 6 euro/persoon',
     'adultes_bees' => 'Volwassenen: 6 euro/persoon',

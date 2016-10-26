@@ -71,6 +71,8 @@ return [
     'ch_museum' => 'Musée du chocolat',
     'informations' => 'Informations',
     'tarif' => 'Tarif musée',
+    'desc_museum' => 'Visite du Musée : 40 min + Dégustation = +/-1 h00',
+    'desc_bees' => 'Promenade "Birds and Bees" : 1h00 à 2h30',
     'tarif_bees' => 'Tarif birds and bees',
     'adultes' => 'Adultes : 6 euros/personne',
     'adultes_bees' => 'Adultes : 6 euros/personne',

@@ -69,6 +69,8 @@ return [
     'ch_museum' => 'Chocolate museum',
     'informations' => 'Information',
     'tarif' => 'Rate museum',
+    'desc_museum' => 'Museum visit : 40 min + Tasting = +/-1 h00',
+    'desc_bees' => 'Promenade "Birds and Bees" : 1h00 à 2h30',
     'tarif_bees' => 'Rate birds and bees',
     'adultes' => 'Adults : 6 euros/person',
     'adultes_bees' => 'Adults : 6 euros/person',
