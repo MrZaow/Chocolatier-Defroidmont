@@ -71,16 +71,14 @@ return [
     'ch_museum' => 'Musée du chocolat',
     'informations' => 'Informations',
     'tarif' => 'Tarif musée',
-    'desc_museum' => 'Visite du Musée : 40 min + Dégustation = +/-1 h00',
-    'desc_bees' => 'Promenade "Birds and Bees" : 1h00 à 2h30',
     'tarif_bees' => 'Tarif birds and bees',
     'adultes' => 'Adultes : 6 euros/personne',
     'adultes_bees' => 'Adultes : 6 euros/personne',
     'enfants' => 'Enfants (moins de 12 ans) : 4,00 euros/personne',
     'enfants_bees' => 'Enfants (moins de 12 ans) : 5,00 euros/personne',
     'duree' => 'Durée',
-     'desc_museum3' => 'Visite du musée : 40 minutes <br>
-                    Promenade des abeilles : 40 minutes',
+     'desc_museum3' => 'Visite du musée : 40 min + Dégustation = +/-1h00 <br>
+                    Promenade "Birds and Bees" : 1h00 à 2h30',
     'localisation' => 'Localisation',
 
     /**

@@ -69,16 +69,14 @@ return [
     'ch_museum' => 'Chocolate museum',
     'informations' => 'Information',
     'tarif' => 'Rate museum',
-    'desc_museum' => 'Museum visit : 40 min + Tasting = +/-1 h00',
-    'desc_bees' => 'Promenade "Birds and Bees" : 1h00 à 2h30',
     'tarif_bees' => 'Rate birds and bees',
     'adultes' => 'Adults : 6 euros/person',
     'adultes_bees' => 'Adults : 6 euros/person',
     'enfants' => 'Children (under 12 years) : 4,00 euros/person',
     'enfants_bees' => 'Children (under 12 years) : 5,00 euros/person',
     'duree' => 'Duration',
-    'desc_museum3' => 'Visit of the museum: 40 minutes<br>
-                    Bees and birds : 40 minutes',
+    'desc_museum3' => 'Visit of the museum: 40 min + Tasting = +/-1 h00<br>
+                    Promenade "Birds and Bees" : 1h00 à 2h30',
     'localisation' => 'Location',
 
     /**

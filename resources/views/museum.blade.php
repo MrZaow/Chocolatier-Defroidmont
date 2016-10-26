@@ -45,13 +45,11 @@
             <div class="col-md-4">
                 <h3>{{ trans('messages.tarif') }}</h3>
                 <p>
-                    {{ trans('messages.desc_museum') }} <br>
                     {{ trans('messages.adultes') }} <br>
                     {{ trans('messages.enfants') }}
                 </p>
                 <h3>{{ trans('messages.tarif_bees') }}</h3>
                 <p>
-                    {{ trans('messages.desc_bees') }} <br>
                     {{ trans('messages.adultes_bees') }} <br>
                     {{ trans('messages.enfants_bees') }}
                 </p>

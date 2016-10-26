@@ -67,16 +67,14 @@ return [
     'ch_museum' => 'Schokoladenmuseum',
     'informations' => 'Informationen',
     'tarif' => 'Tarife museum',
-    'desc_museum' => 'Besuchen Sie das Museum : 40 min + Verkostung = +/-1 h00',
-    'desc_bees' => 'Promenade "Birds and Bees" : 1h00 à 2h30',
     'tarif_bees' => 'Tarife birds and bees',
     'adultes' => 'Erwachsene: 6 Euro / Person',
     'adultes_bees' => 'Erwachsene: 6 Euro / Person',
     'enfants' => 'Kinder (unter 12 Jahren): 4 Euro / Kind',
     'enfants_bees' => 'Kinder (unter 12 Jahren): 5 Euro / Kind',
     'duree' => 'Dauer',
-    'desc_museum3' => 'Dauer des Museumbesuchs: 40 Minuten<br>
-                    Bienen Wanderung: 40 Minuten',
+    'desc_museum3' => 'Dauer des Museumbesuchs: 40 min + Verkostung = +/-1 h00<br>
+                    Promenade "Birds and Bees" : 1h00 à 2h30',
     'localisation' => 'Ort',
 
     /**
