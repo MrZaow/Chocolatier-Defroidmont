@@ -247,7 +247,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Products',
-    'menu_order' => 'Order',
+    'menu_order' => 'Cart',
     'menu_shops' => 'Our stores',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Gallery',
@@ -265,4 +265,9 @@ return [
     'realised_by' => 'Made by',
     'go_top' => 'Top',
 
+    /*******
+    * Traduction commande
+    */
+    'order_product' => 'Order',
+    'order_quantity' => 'Quantity',
 ];

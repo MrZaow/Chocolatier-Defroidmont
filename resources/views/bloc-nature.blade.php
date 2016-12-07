@@ -32,6 +32,37 @@
                 <ul>
                     <li>275g - 8,00€</li>
                 </ul>
+
+                <h2>{{trans('messages.order_product')}}</h2>
+                {{ Form::open(['action' => 'Controller@AddCart']) }}
+
+                <div class="row">
+                    <div class="col-md-7">
+                        {{ Form::select('type', array(
+                            'ch_noci' => trans('messages.ch_noci'),
+                            'ch_lov' => trans('messages.ch_lov'),
+                            'ch_oci'=> trans('messages.ch_oci'),
+                        )) }}
+                    </div>
+                    <div class="col-md-1"></div>
+                    <div class="col-md-4">
+                        <p><strong>275g - 8,00€</strong></p>
+                        {{ Form::hidden('price', '8') }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-7">
+                        {{ Form::label('quantity : ', trans('messages.order_quantity'))}}
+                        {{ Form::number('quantity', '1', array('min' => 1, 'max' => 50, 'size' => "4"))}}
+                        {{ Form::hidden('invisible', '2') }}
+                    </div>
+                    <div class="col-md-1"></div>
+                    <div class="col-md-4">
+                        {{ Form::submit(trans('messages.order_product'), array('class'=>'btn btn-primary')) }}
+                    </div>
+                    {{ Form::close()}}
+                </div> 
+
             </div>
             <div class="col-md-6">
                 <img src="{{ asset('/images/blocnature.jpg') }}" alt="Bloc nature" class="img-responsive">

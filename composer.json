@@ -8,7 +8,9 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
         "laravelcollective/html": "5.2.*",
-        "mcamara/laravel-localization": "1.1.*"
+        "mcamara/laravel-localization": "1.1.*",
+        "stripe/stripe-php": "3.*",
+        "gloudemans/shoppingcart": "*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

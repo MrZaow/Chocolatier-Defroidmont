@@ -13,7 +13,6 @@
             <ul class="nav navbar-nav navbar-left">
                 <li><a href="{{ route('home') }}">{{ trans('messages.menu_home') }}</a></li>
                 <li><a href="{{ route('products') }}">{{ trans('messages.menu_products') }}</a></li>
-                <li><a href="{{ route('order') }}"><i class="fa fa-shopping-cart"></i> {{ trans('messages.menu_order') }}</a></li>
                 <li><a href="{{ route('shops') }}">{{ trans('messages.menu_shops') }}</a></li>
                 <li><a href="{{ route('museum') }}">{{ trans('messages.menu_museum') }}</a></li>
                 <li><a href="{{ route('easter') }}">{{ trans('messages.menu_easter') }}</a></li>
@@ -21,6 +20,7 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
+                <li><a href="{{ route('order') }}"><i class="fa fa-shopping-cart"></i> {{ trans('messages.menu_cart') }}</a></li>
                 <li><a target="_blank" href="https://www.facebook.com/ChocolatierDefroidmont/"><i class="fa fa-facebook-official"></i> </a></li>
                 <li><a href="#" style="pointer-events: none; cursor: default; "><strong> <i class="icon-phone"></i> 086 21 84 40</strong></a></li>
                 @foreach(LaravelLocalization::getSupportedLocales() as $localeCode => $properties)

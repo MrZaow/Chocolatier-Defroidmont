@@ -89,5 +89,37 @@
                 <img src="{{ asset('/images/theardennaise.jpg') }}" alt="{{ trans('messages.the_ta') }}" class="img-responsive">
             </div>
         </div>
+        <div class="row">
+            <h2>{{trans('messages.order_product')}}</h2>
+            {{ Form::open(['action' => 'Controller@AddCart']) }}
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                    {{ Form::select('type', array(
+                        'the_nc' => trans('messages.the_nc'),
+                        'the_nca' => trans('messages.the_nca'),
+                        'the_nml' => trans('messages.the_nml'),
+                        'the_vct' => trans('messages.the_vct'),
+                        'the_vf' => trans('messages.the_vf'),
+                        'the_vpc' => trans('messages.the_vpc'),
+                        'the_ipc' => trans('messages.the_ipc'),
+                        'the_idd' => trans('messages.the_idd'),
+                        'the_ta' => trans('messages.the_ta'),
+                    )) }}
+            </div>
+            <div class="col-md-2">
+                <p><strong>4,50€</strong></p>
+                {{ Form::hidden('price', '4.5') }}
+            </div>
+            <div class="col-md-4">
+                {{ Form::label('quantity : ', trans('messages.order_quantity'))}}
+                {{ Form::number('quantity', '1', array('min' => 1, 'max' => 50, 'size' => "4"))}}
+                {{ Form::hidden('invisible', '8') }}
+            </div>
+            <div class="col-md-3">
+                {{ Form::submit(trans('messages.order_product'), array('class'=>'btn btn-primary')) }}
+            </div>
+            {{ Form::close()}}
+        </div>
     </section>
 @endsection

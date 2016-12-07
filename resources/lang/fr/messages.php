@@ -84,12 +84,16 @@ return [
     /**
      * Page order
      */
-    'order_title' => 'Commander nos produits',
-    'desc_order' => 'Comment commander nos produits en ligne ?',
-    'order_details' => 'Pour commander nos produits en ligne, rien de plus simple ! Contactez-nous à l\'adresse mail
-                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> en précisant les produits et les quantités souhaitées,
-                    ainsi que vos coordonnées et l\'adresse à laquelle vous souhaitez être livré. Nous établirons votre facture et dès réception du règlement de celle-ci, nous expédierons votre commande.',
+    'order_title' => 'Votre panier',
+    'cart' => 'Des questions à propos de votre commande ?',
+    'cart_details' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
     'order_alt' => 'Équipe de la chocolaterie Defroidmont',
+    'order_product' => 'Produit',
+    'order_quantity' => 'Quantité',
+    'order_price' => 'Prix',
+    'order_total' => 'Total',
+    'order_delete' => 'Supprimer',
 
     /**
      * Page pate
@@ -253,7 +257,7 @@ return [
      */
     'menu_home' => 'Accueil',
     'menu_products' => 'Produits',
-    'menu_order' => 'Commander',
+    'menu_cart' => 'Panier',
     'menu_shops' => 'Boutiques',
     'menu_museum' => 'Musée',
     'menu_easter' => 'Galerie',
@@ -271,4 +275,10 @@ return [
     'realised_by' => 'Site réalisé par',
     'go_top' => 'Haut de page',
 
+
+    /*******
+    * Traduction commande
+    */
+    'order_product' => 'Commander',
+    'order_quantity' => 'Quantité',
 ];

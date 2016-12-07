@@ -25,6 +25,7 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 */
 
 Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalization::setLocale()], function () {
+    
     Route::get('/', ['as' => 'home', function () {
        return view('home');
     }]);
@@ -33,9 +34,25 @@ Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalizati
         return view('products');
     }]);
 
-    Route::get(LaravelLocalization::transRoute('routes.order'), ['as' => 'order',function(){
-        return view('order');
-    }]);
+    Route::get(LaravelLocalization::transRoute('routes.order'), [
+        'as' => 'order',
+        'uses' => 'Controller@ShowCart'
+    ]);
+
+    Route::post(LaravelLocalization::transRoute('routes.order'), [
+        'as' => 'order',
+        'uses' => 'Controller@AddCart'
+    ]);
+
+    Route::delete(LaravelLocalization::transRoute('routes.order'), [
+        'as' => 'order',
+        'uses' => 'Controller@DelCart'
+    ]);
+
+    Route::post(LaravelLocalization::transRoute('routes.order_result'), [
+        'as' => 'order_result',
+        'uses' => 'Controller@Pay'
+    ]);
 
     Route::get(LaravelLocalization::transRoute('routes.shops'), ['as' => 'shops',function(){
         return view('shops');

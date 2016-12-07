@@ -247,7 +247,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Producten',
-    'menu_order' => 'Bestellen',
+    'menu_order' => 'Caddy',
     'menu_shops' => 'Onze winkels',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Galerij',
@@ -264,5 +264,11 @@ return [
     'social_network' => 'Sociale Netwerken',
     'realised_by' => 'Website door',
     'go_top' => 'Top',
+
+    /*******
+    * Traduction commande
+    */
+    'order_product' => 'Order',
+    'order_quantity' => 'Quantity',
 
 ];
