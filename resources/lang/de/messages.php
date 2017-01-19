@@ -78,16 +78,6 @@ return [
     'localisation' => 'Ort',
 
     /**
-     * Page order
-     */
-    'order_title' => 'Bestellen Sie unsere Produkte',
-    'desc_order' => 'Wie können Sie unsere Produkte bestellen?',
-    'order_details' => 'Wenn Sie unsere Produkte online bestellen möchten, wenden Sie sich bitte per E-Mail an uns:
-
-<a href="mailto:contact@chocolatier-defroidmont.be">contact@chocolatier­defroidmont.be</a> Bitte geben sie die gewünschten Produkte und deren Menge an sowie Ihre Kontaktinformationen und die Adresse, wo die Lieferung stattfinden soll. Wir werden Ihnen danach eine Rechnung übermitteln und Ihnen nach Eingang der Zahlung Ihre Bestellung zusenden.',
-    'order_alt' => 'Das Team von chocolaterie Defroidmont',
-
-    /**
      * Page pate
      */
     'pate_title' => 'Aufstriche',
@@ -235,14 +225,12 @@ return [
                     Geschlossen Donnerstag und Feiertage',
 
 
-
-
-
     /**
      * Traduction menus
      */
     'menu_home' => 'Home',
     'menu_products' => 'Produkte',
+    'menu_cart' => 'TO DO',
     'menu_order' => 'Auftrag',
     'menu_shops' => 'Unsere Läden',
     'menu_museum' => 'Museum',
@@ -260,5 +248,29 @@ return [
     'social_network' => 'Soziale Netzwerke',
     'realised_by' => 'Hergestellt von',
     'go_top' => 'Oben',
+
+    /**
+     * Page order
+     */
+    'order_title' => 'Order our products',
+    'order_question' => 'Des questions à propos de votre commande ?',
+    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
+    'order_alt' => 'The team of chocolaterie Defroidmont',
+    'order_price' => 'Price',
+    'order_total' => 'Total',
+    'order_delete' => 'Remove',
+    'order_subtotal'=> 'Sub total',
+    'order_product' => 'Product',
+    'order_quantity' => 'Quantity',
+    
+    /**
+    * Page order result
+    */
+    'result_title' => 'Commande',
+    'result_oops' => 'Oups',
+    'result_error' => 'shit happens',
+    'result_thanks' => 'Merci !',
+    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
 
 ];

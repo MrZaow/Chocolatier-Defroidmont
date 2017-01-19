@@ -47,7 +47,7 @@ class Controller extends BaseController
         $metadata['email'] = $_POST['stripeEmail'];
         //On remplis les metadata de la commande
         foreach (Cart::content() as $line) {
-            $metadata[substr(trans('messages.' . $line->name, [], "", "fr"),0,40)] = $line->qty;
+            $metadata[substr(trans('messages.' . $line->name, [], "", "spc"),0,40)] = $line->qty;
         }
         try {
           $charge = \Stripe\Charge::create(array(

@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Commande</h1>
+                    <h1>{{ trans('messages.result_title') }}</h1>
                 </div>
             </div>
         </div>
@@ -23,11 +23,11 @@
             <div class="col-md-12">
             	@if ($fail)
             		<div class="alert alert-danger">
-					  <strong>Oops!</strong> Une erreur s'est produite lors de votre payement : {{$e}}
+					  <strong>{{ trans('messages.result_oops') }}</strong> {{ trans('messages.result_error') }} 
 					</div>
             	@else
             		<div class="alert alert-success">
-					  <strong>Merci !</strong> Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.
+					  <strong>{{ trans('messages.result_thanks') }}</strong> {{ trans('messages.result_success') }}
 					</div>
             	@endif
             </div>

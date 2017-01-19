@@ -26,8 +26,8 @@
     <section class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2>{{ trans('messages.cart') }}</h2>
-                <p>{!! trans('messages.cart_details') !!}</p>
+                <h2>{{ trans('messages.order_question') }}</h2>
+                <p>{!! trans('messages.order_help') !!}</p>
 
                 <table class="table table-striped">
                 <thead>
@@ -35,7 +35,7 @@
                     <th>{{ trans('messages.order_product') }}</th>
                     <th>{{ trans('messages.order_quantity') }}</th>
                     <th>{{ trans('messages.order_price') }}</th>
-                    <th>{{ trans('messages.order_total') }}</th>
+                    <th>{{ trans('messages.order_subtotal') }}</th>
                     <th>{{ trans('messages.order_delete') }}</th>
                   </tr>
                   @foreach ($cart as $item)
@@ -44,12 +44,12 @@
                         <th>
                             {{$item->qty}}
                         </th>
-                        <th>{{$item->price}}</th>
+                        <th>{{$item->price}} €</th>
                         <th>{{$item->subtotal}} €</th>
                         <th>
                             {{ Form::open(['action' => 'Controller@DelCart', 'method' => 'delete', 'style'=>'margin-bottom: 0px']) }}
                             {{ Form::hidden('rowId', $item->rowId) }}
-                            {{ Form::submit('Supprimer', array('class'=>'btn btn-danger')) }}
+                            {{ Form::submit(trans('messages.order_delete'), array('class'=>'btn btn-danger')) }}
                             {{ Form::close()}}
                         </th>
                     </tr>

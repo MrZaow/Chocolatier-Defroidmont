@@ -82,14 +82,6 @@ return [
     'localisation' => 'Locatie',
 
     /**
-     * Page order
-     */
-    'order_title' => 'Bestel onze producten',
-    'desc_order' => 'Hoe u onze producten online kunt bestellen ?',
-    'order_details' => 'Om onze producten eenvoudig online te bestellen neemt u contact met ons op via het e- mailadres <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> met vermelding van de gewenste producten en hoeveelheden, evenals uw contactgegevens en het adres waar de levering plaats moet vinden. Wij zullen u een faktuur opsturen en na ontvangst van de betaling, zullen wij uw bestelling klaarmaken en verzenden.',
-    'order_alt' => 'Team van chocolaterie Defroidmont',
-
-    /**
      * Page pate
      */
     'pate_title' => 'Spreads',
@@ -247,7 +239,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Producten',
-    'menu_order' => 'Caddy',
+    'menu_cart' => 'Caddy',
     'menu_shops' => 'Onze winkels',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Galerij',
@@ -265,10 +257,28 @@ return [
     'realised_by' => 'Website door',
     'go_top' => 'Top',
 
-    /*******
-    * Traduction commande
-    */
-    'order_product' => 'Order',
+    /**
+     * Page order
+     */
+    'order_title' => 'Order our products',
+    'order_question' => 'Des questions à propos de votre commande ?',
+    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
+    'order_alt' => 'The team of chocolaterie Defroidmont',
+    'order_price' => 'Price',
+    'order_total' => 'Total',
+    'order_delete' => 'Remove',
+    'order_subtotal'=> 'Sub total',
+    'order_product' => 'Product',
     'order_quantity' => 'Quantity',
+    
+    /**
+    * Page order result
+    */
+    'result_title' => 'Commande',
+    'result_oops' => 'Oups',
+    'result_error' => 'shit happens',
+    'result_thanks' => 'Merci !',
+    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
 
 ];

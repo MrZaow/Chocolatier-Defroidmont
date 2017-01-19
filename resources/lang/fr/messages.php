@@ -81,19 +81,6 @@ return [
                     Promenade des abeilles : 40 minutes',
     'localisation' => 'Localisation',
 
-    /**
-     * Page order
-     */
-    'order_title' => 'Votre panier',
-    'cart' => 'Des questions à propos de votre commande ?',
-    'cart_details' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
-                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
-    'order_alt' => 'Équipe de la chocolaterie Defroidmont',
-    'order_product' => 'Produit',
-    'order_quantity' => 'Quantité',
-    'order_price' => 'Prix',
-    'order_total' => 'Total',
-    'order_delete' => 'Supprimer',
 
     /**
      * Page pate
@@ -276,9 +263,27 @@ return [
     'go_top' => 'Haut de page',
 
 
-    /*******
-    * Traduction commande
+    /**
+    * Page order
     */
-    'order_product' => 'Commander',
+    'order_title' => 'Votre panier',
+    'order_question' => 'Des questions à propos de votre commande ?',
+    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
+    'order_alt' => 'Équipe de la chocolaterie Defroidmont',
+    'order_price' => 'Prix',
+    'order_total' => 'Total',
+    'order_delete' => 'Supprimer',
+    'order_product' => 'Produit',
+    'order_subtotal'=> 'Sous total',
     'order_quantity' => 'Quantité',
+
+    /**
+    * Page order result
+    */
+    'result_title' => 'Commande',
+    'result_oops' => 'Oups',
+    'result_error' => 'shit happens',
+    'result_thanks' => 'Merci !',
+    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
 ];

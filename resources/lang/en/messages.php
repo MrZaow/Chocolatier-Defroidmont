@@ -80,15 +80,6 @@ return [
     'localisation' => 'Location',
 
     /**
-     * Page order
-     */
-    'order_title' => 'Order our products',
-    'desc_order' => 'How to order our products online ?',
-    'order_details' => 'To order our products online, please contact us via the email address <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a> stating the products and quantities, as well as your contact information and the address where the delivery should be made.
-                 We will send you an invoice and on receipt of payment, we will prepare your order and send.',
-    'order_alt' => 'The team of chocolaterie Defroidmont',
-
-    /**
      * Page pate
      */
     'pate_title' => 'Spreads',
@@ -247,7 +238,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Products',
-    'menu_order' => 'Cart',
+    'menu_cart' => 'Cart',
     'menu_shops' => 'Our stores',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Gallery',
@@ -265,9 +256,28 @@ return [
     'realised_by' => 'Made by',
     'go_top' => 'Top',
 
-    /*******
-    * Traduction commande
-    */
-    'order_product' => 'Order',
+
+    /**
+     * Page order
+     */
+    'order_title' => 'Order our products',
+    'order_question' => 'Des questions à propos de votre commande ?',
+    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
+    'order_alt' => 'The team of chocolaterie Defroidmont',
+    'order_price' => 'Price',
+    'order_total' => 'Total',
+    'order_delete' => 'Remove',
+    'order_subtotal'=> 'Sub total',
+    'order_product' => 'Product',
     'order_quantity' => 'Quantity',
+    
+    /**
+    * Page order result
+    */
+    'result_title' => 'Commande',
+    'result_oops' => 'Oups',
+    'result_error' => 'shit happens',
+    'result_thanks' => 'Merci !',
+    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
 ];
