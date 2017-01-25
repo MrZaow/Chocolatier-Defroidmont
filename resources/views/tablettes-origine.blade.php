@@ -24,9 +24,7 @@
             <div class="col-md-6">
                 <h2>{{ trans('messages.tasty') }}</h2>
                 <ul>
-                    <li>{{ trans('messages.to_cr') }}</li>
                     <li>{{ trans('messages.to_p') }}</li>
-                    <li>{{ trans('messages.to_m') }}</li>
                     <li>{{ trans('messages.to_ci') }}</li>
                     <li>{{ trans('messages.to_v') }}</li>
                     <li>{{ trans('messages.to_o') }}</li>

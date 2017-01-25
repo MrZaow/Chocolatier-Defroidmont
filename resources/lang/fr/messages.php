@@ -115,7 +115,7 @@ return [
     'delicious_products_details' => 'Quelques un des chocolats que nous produisons dans notre chocolaterie à Érezée',
     'natural_blocs' => 'Blocs nature',
     'fruit_blocs' => 'Blocs fruit',
-    'brisure_tablet' => 'Tablettes brisure',
+    'brisure_tablet' => 'Tablettes brisure de pistache',
     'origin_tablet' => 'Tablettes d\'origine',
     'fure_baton' => 'Bâtons fourrés',
     'pate_tartinas' => 'Pâtes à tartiner',
@@ -162,9 +162,7 @@ return [
      * Page tablette origine
      */
     'tab_origine_title' => 'Tablettes d\'Origine',
-    'to_cr' => 'Chocolat Noir origine Costa Rica 64%',
     'to_p' => 'Chocolat Noir origine Pérou 65% BIO',
-    'to_m' => 'Chocolat Noir origine Madagascar 67%',
     'to_ci' => 'Chocolat Noir origine Côte d\'Ivoire 70%',
     'to_v' => 'Chocolat Noir origine Vietnam 73%',
     'to_o' => 'Chocolat Noir origine Ouganda 80%',

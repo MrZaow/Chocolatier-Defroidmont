@@ -152,9 +152,7 @@ return [
      * Page tablette origine
      */
     'tab_origine_title' => 'Tafeln "grand cru"',
-    'to_cr' => 'Costa Rica Schwarze Schokolade 64%',
     'to_p' => 'Peru Schwarze Schokolade 65% Bio',
-    'to_m' => 'Madagaskar Schwarze Schokolade 67%',
     'to_ci' => 'Schokolade Schwarz Elfenbeinküste 70%',
     'to_v' => 'Vietnam Schwarze Schokolade 73%',
     'to_o' => 'Uganda Schwarze Schokolade 80%',

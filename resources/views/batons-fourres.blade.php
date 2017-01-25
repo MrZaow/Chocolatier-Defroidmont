@@ -35,7 +35,7 @@
                 </ul>
                 <h2>{{ trans('messages.pd_px') }}</h2>
                 <ul>
-                    <li>65g - 2,00€</li>
+                    <li>65g - 2,50€</li>
                 </ul>
 
                 <h2>{{trans('messages.order_product')}}</h2>
@@ -54,8 +54,8 @@
                         )) }}
                 </div>
                 <div class="row">
-                    <p><strong>65g - 2,00€</strong></p>
-                    {{ Form::hidden('price', '2') }}
+                    <p><strong>65g - 2,50€</strong></p>
+                    {{ Form::hidden('price', '2.5') }}
                 </div>
                 <div class="row">
                     <div class="col-md-7">

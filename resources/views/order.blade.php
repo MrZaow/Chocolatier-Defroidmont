@@ -3,6 +3,7 @@
 <script>    
     var sites = {!! json_encode($cart->toArray()) !!};
 </script>
+<script src="https://checkout.stripe.com/checkout.js"></script>
 
 @section('htmlheader_title')
     {{ trans('messages.order_title') }}
@@ -59,22 +60,11 @@
 
                 @if (count($cart) > 0)
                     <h3>Total : {{$total}} €</h3>
-                    {{ Form::open(['action' => 'Controller@Pay']) }}
-                      <script
-                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                        data-key="pk_test_kI7LUvvNO49sMTKvWEqloQgJ"
-                        data-amount="{{$total * 100}}"
-                        data-name="Commander"
-                        data-description="Commande"
-                        data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-                        data-locale="auto"
-                        data-zip-code="true"
-                        data-shipping-address="true"
-                        data-currency="eur">
-                      </script>
-                    {{ Form::close()}}
+                    <button id="checkout"></button>
                 @endif
             </div>
         </div>
     </section>
+
+    <script type="text/javascript" src="../js/stripe_control.js"></script>
 @endsection

@@ -29,7 +29,7 @@
                 </ul>
                 <h2>{{ trans('messages.pd_px') }}</h2>
                 <ul>
-                    <li>300g - 7,90€</li>
+                    <li>300g - 8,90€</li>
                 </ul>
 
                 <h2>{{trans('messages.order_product')}}</h2>
@@ -42,8 +42,8 @@
                         )) }}
                 </div>
                 <div class="row">
-                    <p><strong>300g - 7,90€</strong></p>
-                    {{ Form::hidden('price', '7.9') }}
+                    <p><strong>300g - 8,90€</strong></p>
+                    {{ Form::hidden('price', '8.9') }}
                 </div>
                 <div class="row">
                     <div class="col-md-7">

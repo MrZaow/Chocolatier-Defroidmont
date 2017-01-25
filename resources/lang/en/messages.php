@@ -156,9 +156,7 @@ return [
      * Page tablette origine
      */
     'tab_origine_title' => 'Tablet\'s origin',
-    'to_cr' => 'Costa Rica Black Chocolate 64%',
     'to_p' => 'Peru Black Chocolate 65% Organic',
-    'to_m' => 'Madagascar Black Chocolate 67%',
     'to_ci' => 'Chocolate Black Ivory Coast 70%',
     'to_v' => 'Vietnam Black Chocolate 73%',
     'to_o' => 'Uganda Black Chocolate 80%',
