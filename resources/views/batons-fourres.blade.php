@@ -27,7 +27,7 @@
                     <li>{{ trans('messages.ch_npn') }}</li>
                     <li>{{ trans('messages.ch_ncp') }}</li>
                     <li>{{ trans('messages.ch_ncf') }}</li>
-                    <li>{{ trans('messages.ch_ncv') }}</li>
+                    <li>{{ trans('http://localhost:8000/messages.ch_ncv') }}</li>
                     <li>{{ trans('messages.ch_lpn') }}</li>
                     <li>{{ trans('messages.ch_lc') }}</li>
                     <li>{{ trans('messages.ch_bpn') }}</li>

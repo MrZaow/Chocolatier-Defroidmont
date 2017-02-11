@@ -5,6 +5,10 @@
     @include('layouts.partials.htmlheader')
 @show
 
+@section('scripts')
+    @include('layouts.partials.scripts')
+@show
+
 <body>
 
 @include('layouts.partials.mainheader')
@@ -14,10 +18,6 @@
 @yield('main-content')
 
 @include('layouts.partials.footer')
-
-@section('scripts')
-    @include('layouts.partials.scripts')
-@show
 
 </body>
 </html>

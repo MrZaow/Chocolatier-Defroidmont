@@ -3,7 +3,6 @@
 <script>    
     var sites = {!! json_encode($cart->toArray()) !!};
 </script>
-<script src="https://checkout.stripe.com/checkout.js"></script>
 
 @section('htmlheader_title')
     {{ trans('messages.order_title') }}
@@ -30,6 +29,7 @@
                 <h2>{{ trans('messages.order_question') }}</h2>
                 <p>{!! trans('messages.order_help') !!}</p>
 
+                {{Form::open()}}
                 <table class="table table-striped">
                 <thead>
                   <tr>
@@ -41,7 +41,10 @@
                   </tr>
                   @foreach ($cart as $item)
                     <tr>
-                        <th>{{ trans('messages.' . $item->name) }}</th>
+                        <th>
+                            {{ trans('messages.' . $item->name) }}
+                            {{Form::hidden($item->id, $item->qty)}}
+                        </th>
                         <th>
                             {{$item->qty}}
                         </th>
@@ -58,13 +61,26 @@
                 </thead>
                 </table>
 
+                <p id="location">{{$loc}}</p>
+
                 @if (count($cart) > 0)
+                <div class="row">
+                    <div class="col-md-3">
                     <h3>Total : {{$total}} €</h3>
-                    <button id="checkout"></button>
+                    {{Form::label('Code', 'Code')}}
+                    {{Form::text('Code','', array('class'=>'form-control'))}}
+                    <br>
+                    {{Form::submit('Valide informations', array('class'=>'btn btn-primary'))}}
+                    </div>
+                </div>
                 @endif
+
+                {{Form::close()}}
             </div>
         </div>
     </section>
 
-    <script type="text/javascript" src="../js/stripe_control.js"></script>
 @endsection
+
+<script src="{{ asset('/js/jquery.js') }}"></script>
+<script type="text/javascript" src="../js/control.js"></script>

@@ -8,6 +8,7 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Http\Request;
 use Gloudemans\Shoppingcart\Facades\Cart;
+use GuzzleHttp\Client;
 
 class Controller extends BaseController
 {
@@ -20,22 +21,34 @@ class Controller extends BaseController
     	$price = $request->input('price');
     	$id = $request->input('invisible') . $request->input('type');
 
+        $client = new Client();
+        $res = $client->request('GET', "freegeoip.net/json/".$_SERVER['REMOTE_ADDR']);
+        $json = json_decode($res->getBody());
+
     	Cart::add($id, $type, $qtt, floatval($price));
-    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal());
+    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
     }
 
     public function DelCart(Request $request)
     {
     	$id = $request->input('rowId');
 
+        $client = new Client();
+        $res = $client->request('GET', "freegeoip.net/json/".$_SERVER['REMOTE_ADDR']);
+        $json = json_decode($res->getBody());
+
     	Cart::remove($id);
-    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal());
+    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
     }
 
 
     public function ShowCart()
     {
-    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal());
+        $client = new Client();
+        $res = $client->request('GET', "freegeoip.net/json/".$_SERVER['REMOTE_ADDR']);
+        $json = json_decode($res->getBody());
+
+    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
     }
 
     public function Pay(Request $request)
