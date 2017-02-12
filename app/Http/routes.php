@@ -30,6 +30,11 @@ Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalizati
        return view('home');
     }]);
 
+    Route::get(LaravelLocalization::transRoute('routes.resume'),[
+        'as' => 'resume',
+        'uses' => 'Controller@ResumeOrder'
+    ]);
+
     Route::get(LaravelLocalization::transRoute('routes.products'), ['as' => 'products',function(){
         return view('products');
     }]);

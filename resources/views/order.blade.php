@@ -29,7 +29,7 @@
                 <h2>{{ trans('messages.order_question') }}</h2>
                 <p>{!! trans('messages.order_help') !!}</p>
 
-                {{Form::open()}}
+                {{Form::open(['action' => 'Controller@ResumeOrder', 'method' => 'get'])}}
                 <table class="table table-striped">
                 <thead>
                   <tr>
@@ -43,10 +43,9 @@
                     <tr>
                         <th>
                             {{ trans('messages.' . $item->name) }}
-                            {{Form::hidden($item->id, $item->qty)}}
                         </th>
                         <th>
-                            {{$item->qty}}
+                            {{Form::number($item->rowId, $item->qty, array('min' => 1, 'max' => 50, 'size' => "4", 'class'=>'form-control'))}}
                         </th>
                         <th>{{$item->price}} €</th>
                         <th>{{$item->subtotal}} €</th>

@@ -51,6 +51,12 @@ class Controller extends BaseController
     	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
     }
 
+
+    public function ResumeOrder(Request $request)
+    {
+        return view('resume');
+    }
+
     public function Pay(Request $request)
     {
         \Stripe\Stripe::setApiKey("sk_test_Y2VMoA5AwUyht0U6ng2Edqcn");
