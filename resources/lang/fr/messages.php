@@ -284,4 +284,11 @@ return [
     'result_error' => 'shit happens',
     'result_thanks' => 'Merci !',
     'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
+
+    /**
+    * Page resume
+    */
+    'resume_title' => 'Résumé de la commande',
 ];
+
+

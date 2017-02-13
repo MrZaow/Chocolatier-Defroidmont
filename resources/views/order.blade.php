@@ -29,7 +29,6 @@
                 <h2>{{ trans('messages.order_question') }}</h2>
                 <p>{!! trans('messages.order_help') !!}</p>
 
-                {{Form::open(['action' => 'Controller@ResumeOrder', 'method' => 'get'])}}
                 <table class="table table-striped">
                 <thead>
                   <tr>
@@ -44,11 +43,11 @@
                         <th>
                             {{ trans('messages.' . $item->name) }}
                         </th>
-                        <th>
-                            {{Form::number($item->rowId, $item->qty, array('min' => 1, 'max' => 50, 'size' => "4", 'class'=>'form-control'))}}
+                        <th class="qty">
+                            {{Form::number($item->rowId, $item->qty, array('min' => 1, 'max' => 50, 'size' => "4", 'class'=>'form-control', 'id'=> $item->name))}}
                         </th>
-                        <th>{{$item->price}} €</th>
-                        <th>{{$item->subtotal}} €</th>
+                        <th><span id="{{$item->name.'_p'}}">{{$item->price}}<span>€</th>
+                        <th><span id="{{$item->name.'_s'}}">{{$item->subtotal}}<span> €</th>
                         <th>
                             {{ Form::open(['action' => 'Controller@DelCart', 'method' => 'delete', 'style'=>'margin-bottom: 0px']) }}
                             {{ Form::hidden('rowId', $item->rowId) }}
@@ -62,10 +61,11 @@
 
                 <p id="location">{{$loc}}</p>
 
+                {{Form::open(['action' => 'Controller@ResumeOrder', 'method' => 'get'])}}
                 @if (count($cart) > 0)
                 <div class="row">
                     <div class="col-md-3">
-                    <h3>Total : {{$total}} €</h3>
+                    <h3>Total : <span id="total">{{$total}}</span> €</h3>
                     {{Form::label('Code', 'Code')}}
                     {{Form::text('Code','', array('class'=>'form-control'))}}
                     <br>
@@ -74,6 +74,9 @@
                 </div>
                 @endif
 
+                @foreach ($cart as $item)
+                    {{Form::hidden($item->name, $item->qty, array('id'=>$item->name.'_h') )}}
+                @endforeach
                 {{Form::close()}}
             </div>
         </div>

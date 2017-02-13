@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>{{ trans('messages.result_title') }}</h1>
+                    <h1>{{ trans('messages.resume_title') }}</h1>
                 </div>
             </div>
         </div>
