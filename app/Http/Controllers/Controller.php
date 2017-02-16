@@ -54,7 +54,20 @@ class Controller extends BaseController
 
     public function ResumeOrder(Request $request)
     {
-        return view('resume');
+        $totCartContent = 0;
+
+        //Mise à jour du cart
+        foreach (Cart::content() as $item) {
+            $totCartContent = $totCartContent + $request->input($item->name);
+            Cart::update($item->rowId, $request->input($item->name));
+        }
+
+        //TODO check promo code
+        //TODO check client location
+
+        $totPrice = Cart::subtotal();
+
+        return view('resume')->with('cart', Cart::content())->with('total', $totPrice);
     }
 
     public function Pay(Request $request)
