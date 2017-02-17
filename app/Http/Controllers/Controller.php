@@ -21,39 +21,47 @@ class Controller extends BaseController
     	$price = $request->input('price');
     	$id = $request->input('invisible') . $request->input('type');
 
-        $client = new Client();
-        $res = $client->request('GET', "freegeoip.net/json/".$_SERVER['REMOTE_ADDR']);
-        $json = json_decode($res->getBody());
 
     	Cart::add($id, $type, $qtt, floatval($price));
-    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
+    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal());
     }
 
     public function DelCart(Request $request)
     {
     	$id = $request->input('rowId');
 
-        $client = new Client();
-        $res = $client->request('GET', "freegeoip.net/json/".$_SERVER['REMOTE_ADDR']);
-        $json = json_decode($res->getBody());
-
     	Cart::remove($id);
-    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
+    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal());
     }
 
 
     public function ShowCart()
     {
-        $client = new Client();
-        $res = $client->request('GET', "freegeoip.net/json/".$_SERVER['REMOTE_ADDR']);
-        $json = json_decode($res->getBody());
 
-    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal())->with('loc', $json->country_code);
+    	return view('order')->with('cart', Cart::content())->with('total', Cart::subtotal());
     }
 
 
     public function ResumeOrder(Request $request)
     {
+        $promo = array (
+            "test1"=> 15,
+            "test2" => 20
+        );
+
+        $pays = array(
+            "BE" => 3,
+            "BE50" => 0,
+            "DE" => 16.8,
+            "DE50" => 9,
+            "FR50" => 9,
+            "FR" => 16.8,
+            "PB50" => 16.8,
+            "PB" => 9
+        );
+
+        $prc = 0;
+
         $totCartContent = 0;
 
         //Mise à jour du cart
@@ -62,12 +70,27 @@ class Controller extends BaseController
             Cart::update($item->rowId, $request->input($item->name));
         }
 
-        //TODO check promo code
-        //TODO check client location
+        if($totCartContent > 50)
+            return view('order_result')->with('fail', false);
+        
+
+        foreach ($promo as $id => $val) {
+                if($id = $request->input("Code"))
+                    $prc = $val;
+        }
 
         $totPrice = Cart::subtotal();
 
-        return view('resume')->with('cart', Cart::content())->with('total', $totPrice);
+
+        if($totPrice > 50)
+            $frais = $pays[$request->input('country').'50'];
+        else
+            $frais = $pays[$request->input('country')]; 
+        
+        $promo = $totPrice * ($prc/100);
+        $prixFinal = ($totPrice - $totPrice * ($prc/100))+ $frais;
+
+        return view('resume')->with('cart', Cart::content())->with('total', $totPrice)->with('promo', $promo)->with('frais', $frais)->with("prixFinal", $prixFinal);
     }
 
     public function Pay(Request $request)

@@ -59,14 +59,18 @@
                 </thead>
                 </table>
 
-                <p id="location">{{$loc}}</p>
-
                 {{Form::open(['action' => 'Controller@ResumeOrder', 'method' => 'get'])}}
                 @if (count($cart) > 0)
                 <div class="row">
                     <div class="col-md-3">
                     <h3>Total : <span id="total">{{$total}}</span> €</h3>
-                    {{Form::label('Code', 'Code')}}
+
+                    {{Form::label('country', 'Pays de livraison ')}}
+                    {{Form::select('country', array('BE'=>'Belgique', 'DE'=>'Allemagne', 'PB'=>'Pays-Bas', 'FR' => 'France'), array('class'=>'form-control'))}}
+
+                    <br>
+
+                    {{Form::label('Code', 'Code promo')}}
                     {{Form::text('Code','', array('class'=>'form-control'))}}
                     <br>
                     {{Form::submit('Valide informations', array('class'=>'btn btn-primary'))}}

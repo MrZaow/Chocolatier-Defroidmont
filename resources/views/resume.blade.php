@@ -9,6 +9,7 @@
 @endsection
 
 @section('main-content')
+
 	<section id="title" class="orange">
         <div class="container">
             <div class="row">
@@ -48,7 +49,29 @@
                 </table> 
                 <div class="row">
                     <div class="col-md-3">
-                        <h3>Total : {{$total}} €</h3>
+                        <h3>Prix total : {{$total}} €</h3>
+                        @if($promo)
+                            <h3>Promo : -{{$promo}} €</h3>
+                        @endif
+                        @if($frais)
+                            <h3>Frais : {{$frais}} €</h3>
+                        @endif
+                        <h3>Prix final : {{$prixFinal}} €</h3>
+
+                        {{ Form::open(['action' => 'Controller@Pay']) }}
+                          <script
+                            src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                            data-key="pk_test_kI7LUvvNO49sMTKvWEqloQgJ"
+                            data-amount= {{$total * 100}}
+                            data-name="Chocolatier Defroidmont"
+                            data-currency="EUR"
+                            data-description="Checkout"
+                            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+                            data-locale="auto"
+                            data-shipping-address="true"
+                            data-zip-code="true">
+                          </script>
+                        {{ Form::close()}}
                     </div>
                 </div>
             </div>
