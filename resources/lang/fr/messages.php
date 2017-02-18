@@ -272,7 +272,7 @@ return [
     'order_price' => 'Prix',
     'order_total' => 'Total',
     'order_delete' => 'Supprimer',
-    'order_product' => 'Produit',
+    'order_product' => 'Ajouter au panier',
     'order_subtotal'=> 'Sous total',
     'order_quantity' => 'Quantité',
 
