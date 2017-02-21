@@ -32,7 +32,7 @@
                 <table class="table table-striped">
                 <thead>
                   <tr>
-                    <th>{{ trans('messages.order_product') }}</th>
+                    <th>{{ trans('messages.order_product_name') }}</th>
                     <th>{{ trans('messages.order_quantity') }}</th>
                     <th>{{ trans('messages.order_price') }}</th>
                     <th>{{ trans('messages.order_subtotal') }}</th>
@@ -65,15 +65,15 @@
                     <div class="col-md-3">
                     <h3>Total : <span id="total">{{$total}}</span> €</h3>
 
-                    {{Form::label('country', 'Pays de livraison ')}}
+                    {{Form::label('country', '{{trans('messages.order_pays') }}')}}
                     {{Form::select('country', array('BE'=>'Belgique', 'DE'=>'Allemagne', 'PB'=>'Pays-Bas', 'FR' => 'France'), array('class'=>'form-control'))}}
 
                     <br>
 
-                    {{Form::label('Code', 'Code promo')}}
+                    {{Form::label('Code', '{{trans('messages.order_code') }}')}}
                     {{Form::text('Code','', array('class'=>'form-control'))}}
                     <br>
-                    {{Form::submit('Valide informations', array('class'=>'btn btn-primary'))}}
+                    {{Form::submit('{{trans('messages.order_proceed') }}', array('class'=>'btn btn-primary'))}}
                     </div>
                 </div>
                 @endif

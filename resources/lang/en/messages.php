@@ -269,6 +269,7 @@ return [
     'order_subtotal'=> 'Sub total',
     'order_product' => 'Add to cart',
     'order_quantity' => 'Quantity',
+    'order_product_name'=> 'Products',
     
     /**
     * Page order result

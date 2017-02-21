@@ -243,7 +243,7 @@ return [
     'menu_home' => 'Accueil',
     'menu_products' => 'Produits',
     'menu_cart' => 'Panier',
-    'menu_shops' => 'Boutiques',
+    'menu_shops' => 'Nos boutiques',
     'menu_museum' => 'Musée',
     'menu_easter' => 'Galerie',
     'menu_infos' => 'Infos',
@@ -275,6 +275,10 @@ return [
     'order_product' => 'Ajouter au panier',
     'order_subtotal'=> 'Sous total',
     'order_quantity' => 'Quantité',
+    'order_product_name'=> 'Produits',
+    'order_proceed'=>'Passer commande',
+    'order_code' => 'Code promotionnel',
+    'order_pays' => 'Pays de livraison'
 
     /**
     * Page order result
@@ -285,10 +289,13 @@ return [
     'result_thanks' => 'Merci !',
     'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
 
+
     /**
     * Page resume
     */
     'resume_title' => 'Résumé de la commande',
+    'resume_total' => 'Prix total',
+    'resume_frais' => 'Frais de livraisons',
 ];
 
 

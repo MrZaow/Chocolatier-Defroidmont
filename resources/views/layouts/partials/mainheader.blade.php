@@ -20,7 +20,13 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ route('order') }}"><i class="fa fa-shopping-cart"></i> {{ trans('messages.menu_cart') }}</a></li>
+                <li>
+                    <form action="{{ route('order') }}">
+                        <button type="submit" class="btn btn-success">
+                            <i class="fa fa-shopping-cart"></i> {{ trans('messages.menu_cart') }}
+                        </button>
+                    </form>
+                </li>
                 <li><a target="_blank" href="https://www.facebook.com/ChocolatierDefroidmont/"><i class="fa fa-facebook-official"></i> </a></li>
                 <li><a href="#" style="pointer-events: none; cursor: default; "><strong> <i class="icon-phone"></i> 086 21 84 40</strong></a></li>
                 @foreach(LaravelLocalization::getSupportedLocales() as $localeCode => $properties)

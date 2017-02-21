@@ -7,7 +7,6 @@
                     <ul class="arrow">
                         <li><a href="{{ route('home') }}">{{ trans('messages.menu_home') }}</a></li>
                         <li><a href="{{ route('products') }}">{{ trans('messages.menu_products') }}</a></li>
-                        <li><a href="{{ route('order') }}">{{ trans('messages.menu_order') }}</a></li>
                         <li><a href="{{ route('shops') }}">{{ trans('messages.menu_shops') }}</a></li>
                         <li><a href="{{ route('museum') }}">{{ trans('messages.menu_museum') }}</a></li>
                         <li><a href="{{ route('easter') }}">{{ trans('messages.menu_easter') }}</a></li>

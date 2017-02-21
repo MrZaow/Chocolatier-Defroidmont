@@ -28,7 +28,7 @@
                 <table class="table table-striped">
                 <thead>
                   <tr>
-                    <th>{{ trans('messages.order_product') }}</th>
+                    <th>{{ trans('messages.order_product_name') }}</th>
                     <th>{{ trans('messages.order_quantity') }}</th>
                     <th>{{ trans('messages.order_price') }}</th>
                     <th>{{ trans('messages.order_subtotal') }}</th>
@@ -49,12 +49,12 @@
                 </table> 
                 <div class="row">
                     <div class="col-md-3">
-                        <h3>Prix total : {{$total}} €</h3>
+                        <h3>{{trans('messages.resume_total') }} : {{$total}} €</h3>
                         @if($promo)
-                            <h3>Promo : -{{$promo}} €</h3>
+                            <h3>{{trans('messages.order_code') }} : -{{$promo}} €</h3>
                         @endif
                         @if($frais)
-                            <h3>Frais : {{$frais}} €</h3>
+                            <h3>{{trans('messages.resume_frais') }} : {{$frais}} €</h3>
                         @endif
                         <h3>Prix final : {{$prixFinal}} €</h3>
 

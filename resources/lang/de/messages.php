@@ -259,8 +259,9 @@ return [
     'order_total' => 'Total',
     'order_delete' => 'Remove',
     'order_subtotal'=> 'Sub total',
-    'order_product' => 'Product',
+    'order_product' => 'Add to cart',
     'order_quantity' => 'Quantity',
+    'order_product_name'=> 'Produits',
     
     /**
     * Page order result
