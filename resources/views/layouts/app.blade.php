@@ -10,6 +10,7 @@
 @include('layouts.partials.mainheader')
 
 @yield('content-header')
+@include('layouts.partials.promo')
 
 @yield('main-content')
 
