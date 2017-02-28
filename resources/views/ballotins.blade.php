@@ -52,10 +52,10 @@
                     </div>
                     <div class="col-md-1"></div>
                     <div class="col-md-5">
-                        {{ Form::select('price', array(
-                            '12.5' => '250g - 12,50€',
-                            '17.5' => '350g - 17,50€',
-                            '25' => '500g - 25,00€',
+                        {{ Form::select('weight', array(
+                            '250' => '250g - 12,50€',
+                            '350' => '350g - 17,50€',
+                            '500' => '500g - 25,00€',
                         )) }}
                     </div>
                 </div>

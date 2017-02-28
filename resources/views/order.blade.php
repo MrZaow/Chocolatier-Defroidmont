@@ -62,18 +62,18 @@
                 {{Form::open(['action' => 'Controller@ResumeOrder', 'method' => 'get'])}}
                 @if (count($cart) > 0)
                 <div class="row">
-                    <div class="col-md-3">
-                    <h3>Total : <span id="total">{{$total}}</span> €</h3>
+                    <div class="col-md-5">
+                    <h3>{{trans('messages.order_total')}} : <span id="total">{{$total}}</span> €</h3>
 
-                    {{Form::label('country', '{{trans('messages.order_pays') }}')}}
+                    <h3>{{Form::label(trans('messages.order_pays'))}}</h3>
                     {{Form::select('country', array('BE'=>'Belgique', 'DE'=>'Allemagne', 'PB'=>'Pays-Bas', 'FR' => 'France'), array('class'=>'form-control'))}}
-
+                    <a href="{{ route('delivery') }}">{{trans('messages.order_livraison')}}</a>
                     <br>
 
-                    {{Form::label('Code', '{{trans('messages.order_code') }}')}}
+                    {{Form::label('Code', trans('messages.order_code'))}}
                     {{Form::text('Code','', array('class'=>'form-control'))}}
                     <br>
-                    {{Form::submit('{{trans('messages.order_proceed') }}', array('class'=>'btn btn-primary'))}}
+                    {{Form::submit('proceed', array('class'=>'btn btn-primary'))}}
                     </div>
                 </div>
                 @endif

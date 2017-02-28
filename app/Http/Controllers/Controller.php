@@ -16,9 +16,22 @@ class Controller extends BaseController
 
     public function AddCart(Request $request)
     {
-    	$type = $request->input('type');
+        $weight = array (
+            "250" => 12.5,
+            "350" => 17.5,
+            "500" => 25,
+        );
+
+        if($request->input('weight')){
+            $price = $weight[$request->input('weight')];
+            $type = $request->input('type').$request->input('weight');
+        }
+        else{
+            $price = $request->input('price');
+            $type = $request->input('type');
+        }
+
     	$qtt = $request->input('quantity');
-    	$price = $request->input('price');
     	$id = $request->input('invisible') . $request->input('type');
 
 
@@ -90,7 +103,7 @@ class Controller extends BaseController
         $promo = $totPrice * ($prc/100);
         $prixFinal = ($totPrice - $totPrice * ($prc/100))+ $frais;
 
-        return view('resume')->with('cart', Cart::content())->with('total', $totPrice)->with('promo', $promo)->with('frais', $frais)->with("prixFinal", $prixFinal);
+        return view('resume')->with('cart', Cart::content())->with('total', $totPrice)->with('promo', $promo)->with('frais', $frais)->with("prixFinal", $prixFinal)->with('pays', $request->input('country'));
     }
 
     public function Pay(Request $request)

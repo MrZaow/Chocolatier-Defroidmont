@@ -63,6 +63,10 @@ Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalizati
         return view('shops');
     }]);
 
+    Route::get(LaravelLocalization::transRoute('routes.delivery'), ['as' => 'delivery',function(){
+        return view('delivery_info');
+    }]);
+
     Route::get(LaravelLocalization::transRoute('routes.museum'), ['as' => 'museum',function(){
         return view('museum');
     }]);

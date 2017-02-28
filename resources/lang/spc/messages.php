@@ -23,8 +23,8 @@ return [
     'tb_bc' => 'Chocolat noir 70% Brisure de Caramel',
     'tb_pe' => 'Chocolat noir 70% Piment d\'Espelette',
     'tb_bn' => 'Chocolat noir 70% Brisure de Noisettes',
-    'tb_bcl' => 'Chocolat au Lait 43% Brisure de Caramel',
-    'tab_bnl' => 'Chocolat au Lait 43% Brisure de Noisettes',
+    'tb_bcl' => 'Chocolat Lait 43% Brisure de Caramel',
+    'tab_bnl' => 'Chocolat Lait 43% Brisure de Noisettes',
 
     /**
      * Page tablette origine
@@ -52,7 +52,7 @@ return [
     /**
      * Page pate
      */
-    'pn_cnl' => 'Pâte de noisettes au chocolat noir sans lactose',
+    'pn_cnl' => 'Pâte noisettes chocolat noir sns lactose',
     'pn_cn' => 'Pâte de noisettes au chocolat au lait',
 
 
@@ -71,9 +71,20 @@ return [
      /**
      * Page ballotins
      */
-    'ass_black' => 'Assortiment de chocolats noirs',
-    'ass_milk' => 'Assortiment de chocolats au lait',
-    'ass_white' => 'Assortiment de chocolats blancs',
-    'ass_all' => 'Assortiment de tous nos chocolats',
+    'ass_black250' => 'Assort chocolats noirs 250g',
+    'ass_black350' => 'Assort chocolats noirs 350g',
+    'ass_black500' => 'Assort chocolats noirs 500g',
+
+    'ass_milk250' => 'Assort chocolats au lait 250g',
+    'ass_milk350' => 'Assort chocolats au lait 350g',
+    'ass_milk500' => 'Assort chocolats au lait 500g',
+
+    'ass_white250' => 'Assort chocolats au lait 250g',
+    'ass_white350' => 'Assort de chocolats au lait 350g',
+    'ass_white500' => 'Assort chocolats au lait 500g',
+
+    'ass_all250' => 'Assort chocolats au lait 250g',
+    'ass_all350' => 'Assort chocolats au lait 350g',
+    'ass_all500' => 'Assort chocolats au lait 500g',
 
 ];

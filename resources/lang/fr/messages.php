@@ -278,14 +278,15 @@ return [
     'order_product_name'=> 'Produits',
     'order_proceed'=>'Passer commande',
     'order_code' => 'Code promotionnel',
-    'order_pays' => 'Pays de livraison'
+    'order_pays' => 'Pays de livraison',
+    'order_livraison' => 'Information à propos du pays de livraison',
 
     /**
     * Page order result
     */
     'result_title' => 'Commande',
-    'result_oops' => 'Oups',
-    'result_error' => 'shit happens',
+    'result_oops' => 'Un problème est survenu lors de votre commande',
+    'result_error' => 'Une erreure est survenue durant votre commande',
     'result_thanks' => 'Merci !',
     'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
 
@@ -296,6 +297,31 @@ return [
     'resume_title' => 'Résumé de la commande',
     'resume_total' => 'Prix total',
     'resume_frais' => 'Frais de livraisons',
+    'resume_pays' => 'Pays de livraisons',
+    'resume_BE' => 'Belgique',
+    'resume_FR' => 'Belgique',
+    'resume_DE' => 'Belgique',
+    'resume_PB' => 'Belgique',
+
+    /***
+    * Page info
+    ***/
+
+    'ass_black250' => 'Assortiment de chocolats noirs 250g',
+    'ass_black350' => 'Assortiment de chocolats noirs 350g',
+    'ass_black500' => 'Assortiment de chocolats noirs 500g',
+
+    'ass_milk250' => 'Assortiment de chocolats au lait 250g',
+    'ass_milk350' => 'Assortiment de chocolats au lait 350g',
+    'ass_milk500' => 'Assortiment de chocolats au lait 500g',
+
+    'ass_white250' => 'Assortiment de chocolats au lait 250g',
+    'ass_white350' => 'Assortiment de chocolats au lait 350g',
+    'ass_white500' => 'Assortiment de chocolats au lait 500g',
+
+    'ass_all250' => 'Assortiment de chocolats au lait 250g',
+    'ass_all350' => 'Assortiment de chocolats au lait 350g',
+    'ass_all500' => 'Assortiment de chocolats au lait 500g',
 ];
 
 

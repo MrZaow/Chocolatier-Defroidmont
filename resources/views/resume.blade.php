@@ -48,11 +48,12 @@
                 </thead>
                 </table> 
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-5">
                         <h3>{{trans('messages.resume_total') }} : {{$total}} €</h3>
                         @if($promo)
                             <h3>{{trans('messages.order_code') }} : -{{$promo}} €</h3>
                         @endif
+                            <h3>{{trans('messages.resume_pays') }} : {{trans('messages.resume_'.$pays) }}</h3>
                         @if($frais)
                             <h3>{{trans('messages.resume_frais') }} : {{$frais}} €</h3>
                         @endif
