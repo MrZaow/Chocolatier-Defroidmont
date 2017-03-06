@@ -108,7 +108,7 @@ class Controller extends BaseController
 
     public function Pay(Request $request)
     {
-        \Stripe\Stripe::setApiKey("sk_test_Y2VMoA5AwUyht0U6ng2Edqcn");
+        \Stripe\Stripe::setApiKey("sk_live_T7NjkW3MaXJWiK1626p0Hx7J");
         $token = $_POST['stripeToken'];
 
         $fail = false;
@@ -119,7 +119,7 @@ class Controller extends BaseController
         }
         try {
           $charge = \Stripe\Charge::create(array(
-            "amount" => Cart::subtotal() * 100, // Amount in cents
+            "amount" => $_POST['finalPrice'] * 100, // Amount in cents
             "currency" => "eur",
             "source" => $token,
             "description" => "Example charge",

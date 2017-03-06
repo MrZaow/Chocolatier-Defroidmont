@@ -63,17 +63,18 @@
                 @if (count($cart) > 0)
                 <div class="row">
                     <div class="col-md-5">
-                    <h3>{{trans('messages.order_total')}} : <span id="total">{{$total}}</span> €</h3>
+                    <h3 style="display:inline">{{trans('messages.order_total')}} : <span id="total">{{$total}}</span> €</h3>
 
                     <h3>{{Form::label(trans('messages.order_pays'))}}</h3>
-                    {{Form::select('country', array('BE'=>'Belgique', 'DE'=>'Allemagne', 'PB'=>'Pays-Bas', 'FR' => 'France'), array('class'=>'form-control'))}}
+                    {{Form::select('country', array('BE'=>'Belgique', 'DE'=>'Allemagne', 'PB'=>'Pays-Bas', 'FR' => 'France'), array('class'=>'form-control input-medium'))}}
+                    <br>
                     <a href="{{ route('delivery') }}">{{trans('messages.order_livraison')}}</a>
                     <br>
-
+                    <br>
                     {{Form::label('Code', trans('messages.order_code'))}}
                     {{Form::text('Code','', array('class'=>'form-control'))}}
                     <br>
-                    {{Form::submit('proceed', array('class'=>'btn btn-primary'))}}
+                    {{Form::submit(trans('messages.order_proceed'), array('class'=>'btn btn-primary'))}}
                     </div>
                 </div>
                 @endif

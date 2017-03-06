@@ -79,12 +79,12 @@ return [
     'ass_milk350' => 'Assort chocolats au lait 350g',
     'ass_milk500' => 'Assort chocolats au lait 500g',
 
-    'ass_white250' => 'Assort chocolats au lait 250g',
-    'ass_white350' => 'Assort de chocolats au lait 350g',
-    'ass_white500' => 'Assort chocolats au lait 500g',
+    'ass_white250' => 'Assort chocolats blancs 250g',
+    'ass_white350' => 'Assort chocolats blancs 350g',
+    'ass_white500' => 'Assort chocolats blancs 500g',
 
-    'ass_all250' => 'Assort chocolats au lait 250g',
-    'ass_all350' => 'Assort chocolats au lait 350g',
-    'ass_all500' => 'Assort chocolats au lait 500g',
+    'ass_all250' => 'Assort tous chocolats 250g',
+    'ass_all350' => 'Assort tous chocolats 350g',
+    'ass_all500' => 'Assort tous chocolats 500g',
 
 ];

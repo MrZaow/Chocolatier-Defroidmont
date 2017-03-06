@@ -266,7 +266,7 @@ return [
     */
     'order_title' => 'Votre panier',
     'order_question' => 'Des questions à propos de votre commande ?',
-    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante ::
                     <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
     'order_alt' => 'Équipe de la chocolaterie Defroidmont',
     'order_price' => 'Prix',
@@ -286,9 +286,9 @@ return [
     */
     'result_title' => 'Commande',
     'result_oops' => 'Un problème est survenu lors de votre commande',
-    'result_error' => 'Une erreure est survenue durant votre commande',
+    'result_error' => 'Une erreur est survenue durant votre commande',
     'result_thanks' => 'Merci !',
-    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
+    'result_success' => 'Nous avons bien reçu votre paiement. Votre commande est en cours de traitement.',
 
 
     /**
@@ -299,9 +299,9 @@ return [
     'resume_frais' => 'Frais de livraisons',
     'resume_pays' => 'Pays de livraisons',
     'resume_BE' => 'Belgique',
-    'resume_FR' => 'Belgique',
-    'resume_DE' => 'Belgique',
-    'resume_PB' => 'Belgique',
+    'resume_FR' => 'France',
+    'resume_DE' => 'Allemagne',
+    'resume_PB' => 'Pays-Bas',
 
     /***
     * Page info
@@ -315,13 +315,24 @@ return [
     'ass_milk350' => 'Assortiment de chocolats au lait 350g',
     'ass_milk500' => 'Assortiment de chocolats au lait 500g',
 
-    'ass_white250' => 'Assortiment de chocolats au lait 250g',
-    'ass_white350' => 'Assortiment de chocolats au lait 350g',
-    'ass_white500' => 'Assortiment de chocolats au lait 500g',
+    'ass_white250' => 'Assortiment de chocolats blancs 250g',
+    'ass_white350' => 'Assortiment de chocolats blancs 350g',
+    'ass_white500' => 'Assortiment de chocolats blancs 500g',
 
-    'ass_all250' => 'Assortiment de chocolats au lait 250g',
-    'ass_all350' => 'Assortiment de chocolats au lait 350g',
-    'ass_all500' => 'Assortiment de chocolats au lait 500g',
+    'ass_all250' => 'Assortiment de tous nos chocolats 250g',
+    'ass_all350' => 'Assortiment de tous nos chocolats 350g',
+    'ass_all500' => 'Assortiment de tous nos chocolats 500g',
+
+    'delivery_title' => 'Information sur le pays de livraison',
+    'delivery_belgique' => 'Livraison en Belgique',
+    'delivery_b_info'=> 'Au-dessus de 50€ d’achat, la livraison en Belgique est gratuite.
+            En dessous de 50€ d’achat, la livraison en Belgique coûte 3€.
+            La durée de livraison estimée en Belgique est de 2 à 4 jours ouvrés.',
+    'delivery_all'=>'Livraison aux Pays-Bas, en France et en Allemagne',
+    'delivery_a_info' => 'Au-dessus de 50€ d’achat, la livraison coûte 9€.
+            En dessous de 50€ d’achat, la livraison coûte 16,80€.
+            La durée de livraison estimée aux Pays-Bas, en France et en Allemagne est de 3 à 5 jours ouvrés.',
+    
 ];
 
 

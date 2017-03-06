@@ -236,7 +236,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Products',
-    'menu_cart' => 'Cart',
+    'menu_cart' => 'Basket',
     'menu_shops' => 'Our stores',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Gallery',
@@ -258,31 +258,52 @@ return [
     /**
      * Page order
      */
-    'order_title' => 'Order our products',
-    'order_question' => 'Des questions à propos de votre commande ?',
-    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
+    'order_title' => 'Your basket',
+    'order_question' => 'Questions about your order?',
+    'order_help' => 'Do not hesitate to contact us at the following e-mail address:
                     <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
-    'order_alt' => 'The team of chocolaterie Defroidmont',
+    'order_alt' => 'Defroidmont Chocolate Factory',
     'order_price' => 'Price',
     'order_total' => 'Total',
     'order_delete' => 'Remove',
     'order_subtotal'=> 'Sub total',
-    'order_product' => 'Add to cart',
-    'order_quantity' => 'Quantity',
+    'order_product' => 'Add to Basket',
+    'order_quantity' => 'Amount',
     'order_product_name'=> 'Products',
+    'order_proceed'=>'Checkout',
+    'order_code'=>'Promotional code',
+    'order_pays'=>'Delivery country',
+    'order_livraison'=>'Information about the country of delivery',
     
     /**
     * Page order result
     */
-    'result_title' => 'Commande',
-    'result_oops' => 'Oups',
-    'result_error' => 'shit happens',
-    'result_thanks' => 'Merci !',
-    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
+    'result_title' => 'Order',
+    'result_oops' => 'A problem occurred while ordering',
+    'result_error' => 'An error occured during your order',
+    'result_thanks' => 'Thank you !',
+    'result_success' => 'We have received your payment. Your order is being processed.',
 
     /**
     * Page resume
     */
-    'resume_title' => 'Order',
+    'resume_title'=>'Order summary',
+    'resume_total'=>'Total price',
+    'resume_frais'=>'Delivery charges',
+    'resume_pays'=>'Country of deliveries',
+    'resume_BE'=>'Belgium',
+    'resume_FR'=>'France',
+    'resume_DE'=>'Germany',
+    'resume_PB'=>'Netherlands',
+
+    'delivery_title'=>'Information about the country of delivery',
+    'delivery_belgique'=>'Shipping to Belgium',
+    'delivery_b_info'=>'Above 50 € of purchase, delivery in Belgium is free.
+             Below 50 € of purchase, delivery in Belgium costs 3 €.
+             Estimated delivery time in Belgium is 2 to 4 working days.',
+    'delivery_all' =>'Delivery to the Netherlands, France and Germany',
+    'delivery_a_info'=>'Above 50 € of purchase, delivery costs 9 €.
+             Under 50 € of purchase, delivery costs 16,80 €.
+             The estimated delivery time in the Netherlands, France and Germany is 3 to 5 working days. ',
 
 ];

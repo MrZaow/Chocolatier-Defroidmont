@@ -60,16 +60,18 @@
                         <h3>Prix final : {{$prixFinal}} €</h3>
 
                         {{ Form::open(['action' => 'Controller@Pay']) }}
+                          {{ Form::hidden('finalPrice', $prixFinal) }}
                           <script
                             src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                            data-key="pk_test_kI7LUvvNO49sMTKvWEqloQgJ"
-                            data-amount= {{$total * 100}}
+                            data-key="pk_live_9Z5pgtC2W1d4uf03pOkq6aiI"
+                            data-amount= {{$prixFinal * 100}}
                             data-name="Chocolatier Defroidmont"
                             data-currency="EUR"
                             data-description="Checkout"
                             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
                             data-locale="auto"
                             data-shipping-address="true"
+                            data-billing-address="true"
                             data-zip-code="true">
                           </script>
                         {{ Form::close()}}

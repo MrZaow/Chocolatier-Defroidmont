@@ -29,6 +29,24 @@ return [
     'ass_milk' => 'Verschiedene von Milchschokoladen',
     'ass_white' => 'Sortiment von weißer Schokolade',
     'ass_all' => 'Sortiment aller Pralinen',
+
+    'ass_black250' => 'Sortiment von dunklen Schokoladen 250g',
+    'ass_black350' => 'Sortiment von dunklen Schokoladen 350g',
+    'ass_black500' => 'Sortiment von dunklen Schokoladen 500g',
+
+    'ass_milk250' => 'Verschiedene von Milchschokoladen 250g',
+    'ass_milk350' => 'Verschiedene von Milchschokoladen 350g',
+    'ass_milk500' => 'Verschiedene von Milchschokoladen 500g',
+
+    'ass_white250' => 'Sortiment von weißer Schokolade 250g',
+    'ass_white350' => 'Sortiment von weißer Schokolade 350g',
+    'ass_white500' => 'Sortiment von weißer Schokolade 500g',
+
+    'ass_all250' => 'Sortiment aller Pralinen 250g',
+    'ass_all350' => 'Sortiment aller Pralinen 350g',
+    'ass_all500' => 'Sortiment aller Pralinen 500g',
+
+
     'pd_px' => 'Verfügbare Gewichte und Preise',
 
     /**
@@ -228,7 +246,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Produkte',
-    'menu_cart' => 'TO DO',
+    'menu_cart' => 'Warenkorb',
     'menu_order' => 'Auftrag',
     'menu_shops' => 'Unsere Läden',
     'menu_museum' => 'Museum',
@@ -250,26 +268,47 @@ return [
     /**
      * Page order
      */
-    'order_title' => 'Order our products',
-    'order_question' => 'Des questions à propos de votre commande ?',
-    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
-                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
-    'order_alt' => 'The team of chocolaterie Defroidmont',
-    'order_price' => 'Price',
-    'order_total' => 'Total',
-    'order_delete' => 'Remove',
-    'order_subtotal'=> 'Sub total',
-    'order_product' => 'Add to cart',
-    'order_quantity' => 'Quantity',
-    'order_product_name'=> 'Produits',
-    
-    /**
-    * Page order result
-    */
-    'result_title' => 'Commande',
-    'result_oops' => 'Oups',
-    'result_error' => 'shit happens',
-    'result_thanks' => 'Merci !',
-    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
+    'order_title'=>'Ihr Warenkorb',
+    'order_question'=>'Fragen zu Ihrer Bestellung?',
+    'order_help'=>'Zögern Sie nicht, uns unter der folgenden E-Mail-Adresse zu kontaktieren: <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
+
+    'order_alt'=>'Team der Schokoladenfabrik',
+    'order_price'=>'Preis',
+    'order_total'=>'Gesamt',
+    'order_delete'=>'Entfernen',
+    'order_product'=>'In den Warenkorb',
+    'order_subtotal'=>'Zwischensumme',
+    'order_quantity'=>'Menge',
+    'order_product_name' => 'Produkte',
+    'order_proceed'=>'Jetzt bestellen',
+    'order_code'=>'Gutscheincode',
+    'order_pays'=>'Lieferland',
+    'order_livraison'=>'Informationen über die Lieferland',
+
+    'result_title'=>'Bestellen',
+    'result_oops'=>'Es trat ein Problem bei der Bestellung',
+    'result_error'=>'Ein Fehler ist aufgetreten während Ihrer Bestellung',
+    'result_thanks'=>'Vielen Dank!',
+    'result_success'=>'Wir haben Ihre Zahlung erhalten. Ihre Bestellung wird bearbeitet.',
+
+    'resume_title'=>'Bestellübersicht',
+    'resume_total'=>'Gesamtpreis',
+    'resume_frais'=>'Porto',
+    'resume_pays'=>'Lieferländer',
+    'resume_BE'=>'Belgien',
+    'resume_FR'=>'Frankreich',
+    'resume_DE'=>'Deutschland',
+    'resume_PB'=>'Niederlande',
+
+    'delivery_title'=>'Informationen über das Lieferland',
+    'delivery_belgique'=>'Lieferung in Belgien',
+    'delivery_b_info'=>'Vor 50 Kauf €, Lieferung in Belgien ist kostenlos.
+             Unter 50 € Kauf, Lieferung in Belgien kostet 3 €.
+             Die Lieferzeit in Belgien schätzungsweise 2 bis 4 Arbeitstage. ',
+
+    'delivery_all'=>'Lieferung in den Niederlanden, Frankreich und Deutschland',
+    'delivery_a_info'=>'Ab € 50 Kauf, Lieferung kostet 9 €.
+             Unter 50 € kaufen, kostet Lieferung 16,80 €.
+             Die Lieferzeit geschätzt in den Niederlanden, Frankreich und Deutschland ist 3 bis 5 Tage. ',
 
 ];

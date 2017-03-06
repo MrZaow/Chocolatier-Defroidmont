@@ -30,6 +30,23 @@ return [
     'ass_milk' => 'Assortiment van melk chocolade',
     'ass_white' => 'Assortiment van witte chocolade',
     'ass_all' => 'Assortiment van alles onze chocolade',
+
+    'ass_black250' => 'Assortiment van donkere chocolade 250g',
+    'ass_black350' => 'Assortiment van donkere chocoladen 350g',
+    'ass_black500' => 'Assortiment van donkere chocolade 500g',
+
+    'ass_milk250' => 'Assortiment van melk chocolade 250g',
+    'ass_milk350' => 'Assortiment van melk chocolade 350g',
+    'ass_milk500' => 'Assortiment van melk chocolade 500g',
+
+    'ass_white250' => 'Assortiment van witte chocolade 250g',
+    'ass_white350' => 'Assortiment van witte chocolade 350g',
+    'ass_white500' => 'Assortiment van witte chocolade 500g',
+
+    'ass_all250' => 'Assortiment van alles onze chocolade 250g',
+    'ass_all350' => 'Assortiment van alles onze chocolade 350g',
+    'ass_all500' => 'Assortiment van alles onze chocolade 500g',
+
     'pd_px' => 'Beschikbare gewicht en de prijs',
 
     /**
@@ -237,7 +254,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Producten',
-    'menu_cart' => 'Caddy',
+    'menu_cart' => 'winkelwagentje',
     'menu_shops' => 'Onze winkels',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Galerij',
@@ -258,26 +275,45 @@ return [
     /**
      * Page order
      */
-    'order_title' => 'Order our products',
-    'order_question' => 'Des questions à propos de votre commande ?',
-    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
-                    <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
-    'order_alt' => 'The team of chocolaterie Defroidmont',
-    'order_price' => 'Price',
-    'order_total' => 'Total',
-    'order_delete' => 'Remove',
-    'order_subtotal'=> 'Sub total',
-    'order_product' => 'add to cart',
-    'order_quantity' => 'Quantity',
-    'order_product_name'=> 'Product',
-    
-    /**
-    * Page order result
-    */
-    'result_title' => 'Commande',
-    'result_oops' => 'Oups',
-    'result_error' => 'shit happens',
-    'result_thanks' => 'Merci !',
-    'result_success' => 'Nous avons bien reçus votre payemment. Votre commande est en cours de traitement.',
+    'order_title'=>'Uw winkelwagentje',
+    'order_question'=>'Vragen over uw bestelling?',
+    'order_help'=>'Aarzel niet om contact met ons op via het volgende e-mailadres: <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
 
+    'order_alt'=>'Team van de chocoladefabriek',
+    'order_price'=>'Prijs',
+    'order_total'=>'Totaal',
+    'order_delete'=>'Verwijderen',
+    'order_product'=>'Toevoegen aan winkelwagentje',
+    'order_subtotal'=>'Subtotaal',
+    'order_quantity'=>'Hoeveelheid',
+    'order_product_name' => 'Producten',
+    'order_proceed'=>'Nu bestellen',
+    'order_code'=>'Promotiecode',
+    'order_pays'=>'Levering land',
+    'order_livraison'=>'Informatie over het land van levering',
+
+    'result_title'=>'Bestelling',
+    'result_oops'=>'Er is een probleem opgetreden bij het bestellen',
+    'result_error'=>'Er is een fout opgetreden tijdens uw bestelling',
+    'result_thanks'=>'Dankjewel !',
+    'result_success'=>'We hebben uw betaling ontvangen. Uw bestelling wordt verwerkt.',
+
+    'resume_title'=>'Bestel Samenvatting',
+    'resume_total'=>'Totaalprijs',
+    'resume_frais'=>'Port',
+    'resume_pays'=>'Levering landen',
+    'resume_BE'=>'België',
+    'resume_FR'=>'Frankrijk',
+    'resume_DE'=>'Duitsland',
+    'resume_PB'=>'Nederland',
+
+    'delivery_title'=>'Informatie over het land van levering',
+    'delivery_belgique'=>'Levering in België',
+    'delivery_b_info'=>'Boven € 50 aankoop, levering in België is gratis.
+             Tot 50 € aankoop, levering in België kost € 3.
+             De levertijd geschat in België is 2-4 werkdagen. ',
+    'delivery_all'=>'Levering in Nederland, Frankrijk en Duitsland',
+    'delivery_a_info'=>'Boven € 50 aankoop, de levering kost € 9.
+             Tot 50 € aankoop, de levering kost € 16,80.
+             De levertijd naar schatting in Nederland, Frankrijk en Duitsland is 3 tot 5 dagen.',
 ];
