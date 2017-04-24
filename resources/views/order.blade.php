@@ -83,6 +83,19 @@
                     {{Form::hidden($item->name, $item->qty, array('id'=>$item->name.'_h') )}}
                 @endforeach
                 {{Form::close()}}
+
+                @if (count($cart) == 0)
+                <div class="row">
+                    <div class="center">
+                        <form action="{{ route('products') }}">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                {{ trans('messages.visit_mag') }}
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                @endif
+
             </div>
         </div>
     </section>

@@ -16,6 +16,7 @@
                 <li><a href="{{ route('shops') }}">{{ trans('messages.menu_shops') }}</a></li>
                 <li><a href="{{ route('museum') }}">{{ trans('messages.menu_museum') }}</a></li>
                 <li><a href="{{ route('easter') }}">{{ trans('messages.menu_easter') }}</a></li>
+                <li><a href="{{ route('infos') }}">{{ trans('messages.menu_infos') }}</a></li>
             </ul>
 
             <ul class="nav navbar-nav navbar-right">

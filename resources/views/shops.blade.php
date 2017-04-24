@@ -32,8 +32,14 @@
                 <p>
                     {{ trans('messages.address') }} : Briscol 19a, 6997 Érezée <br>
                     {{ trans('messages.phone') }} : {{ trans('messages.phone_number_erezee') }} <br>
-                    {{ trans('messages.open') }} : {{ trans('messages.open_erezee') }}
                 </p>
+                <p style="font-weight: Bold">{{ trans('messages.lundi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.mardi') }} : 10h - 17h30<br>
+                                {{ trans('messages.mercredi') }} : 10h - 17h30<br>
+                                {{ trans('messages.jeudi') }} : 10h - 17h30<br>
+                                {{ trans('messages.vendredi') }} : 10h - 17h30<br>
+                                {{ trans('messages.samedi') }} : 10h - 17h30<br>
+                                {{ trans('messages.dimanche') }} : 11h - 16h</p>
                 <p>{{ trans('messages.erezee_details') }}</p>
             </div>
             <div class="col-md-2"></div>
@@ -44,8 +50,14 @@
                 <p>
                     {{ trans('messages.address') }} : rue Alphonse Eloy 7, 6940 Durbuy  <br>
                     {{ trans('messages.phone') }} : {{ trans('messages.phone_number_durbuy') }} <br>
-                    {{ trans('messages.open') }} : {{ trans('messages.open_durbuy') }}
                 </p>
+                <p style="font-weight: Bold">{{ trans('messages.lundi') }} : 14h - 18h<br>
+                                {{ trans('messages.mardi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.mercredi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.jeudi') }} : 14h - 18h<br>
+                                {{ trans('messages.vendredi') }} : 14h - 18h<br>
+                                {{ trans('messages.samedi') }} : 11h - 16h<br>
+                                {{ trans('messages.dimanche') }} : 11h - 16h</p>
                 <p>{{ trans('messages.durbuy_details') }}</p>
             </div>
         </div>

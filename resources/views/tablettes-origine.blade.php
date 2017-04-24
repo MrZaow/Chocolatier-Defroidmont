@@ -24,9 +24,10 @@
             <div class="col-md-6">
                 <h2>{{ trans('messages.tasty') }}</h2>
                 <ul>
-                    <li>{{ trans('messages.to_p') }}</li>
+                    <li>{{ trans('messages.to_p') . " " . trans('messages.rupture') }}</li>
                     <li>{{ trans('messages.to_ci') }}</li>
                     <li>{{ trans('messages.to_v') }}</li>
+                    <li>{{ trans('messages.to_ve') }}</li>
                     <li>{{ trans('messages.to_o') }}</li>
                 </ul>
                 <h2>{{ trans('messages.pd_px') }}</h2>
@@ -40,11 +41,9 @@
                 <div class="row">
                     <div class="col-md-7">
                         {{ Form::select('type', array(
-                            'to_cr' => trans('messages.to_cr'),
-                            'to_p' => trans('messages.to_p'),
-                            'to_m'=> trans('messages.to_m'),
                             'to_ci'=> trans('messages.to_ci'),
                             'to_v'=> trans('messages.to_v'),
+                            'to_ve'=> trans('messages.to_ve'),
                             'to_o'=> trans('messages.to_o'),
                         )) }}
                     </div>

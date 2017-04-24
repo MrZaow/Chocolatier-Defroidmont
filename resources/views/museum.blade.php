@@ -26,6 +26,42 @@
                 <p>{{ trans('messages.desc_museum1') }}</p>
                 <p>{{ trans('messages.desc_museum2') }}</p>
             </div>
+            <div class="row center">
+                <h2>{{ trans('messages.mu_reserve') }}</h2>
+                {{ Form::open(['action' => 'Controller@AddCart']) }}
+                <div class="col-md-12">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <div class="row pull-right">
+                        {{ Form::label("mu_adulte", trans('messages.mu_adulte') . " (6€) ")}}
+                        {{ Form::number('mu_adulte', '1', array('min' => 0, 'max' => 50, 'size' => "4"))}}
+                        </div>
+
+                        <div class="row pull-right">
+                        {{ Form::label('mu_enfant', trans('messages.mu_enfant') . " (4€) ")}}
+                        {{ Form::number('mu_enfant', '0', array('min' => 0, 'max' => 50, 'size' => "4"))}}
+                        </div>
+
+                        <div class="row pull-right">
+                        {{ Form::label("bird_adulte", trans('messages.bird_adulte') . " (6€) ")}}
+                        {{ Form::number('bird_adulte', '0', array('min' => 0, 'max' => 50, 'size' => "4"))}}
+                        </div>
+
+                        <div class="row pull-right">
+                        {{ Form::label('bird_enfant', trans('messages.bird_enfant') . " (4€) ")}}
+                        {{ Form::number('bird_enfant', '0', array('min' => 0, 'max' => 50, 'size' => "4"))}}
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        {{ Form::submit(trans('messages.mu_resbutton'), array('class'=>'btn btn-success btn-lg', 'style' => 'margin-top: 35px')) }}
+                        {{ Form::hidden('invisible', '42') }}
+
+                        {{ Form::close()}}
+                    </div>
+                    <div class="col-md-4"></div>
+                </div>
+            
+            </div>
             <div class="col-md-12">
                 <div class="col-md-6">
                     <img src="{{ asset('/images/musee1.jpg') }}" alt="{{ trans('messages.ch_museum') }}" class="img-responsive"><br>
@@ -55,6 +91,12 @@
                 </p>
                 <h3>{{ trans('messages.duree') }}</h3>
                 <p>{!! trans('messages.desc_museum3') !!}</p>
+                <h3>{{ trans('messages.open_hour') }}</h3>
+                <p>
+                    {{ trans('messages.lundi') }} : {{ trans('messages.ferme') }}<br>
+                    {{ trans('messages.mardi') }} - {{ trans('messages.samedi') }} : 10h - 17h<br>
+                    {{ trans('messages.dimanche') }} : 11h - 16h<br>
+                </p>
                 <h3>{{ trans('messages.access') }}</h3>
                 <p>{!! trans('messages.access_details') !!}
                     <img style="width:50px;" src="{{ asset('/images/pmr.png') }}" alt="{{ trans('messages.access_img_alt') }}">

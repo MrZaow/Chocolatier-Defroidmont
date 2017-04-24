@@ -23,8 +23,7 @@ return [
     'ballotins_title' => 'Ballotins',
     'desc_ballotins' => 'Philippe et Christiane Defroidmont ont le plaisir de vous faire découvrir cet assortiment de pralines de grande qualité.',
     'desc' => 'Description',
-    'desc_details' => 'Philippe et Christiane Defroidmont ont le plaisir de vous faire découvrir cet assortiment de pralines de grande qualité fabriqué
-                    dans le respect de la tradition avec des notes tantôt fruitées, épicées, caramélisées suivant les saisons.',
+    'desc_details' => 'Philippe et Christiane Defroidmont ont le plaisir de vous faire découvrir cet assortiment de pralines de grande qualité fabriqué dans le respect de la tradition avec des notes tantôt fruitées, épicées, caramélisées suivant les saisons.',
     'tasty' => 'Goûts disponibles',
     'ass_black' => 'Assortiment de chocolats noirs',
     'ass_milk' => 'Assortiment de chocolats au lait',
@@ -105,8 +104,6 @@ return [
     'see_choco_here' => 'Visiter la galerie',
     'dont_hesitate' => 'N\'hésitez pas à passer vos commandes en ligne',
     'open_hour' => 'Heures d\'ouverture',
-    'open_hour_erezee' => 'Ouvert du mardi au samedi de 10h à 17h30 et le dimanche de 11h à 16h. Fermé le lundi.',
-    'open_hour_durbuy' => 'Ouvert tous les jours de 10h à 16h30 sauf le mardi et le mercredi.',
     'sell_chocolate' => 'Vente de chocolat',
     'sell_chocolate_details' => 'Vente de chocolat artisanal, dégustations et conseils.',
     'visit_museum' => 'Visite du musée',
@@ -166,6 +163,7 @@ return [
     'to_ci' => 'Chocolat Noir origine Côte d\'Ivoire 70%',
     'to_v' => 'Chocolat Noir origine Vietnam 73%',
     'to_o' => 'Chocolat Noir origine Ouganda 80%',
+    'to_ve' => "Chocolat Lait Venezuela 43 %",
 
     /**
      * Page thé
@@ -266,7 +264,7 @@ return [
     */
     'order_title' => 'Votre panier',
     'order_question' => 'Des questions à propos de votre commande ?',
-    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante ::
+    'order_help' => 'N\'hésitez pas à nous contacter à l\'adresse mail suivante :
                     <a href="mailto:contact@chocolatier-defroidmont.be"> contact@chocolatier-defroidmont.be</a>',
     'order_alt' => 'Équipe de la chocolaterie Defroidmont',
     'order_price' => 'Prix',
@@ -325,14 +323,91 @@ return [
 
     'delivery_title' => 'Information sur le pays de livraison',
     'delivery_belgique' => 'Livraison en Belgique',
-    'delivery_b_info'=> 'Au-dessus de 50€ d’achat, la livraison en Belgique est gratuite.
-            En dessous de 50€ d’achat, la livraison en Belgique coûte 3€.
-            La durée de livraison estimée en Belgique est de 2 à 4 jours ouvrés.',
+    'delivery_b_info'=> 'Au-dessus de 50€ d’achat, la livraison en Belgique est gratuite. En dessous de 50€ d’achat, la livraison en Belgique coûte 3€. La durée de livraison estimée en Belgique est de 2 à 4 jours ouvrés.',
     'delivery_all'=>'Livraison aux Pays-Bas, en France et en Allemagne',
-    'delivery_a_info' => 'Au-dessus de 50€ d’achat, la livraison coûte 9€.
-            En dessous de 50€ d’achat, la livraison coûte 16,80€.
-            La durée de livraison estimée aux Pays-Bas, en France et en Allemagne est de 3 à 5 jours ouvrés.',
+    'delivery_a_info' => 'Au-dessus de 50€ d’achat, la livraison coûte 9€. En dessous de 50€ d’achat, la livraison coûte 16,80€. La durée de livraison estimée aux Pays-Bas, en France et en Allemagne est de 3 à 5 jours ouvrés.',
+
+
+    /******
+    * PAGE SACHET OEUFS
+    *******/
+
+    'so_title' => 'Sachets d\'oeufs',
+    'so_desc' => 'Philippe et Christiane Defroidmont ont le plaisir de vous faire découvrir leurs assortiments de pâques',
+    //Oeufs au lait :
+    'milk' => 'Lait',
+    'so_milk_vene' => 'Lait Venezuela 43%',
+    'so_milk_noi' => 'Lait praliné noisette',
+    'so_milk_pra' => 'Lait praliné croustillant',
+    'so_milk_praco' => 'Lait praliné coco',
+    'so_milk_ca' => 'Lait caramel',
     
+    //Oeufs blanc
+    'white' => 'Blanc',
+    'so_white_ivory' => 'Blanc Côte d’Ivoire',
+    'so_white_noi' => 'Blanc praliné noisette',
+    'so_white_pra' => 'Blanc praliné croustillant',
+    'so_white_car' => 'Blanc caramel beurre salé',
+    'so_white_cre' => 'Blanc crème Manon',
+
+    //Oeufs noir 
+    'black' => 'Noir',
+    'so_black_ivory' => 'Noir Côte d’Ivoire 70%',
+    'so_black_noi' => 'Noir praliné noisette',
+    'so_black_pra' => 'Noir vanille',
+    'so_black_fram' => 'Noir framboise',
+    'so_black_ci' => 'Noir mandarine-citron',
+
+    /***
+    * PAGE LAPIN
+    ***/
+
+    'lap_title' => 'Petits lapins fourrés',
+    'lap_pra' => 'Blanc praliné croustillant',
+    'lap_noi' => 'Lait praliné noisette',
+    'lap_van' => 'Noir vanille',
+
+    /***
+    *OEUFS FOURRES
+    ****/
+    'of_title' => 'Oeufs fourrés',
+    'of_white_pra' => 'Blanc praliné croustillant',
+    'of_milk_pra' => 'Lait praliné croustillant',
+    'of_black_pra' => 'Noir praliné croustillant',
+
+    /****
+    * BALLOTINS OEUFS
+    ****/
+    'bo_title' => 'Ballotin d\'oeufs',
+    'ass_oeufs' => 'Assortiment d\'oeufs en chocolat',
+    'ass_oeufs500' => 'Assortiment d\'oeufs en chocolat 500g',
+    'ass_oeufs250' => 'Assortiment d\'oeufs en chocolat 250g',
+    /********
+    *Horaires
+    *******/
+    'lundi' => 'lundi',
+    'mardi' => 'mardi',
+    'mercredi' => 'mercredi',
+    'jeudi' => 'jeudi',
+    'vendredi' => 'vendredi',
+    'samedi' => 'samedi',
+    'dimanche' => 'dimanche',
+    'ferme' => "fermé",
+
+
+
+
+    'mu_entrance' => "Entrée musée",
+    'mu_enfant' => "Entrée enfant",
+    'mu_adulte' => "Entrée adulte",
+    'bird_adulte' => "Entrée birds and bees adulte",
+    'bird_enfant' => "Entrée birds and bees enfant",
+
+    'mu_reserve' => "Réserver vos entrées",
+    'mu_resbutton' => "Réserver",
+    'visit_mag' => "Voir nos produits",
+
+    'rupture' => 'rupture de stock'
 ];
 
 

@@ -29,12 +29,13 @@ return [
     /**
      * Page tablette origine
      */
-    'to_cr' => 'Chocolat Noir origine Costa Rica 64%',
-    'to_p' => 'Chocolat Noir origine Pérou 65% BIO',
-    'to_m' => 'Chocolat Noir origine Madagascar 67%',
-    'to_ci' => 'Chocolat Noir origine Côte d\'Ivoire 70%',
-    'to_v' => 'Chocolat Noir origine Vietnam 73%',
-    'to_o' => 'Chocolat Noir origine Ouganda 80%',
+    'to_cr' => 'Choco Noir Costa Rica 64%',
+    'to_p' => 'Choco Noir Pérou 65% BIO',
+    'to_m' => 'Choco Noir Madagascar 67%',
+    'to_ci' => 'Choco Noir Côte d\'Ivoire 70%',
+    'to_v' => 'Choco Noir Vietnam 73%',
+    'to_o' => 'Choco Noir Ouganda 80%',
+    'to_ve' => 'Choco lait Venezuela 43%',
 
     /**
      * Page thé
@@ -87,4 +88,48 @@ return [
     'ass_all350' => 'Assort tous chocolats 350g',
     'ass_all500' => 'Assort tous chocolats 500g',
 
+
+    'so_milk_vene' => 'oeufs lait venezu',
+    'so_milk_noi' => 'oeufs Lait praliné noiset',
+    'so_milk_pra' => 'oeufs Lait praliné crousti',
+    'so_milk_praco' => 'oeufs Lait praliné coco',
+    'so_milk_ca' => 'oeufs Lait caramel',
+    
+    //Oeufs blanc
+    'so_white_ivory' => 'oeufsBlanc d’Ivoire',
+    'so_white_noi' => 'oeufs Blanc praliné noiset',
+    'so_white_pra' => 'oeus Blanc praliné crousti',
+    'so_white_car' => 'oeufs Blanc caramel salé',
+    'so_white_cre' => 'oeufs Blanc crème Manon',
+
+    'so_black_ivory' => 'oeufs Noir d’Ivoire 70%',
+    'so_black_noi' => 'oeufs Noir praliné noisette',
+    'so_black_pra' => 'oeufs Noir vanille',
+    'so_black_fram' => 'oeufs Noir framboise',
+    'so_black_ci' => 'oeufs Noir mandarine-citron',
+
+    /***
+    * PAGE LAPIN
+    ***/
+    'lap_pra' => 'lapin Blanc praliné crousti',
+    'lap_noi' => 'lapin Lait praliné noise',
+    'lap_van' => 'lapin Noir vanille',
+
+    /***
+    *OEUFS FOURRES
+    ****/
+    'of_white_pra' => 'oeufs fourré Blanc prali crousti',
+    'of_milk_pra' => 'oeufs fourré Lait prali crousti',
+    'of_black_pra' => 'oeufs fourré Noir prali crousti',
+
+    /****
+    * BALLOTINS OEUFS
+    ****/
+    'ass_oeufs' => 'Assort d\'oeufs en chocolat',
+    'ass_oeufs500' => 'Assort d\'oeufs 500g',
+    'ass_oeufs250' => 'Assort d\'oeufs 250g',
+
+    'mu_entrance' => "Entrée musée",
+    'mu_enfant' => "Entrée enfant",
+    'mu_adulte' => "Entrée adulte",
 ];

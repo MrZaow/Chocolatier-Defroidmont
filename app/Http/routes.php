@@ -79,6 +79,22 @@ Route::group(['middleware' => ['web', 'localize'], 'prefix' => LaravelLocalizati
         return view('infos');
     }]);
 
+    Route::get(LaravelLocalization::transRoute('routes.sachet_oeufs'), ['as' => 'sachet_oeufs',function(){
+        return view('oeufs_sachet');
+    }]);
+
+    Route::get(LaravelLocalization::transRoute('routes.lapin'), ['as' => 'lapin',function(){
+        return view('lapin');
+    }]);
+
+    Route::get(LaravelLocalization::transRoute('routes.oeufs'), ['as' => 'oeufs',function(){
+        return view('oeufs_fourres');
+    }]);
+
+    Route::get(LaravelLocalization::transRoute('routes.b_oeufs'), ['as' => 'b_oeufs',function(){
+        return view('ballotin_oeufs');
+    }]);
+
     Route::get(LaravelLocalization::transRoute('routes.ballotins'), ['as' => 'ballotins',function(){
         return view('ballotins');
     }]);

@@ -9,6 +9,15 @@
 @endsection
 
 @section('main-content')
+
+    <!--- ACTION PROMO
+    <section id="title" class="orange">
+        <div class="container">
+            <div class="row">
+            </div>
+        </div>
+    </section>-->
+
     <section id="title" class="orange">
         <div class="container">
             <div class="row">
@@ -89,9 +98,21 @@
                         <div class="media-body">
                             <h3 class="media-heading">{{ trans('messages.open_hour') }}</h3>
                             <h4>Erezée</h4>
-                            <p>{{ trans('messages.open_hour_erezee') }}</p>
+                            <p style="font-weight: Bold">{{ trans('messages.lundi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.mardi') }} : 10h - 17h30<br>
+                                {{ trans('messages.mercredi') }} : 10h - 17h30<br>
+                                {{ trans('messages.jeudi') }} : 10h - 17h30<br>
+                                {{ trans('messages.vendredi') }} : 10h - 17h30<br>
+                                {{ trans('messages.samedi') }} : 10h - 17h30<br>
+                                {{ trans('messages.dimanche') }} : 11h - 16h</p>
                             <h4>Durbuy</h4>
-                            <p>{{ trans('messages.open_hour_durbuy') }}</p>
+                            <p style="font-weight: Bold">{{ trans('messages.lundi') }} : 14h - 18h<br>
+                                {{ trans('messages.mardi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.mercredi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.jeudi') }} : 14h - 18h<br>
+                                {{ trans('messages.vendredi') }} : 14h - 18h<br>
+                                {{ trans('messages.samedi') }} : 11h - 16h<br>
+                                {{ trans('messages.dimanche') }} : 11h - 16h</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -114,6 +135,17 @@
                         <div class="media-body">
                             <h3 class="media-heading">{{ trans('messages.visit_museum') }}</h3>
                             <p>{!! trans('messages.visit_museum_details') !!}</p>
+                            <h3>{{ trans('messages.open_hour') }}</h3>
+                            <p>
+                                {{ trans('messages.lundi') }} : {{ trans('messages.ferme') }}<br>
+                                {{ trans('messages.mardi') }} - {{ trans('messages.samedi') }} : 10h - 17h<br>
+                                {{ trans('messages.dimanche') }} : 11h - 16h<br>
+                            </p>
+                            <form action="{{ route('museum') }}">
+                                <button type="submit" class="btn btn-primary btn-lg">
+                                    {{ trans('messages.mu_reserve') }}
+                                </button>
+                            </form>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -136,8 +168,22 @@
                 <div class="col-md-9">
                     <div id="scroller" class="carousel slide">
                         <div class="carousel-inner">
+
+                            <!--PAQUE End-->
                             <div class="item active">
                                 <div class="row">
+                                    <div class="col-xs-4">
+                                        <div class="portfolio-item">
+                                            <div class="item-inner">
+                                                <a href="{{ route('batons_fourres') }}">
+                                                    <img id="produit" class="img-responsive" src="{{ asset('/images/baton.jpg') }}" alt="">
+                                                </a>
+                                                <h5>
+                                                    {{ trans('messages.fure_baton') }}
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
@@ -162,6 +208,10 @@
                                             </div>
                                         </div>
                                     </div>
+                                </div><!--/.row-->
+                            </div><!--/.item-->
+                            <div class="item">
+                                <div class="row">
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
@@ -174,10 +224,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div><!--/.row-->
-                            </div><!--/.item-->
-                            <div class="item">
-                                <div class="row">
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
@@ -198,18 +244,6 @@
                                                 </a>
                                                 <h5>
                                                     {{ trans('messages.origin_tablet') }}
-                                                </h5>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-4">
-                                        <div class="portfolio-item">
-                                            <div class="item-inner">
-                                                <a href="{{ route('batons_fourres') }}">
-                                                    <img id="produit" class="img-responsive" src="{{ asset('/images/baton.jpg') }}" alt="">
-                                                </a>
-                                                <h5>
-                                                    {{ trans('messages.fure_baton') }}
                                                 </h5>
                                             </div>
                                         </div>

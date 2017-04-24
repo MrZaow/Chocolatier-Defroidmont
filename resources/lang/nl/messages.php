@@ -254,7 +254,7 @@ return [
      */
     'menu_home' => 'Home',
     'menu_products' => 'Producten',
-    'menu_cart' => 'winkelwagentje',
+    'menu_cart' => 'mand',
     'menu_shops' => 'Onze winkels',
     'menu_museum' => 'Museum',
     'menu_easter' => 'Galerij',
@@ -309,11 +309,84 @@ return [
 
     'delivery_title'=>'Informatie over het land van levering',
     'delivery_belgique'=>'Levering in België',
-    'delivery_b_info'=>'Boven € 50 aankoop, levering in België is gratis.
-             Tot 50 € aankoop, levering in België kost € 3.
-             De levertijd geschat in België is 2-4 werkdagen. ',
+    'delivery_b_info'=>'Boven € 50 aankoop, levering in België is gratis. Tot 50 € aankoop, levering in België kost € 3. De levertijd geschat in België is 2-4 werkdagen. ',
     'delivery_all'=>'Levering in Nederland, Frankrijk en Duitsland',
     'delivery_a_info'=>'Boven € 50 aankoop, de levering kost € 9.
              Tot 50 € aankoop, de levering kost € 16,80.
              De levertijd naar schatting in Nederland, Frankrijk en Duitsland is 3 tot 5 dagen.',
+
+/******
+    * PAGE SACHET OEUFS
+    *******/
+
+    'so_title' => 'Bags of egg',
+    'so_desc' => 'Philippe and Christiane Defroidmont are pleased to show you their Easter assortments',
+    //Oeufs au lait :
+    'milk' => 'Milk',
+    'so_milk_vene' => 'Milk Venezuela 43%',
+    'so_milk_noi' => 'Hazelnut praline milk',
+    'so_milk_pra' => 'Crispy praline milk',
+    'so_milk_praco' => 'Coconut praline milk',
+    'so_milk_ca' => 'Caramel milk',
+    
+    //Oeufs blanc
+    'white' => 'White',
+    'so_white_ivory' => 'White Ivory Coast',
+    'so_white_noi' => 'White praline hazelnut',
+    'so_white_pra' => 'White praline crispy',
+    'so_white_car' => 'White caramel salted butter',
+    'so_white_cre' => 'White cream Manon',
+
+    //Oeufs noir 
+    'black' => 'Black',
+    'so_black_ivory' => 'Black Ivory Coast 70%',
+    'so_black_noi' => 'Black praline hazel',
+    'so_black_pra' => 'Black vanilla',
+    'so_black_fram' => 'Black raspberry',
+    'so_black_ci' => 'Black mandarin-lemon',
+
+    /***
+    * PAGE LAPIN
+    ***/
+
+    'lap_title' => 'Small cuddly rabbits',
+    'lap_pra' => 'White praline crispy',
+    'lap_noi' => 'Hazelnut praline milk',
+    'lap_van' => 'Black vanilla',
+
+    /***
+    *OEUFS FOURRES
+    ****/
+    'of_title' => 'Stuffed eggs',
+    'of_white_pra' => 'White praline crispy',
+    'of_milk_pra' => 'Crispy praline milk',
+    'of_black_pra' => 'Black praline crispy',
+
+    /****
+    * BALLOTINS OEUFS
+    ****/
+    'bo_title' => 'Egg Ballotin',
+    'ass_oeufs' => 'Assortment of chocolate eggs',
+    'ass_oeufs500' => 'Assortment of chocolate eggs 500g',
+    'ass_oeufs250' => 'Assortment of chocolate eggs 250g',
+
+    'lundi' => 'maandag',
+    'mardi' => 'dinsdag',
+    'mercredi' => 'woensdag',
+    'jeudi' => 'donderdag',
+    'vendredi' => 'rijdag',
+    'samedi' => 'zaterdag',
+    'dimanche' => 'zondag',
+    'ferme' => "gesloten",
+
+    'to_ve' => "Melkchocolade Venezuela 43%",
+    
+    'mu_entrance' => "binnenkomst museum",
+    'mu_enfant' => "kind binnenkomst",
+    'mu_adulte' => "volwassen toelating",
+    'mu_reserve' => "Boek je entries",
+    'mu_resbutton' => "reserveren",
+    'visit_mag' => "Zie onze producten",
+
+    'rupture' => 'Niet op voorraad'
 ];

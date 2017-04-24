@@ -23,26 +23,26 @@
     <section class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="{{ asset('/images/paques1.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+                <img src="{{ asset('/images/paques/galerie/gallerie1.jpg') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
             <div class="col-md-6">
-                <img src="{{ asset('/images/paques2.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <img src="{{ asset('/images/paques6.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
-            </div>
-            <div class="col-md-6">
-                <img src="{{ asset('/images/paques4.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+                <img src="{{ asset('/images/paques/galerie/gallerie2.jpg') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
-                <img src="{{ asset('/images/paques5.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+                <img src="{{ asset('/images/paques/galerie/gallerie3.jpg') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
             <div class="col-md-6">
-                <img src="{{ asset('/images/paques3.JPG') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+                <img src="{{ asset('/images/paques/galerie/gallerie4.jpg') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{{ asset('/images/paques/galerie/gallerie5.jpg') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
+            </div>
+            <div class="col-md-6">
+                <img src="{{ asset('/images/paques/galerie/gallerie6.jpg') }}" alt="{{ trans('messages.choco_easter') }}" class="img-responsive"><br>
             </div>
         </div>
     </section>

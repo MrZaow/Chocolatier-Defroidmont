@@ -13,6 +13,8 @@
 
 @include('layouts.partials.mainheader')
 
+<!-- @include('layouts.partials.promo')-->
+
 @yield('content-header')
 
 @yield('main-content')
