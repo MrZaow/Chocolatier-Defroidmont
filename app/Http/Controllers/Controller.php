@@ -207,7 +207,7 @@ class Controller extends BaseController
 
     public function Pay(Request $request)
     {
-        \Stripe\Stripe::setApiKey("sk_live_T7NjkW3MaXJWiK1626p0Hx7J");
+        \Stripe\Stripe::setApiKey("sk_test_X3dodEbp5o8btjufeTaY5GUl");
         $token = $_POST['stripeToken'];
 
         $fail = false;

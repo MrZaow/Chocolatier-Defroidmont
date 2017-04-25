@@ -63,7 +63,7 @@
                           {{ Form::hidden('finalPrice', $prixFinal) }}
                           <script
                             src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                            data-key="pk_live_9Z5pgtC2W1d4uf03pOkq6aiI"
+                            data-key="pk_test_y79G3cvvEmqvDHj3g4uDil2y"
                             data-amount= {{$prixFinal * 100}}
                             data-name="Chocolatier Defroidmont"
                             data-currency="EUR"
